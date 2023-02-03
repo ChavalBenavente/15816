@@ -47,6 +47,39 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/400653.ts
 #EXTINF:-1 tvg-chno="7.1" tvg-id="tvpublica.ar" tvg-name="Televisión Pública" tvg-logo="http://panel.tured.live:80/images/7rrEG-F0t8RQQWrko5sqSihbYM4ajZ-6Xg2TWIL5xGcTBcTT4FLSwfej4XxnT6QO8u1dFpHHM1PkNCocD8AlLFWNaXIeMDvQesvl0782Wcc.png",TV Pública
 http://panel.tured.live:80/mauri2022/mauri2022/99765.ts
 
+#EXTINF:-1 tvg-chno="8" tvg-id="CanalN.pe" tvg-name="Canal N",Canal N
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/623726.ts
+
+#EXTINF:-1 tvg-chno="9" tvg-id="ATV.pe" tvg-name"ATV", ATV
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-chno="10" tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-logo="http://panel.tured.live:80/images/e18e735852f9bd9f333d394050e22e0d.png",RPP TV
+http://panel.tured.live:80/mauri2022/mauri2022/99684.ts 
+
+#EXTINF:-1 tvg-chno="11" tvg-id=”bescablesportsperu.pe” tvg-name=”BESTCABLE SPORTS“ tvg-logo=”https://raw.githubusercontent.com/ChavalBenavente/LISTITA-BENAVENTIANA/main/Logo/BestCableSports.png”,BESTCABLE SPORTS
+http://nmstreaming.live:25461/UzielLCH/123456789/207962 
+
+#EXTINF:-1 tvg-chno="11.1" tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINATELEFE.jpg",Telefe
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/5167.ts
+
+#EXTINF:-1 tvg-id="GlobalTV.pe" tvg-chno="13" tvg-name="Global TV", Global TV
+http://panel.tured.live:80/Hector123/Hector123/173213.ts
+
+#EXTINF:-1 tvg-chno="13.1" tvg-id="el13.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/aC4qzqe.png",El Trece
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/5159.ts 
+
+#EXTINF:-1 tvg-chno="14" tvg-id="GOL PERU" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png",Gol Perú 
+http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
+
+
+
+
+
+
+
+
+
+
 
 
 
