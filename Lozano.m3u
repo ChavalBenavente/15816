@@ -19,3 +19,33 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/389735.ts
 
 #EXTINF:-1 tvg-chno="3.5" tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="http://iptvglobal.site:25461/images/5a57821055007ef407f4991556a89482.png",Antena 3
 http://panel.tured.live:80/Hector123/Hector123/229017.ts
+
+#EXTINF:-1 tvg-chno="4" tvg-id="america television" tvg-name="América Televisión" tvg-logo="https://i.imgur.com/vaVu9ow.jpg",América Televisión
+http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194929
+
+#EXTINF:-1 tvg-chno="4.1" tvg-id="CronicaTV.ar" tvg-name="CRÓNICA" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINACRONICA.jpg",Crónica
+http://teamnextlevel.xyz:25461/Cortez/Cortez/205243
+
+#EXTINF:-1 tvg-chno="4.5" tvg-id=”Cuatro.es” tvg-name=”Cuatro” tvg-logo=”http://iptvglobal.site:25461/images/64e2895fe535c3dbbb675717ce67e852.png",Cuatro
+http://panel.tured.live:80/Hector123/Hector123/93692.ts
+
+#EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV",Panamericana TV
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/584548.ts
+
+#EXTINF:-1 tvg-chno="5.5" tvg-id=”Telecinco.es” tvg-name=”TELECINCO” tvg-logo=”http://iptvglobal.site:25461/images/5ad332383ce0872e8c04a92ee6d19810.png",Telecinco
+http://panel.tured.live:80/Hector123/Hector123/229023.ts
+
+#EXTINF:-1 tvg-chno="6" tvg-id=”movistarplus.pe” tvg-name=”Movistar Plus” tvg-logo=”https://i.postimg.cc/GtMXBKjM/19894871-1750510471633586-2821184914832360189-n.png”,Movistar Plus
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/390882.ts
+
+#EXTINF:-1 tvg-chno="6.5" tvg-id=”La6.es” tvg-name=”LA SEXTA” tvg-logo=”http://iptvglobal.site:25461/images/913f42e41823ebcbc17b6f7ca14a6207.png”,La Sexta
+http://panel.tured.live:80/Hector123/Hector123/93704.ts
+
+
+
+
+
+
+
+
+
