@@ -1,1 +1,9 @@
+#EXTM3U
 
+
+
+#EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe" tvg-name="Willax TV",Willax TV
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/567538.ts
+
+#EXTINF:-1 tvg-chno="1.5" tvg-id=”la1.es” tvg-name=”La 1” tvg-logo=”http://nowresurface.eu:2086/images/1594d1f74719c1c1ef67ddac7907ccbe.png”,La 1
+http://panel.tured.live:80/Hector123/Hector123/229008.ts
