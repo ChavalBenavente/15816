@@ -41,9 +41,11 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/390882.ts
 #EXTINF:-1 tvg-chno="6.5" tvg-id=”La6.es” tvg-name=”LA SEXTA” tvg-logo=”http://iptvglobal.site:25461/images/913f42e41823ebcbc17b6f7ca14a6207.png”,La Sexta
 http://panel.tured.live:80/Hector123/Hector123/93704.ts
 
+#EXTINF:-1 tvg-chno="7" tvg-id="TVPeruNoticias.pe" tvg-name="TV Peru Noticias",TV Peru Noticias
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/400653.ts
 
-
-
+#EXTINF:-1 tvg-chno="7.1" tvg-id="tvpublica.ar" tvg-name="Televisión Pública" tvg-logo="http://panel.tured.live:80/images/7rrEG-F0t8RQQWrko5sqSihbYM4ajZ-6Xg2TWIL5xGcTBcTT4FLSwfej4XxnT6QO8u1dFpHHM1PkNCocD8AlLFWNaXIeMDvQesvl0782Wcc.png",TV Pública
+http://panel.tured.live:80/mauri2022/mauri2022/99765.ts
 
 
 
