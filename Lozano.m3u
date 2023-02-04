@@ -72,6 +72,9 @@ http://castlempire.site:8080/4201/4201/173634
 #EXTINF:-1 tvg-chno="12" tvg-id="" tvg-name="Movistar Estrenos 2" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+series+xtra-01.png",Movistar Estrenos 2
 http://castlempire.site:8080/4201/4201/173652
 
+#EXTINF:-1 tvg-chno="12.5" tvg-id="" tvg-name="Movistar Series 2" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png",Movistar Series 2
+http://castlempire.site:8080/4201/4201/173635
+
 #EXTINF:-1 tvg-id="GlobalTV.pe" tvg-chno="13" tvg-name="Global TV", Global TV
 http://panel.tured.live:80/Hector123/Hector123/173213.ts
 
@@ -84,8 +87,17 @@ http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
 #EXTINF:-1 tvg-chno="15" tvg-id="etc.cl" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/uyiPgGW.png",ETC TV
 http://panel.tured.live:80/mauri2022/mauri2022/107413.ts
 
+#EXTINF:-1 tvg-chno="15.5" tvg-id=”tnt.es” tvg-name=”TNT España” tvg-logo=”http://cpi4u.com:45862/images/35eba2825874ecd2dcd252efdcfba8e3.png”,TNT España
+http://listamy.com:8080/adolfo/adolfo/93228
+
 #EXTINF:-1 tvg-id="16" tvg-name="Movistar Acción" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png",Movistar Acción
 http://castlempire.site:8080/4201/4201/173631
+
+#EXTINF:-1 tvg-chno="17" tvg-id="calle13.es" tvg-name="Calle 13" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg",Calle 13
+http://listamy.com:8080/adolfo/adolfo/93216
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Cosmo" tvg-name="Cosmo" tvg-logo="http://nowresurface.eu:2086/images/0c437e9ba6ca7948362d4624b7bdc303.png",Cosmo
+http://listamy.com:8080/adolfo/adolfo/109742
 
 #EXTINF:-1 tvg-chno="19" tvg-id=”amc.es” tvg-name=”AMC España” tvg-logo=”http://iptvglobal.site:25461/images/a615120e6d3bbfe8ca0b5a38509b4cf7.png”,AMC España
 http://iptvglobal.site:25461/Moises/Moises/129533
@@ -93,17 +105,93 @@ http://iptvglobal.site:25461/Moises/Moises/129533
 #EXTINF:-1 tvg-chno="20" tvg-id="fox.es" tvg-name="FOX" tvg-logo="https://i.imgur.com/3Uqj0QH.png",FOX  HD
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/564125.ts 
 
+#EXTINF:-1 tvg-chno="21" tvg-id=”axnwhite.es” tvg-name=”AXN White España” tvg-logo=”http://mirror.streamhubtv.me:8080/images/89892b4830845317fb46634f6ea21665.png”,AXN White España
+http://shacktv.com:8080/jvs934/98js24/22052
+
+#EXTINF:-1 tvg-chno="22" tvg-id="SyFy.es" tvg-name="SyFy España" tvg-logo="http://shacktv.com:8080/logos1/Syfy.mx.png",SyFy España
+http://shacktv.com:8080/jvs934/98js24/21994
+
 #EXTINF:-1 tvg-chno="24" tvg-id=”comedycentral.es” tvg-name=”Comedy Central España” tvg-logo=”http://cpi4u.com:45862/images/5daae38532c46bb29b2f71930b4f2d82.png”,Comedy Central España
 http://nmstreaming.live:25461/UzielLCH/123456789/2100590 
 
 #EXTINF:-1 tvg-chno="30" tvg-id="" tvg-name="Movistar Estrenos" tvg-logo="",Movistar Estrenos
 http://castlempire.site:8080/4201/4201/173745
 
+#EXTINF:-1 tvg-chno="34" tvg-id="" tvg-name="Movistar Comedia" tvg-logo="http://castlempire.site:8080/images/55affa621060decf75fcd4fa73550c2d.png",Movistar Comedia
+http://castlempire.site:8080/4201/4201/173633 
+
+#EXTINF:-1 tvg-chno="35" tvg-id="moviestardrama.es" tvg-name="Movistar Drama" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/Drama-por-M_Blanco_RGB.jpg",Movistar Drama
+http://listamy.com:8080/adolfo/adolfo/93192
+
+#EXTINF:-1 tvg-chno="38" tvg-id="TCMSpain.es" tvg-name="TCM Spain", TCM Spain
+http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/168018
+
+#EXTINF:-1 tvg-chno="39" tvg-id="hollywood.es" tvg-name="Hollywood" tvg-logo="http://castlempire.site:8080/images/d052c3b53c436f6846f409793b478c81.png", Canal Hollywood
+http://castlempire.site:8080/4201/4201/173630
+
+#EXTINF:-1 tvg-chno="40" tvg-id=”sundance.es” tvg-name=”SUNDANCE TV” tvg-logo=”http://cpi4u.com:45862/images/c0eb5e1af4939d0fc1df3f17396e0ac4.png”,Sundance TV
+http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109970
+
+#EXTINF:-1 tvg-chno="41" tvg-id=”darkred.es” tvg-name=”DARK” tvg-logo=”http://cpi4u.com:45862/images/730fd04c1cd9abb2d52067b8635ee977.png”,Dark
+http://listamy.com:8080/adolfo/adolfo/511697
+
+#EXTINF:-1 tvg-chno="43" tvg-id=”paramount.es” tvg-name=”Paramount Network Esñaña” tvg-logo=”http://cpi4u.com:45862/images/da5e8049aecc3505e9304ce140840851.png”,Paramount Network España
+http://castlempire.site:8080/4201/4201/173651 
+
 #EXTINF:-1 tvg-chno="53" tvg-id=”DeportesMovistarPlus.es” tvg-name=”Movistar Deportes España” tvg-logo=”https://i.postimg.cc/Dwj4TXBP/Picsart-22-11-22-02-17-00-537.jpg”,Movistar Deportes España
 http://iptvglobal.site:25461/Moises/Moises/105203
 
+#EXTINF:-1 tvg-chno="63" tvg-id="gol.es" tvg-name="GOL" tvg-logo="https://i.imgur.com/Drw3kg5.png",Gol
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/397861.ts
+
+#EXTINF:-1 tvg-chno="64" tvg-id="" tvg-name="DAZN 1" tvg-logo="http://s0lc.net:8080/imagenes/22083.jpg",DAZN 1
+http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/22083
+
+#EXTINF:-1 tvg-chno="65" tvg-id="" tvg-name="DAZN 2" tvg-logo="http://s0lc.net:8080/imagenes/22084.jpg",DAZN 2
+http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/22084
+
 #EXTINF:-1 tvg-chno="66" tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 ES" tvg-logo="https://i.imgur.com/IGaAXkE.png",EUROSPORT 1
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/14485
+
+#EXTINF:-1 tvg-chno="70" tvg-id="" tvg-name="National Geographic España" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png",National Geographic España
+http://visionplay.me:8080/ITZIAHERN/31349/462845
+
+#EXTINF:-1 tvg-chno="71" tvg-id="National Geographic Wild España" tvg-name="National Geographic Wild España" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png",NatGeo WILD España
+http://visionplay.me:8080/ITZIAHERN/31349/462844
+
+#EXTINF:-1 tvg-chno="73" tvg-id=”discoverychannel.sp” tvg-name=”Discovery Channel España” tvg-logo=”http://mirror.streamhubtv.me:8080/images/be34fe9fbde58cdeb95658967017059f.png”,Discovery Channel España
+http://nmstreaming.live:25461/UzielLCH/123456789/2100604
+
+#EXTINF:-1 tvg-chno="78" tvg-id="AMC Crime" tvg-name="AMC Crime" tvg-logo="http://nowresurface.eu:2086/images/82354908d326d6b73c7b723c276ddefe.png",AMC Crime
+http://pofftvmax.com:2086/augusto/123456/4162
+
+#EXTINF:-1 tvg-chno="80" tvg-id="Canal Cocina" tvg-name="AMC Cocina" tvg-logo="http://nowresurface.eu:2086/images/99281303f6eab9edf2ec9f7ffde1bbaa.png",AMC Cocina
+http://pofftvmax.com:2086/augusto/123456/185
+
+#EXTINF:-1 tvg-chno="83" tvg-id=”mega.es” tvg-name=”MEGA” tvg-logo=”http://51.222.43.170:36995/images/bcc2706ee2a40a8028cdfdfc9d7140ed.jpg”,Mega España
+http://iptvglobal.site:25461/Moises/Moises/129525
+
+#EXTINF:-1 tvg-chno="91" tvg-id=”DisneyJr.es” tvg-name=”Disney Jr. España” tvg-logo=”http://nowresurface.eu:2086/images/bfaa929c0c7c801d0a72e201e2f19513.png”,Disney Jr. España
+http://pofftvmax.com:2086/augusto/123456/481
+
+#EXTINF:-1 tvg-chno="92" tvg-id=”DisneyChannel.es” tvg-name=”Disney Channel España” tvg-logo=”http://nowresurface.eu:2086/images/faad98defda5a207e361c6fe78ce3f55.png”,Disney Channel España
+http://nmstreaming.live:25461/UzielLCH/123456789/2100720
+
+#EXTINF:-1 tvg-chno="93" tvg-id=”” tvg-name=”Nick Jr. España” tvg-logo=”http://nowresurface.eu:2086/images/68f0e063af7ff04b4b7eeb362f50744c.png”,Nick Jr. España
+http://listamy.com:8080/adolfo/adolfo/93267
+
+#EXTINF:-1 tvg-chno="94" tvg-id=”” tvg-name=”Nickelodeon” tvg-logo=”http://nowresurface.eu:2086/images/b11cc9ad84502b27a63fa7a8d813ef6a.png”,Nickelodeon España
+http://listamy.com:8080/adolfo/adolfo/513503
+
+#EXTINF:-1 tvg-chno="95" tvg-id="" tvg-name="Dreamworks TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamworks
+http://listamy.com:8080/adolfo/adolfo/396882
+
+#EXTINF:-1 tvg-chno="98" tvg-id="Clan.es" tvg-name="Clan" tvg-logo="http://nowresurface.eu:2086/images/603c07e2735df19b9a7ce091d7453d2b.png",Clan
+http://pofftvmax.com:2086/augusto/123456/480
+
+#EXTINF:-1 tvg-chno="106" tvg-id="MTV España" tvg-name="MTV España" tvg-logo="http://nowresurface.eu:2086/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png",MTV España
+http://pofftvmax.com:2086/augusto/123456/205
+
 
 
 
