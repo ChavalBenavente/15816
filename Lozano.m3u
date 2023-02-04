@@ -204,6 +204,9 @@ http://pofftvmax.com:2086/augusto/123456/205
 #EXTINF:-1 tvg-chno="110" tvg-id="MovistarLaLiga.es" tvg-name="Movistar LaLiga" tvg-logo="http://streamgo.vip:8008/images/a34a7db237454cb394432edfa5a8dde8.png",Movistar LaLiga
 http://streamgo.vip:8008/tvclub/enVGNgzc3WTD/168547
 
+#EXTINF:-1 tvg-chno="112" tvg-id=”24horas.es” tvg-name=”24 HORAS” tvg-logo=”http://nowresurface.eu:2086/images/e16cd1b163497e713d103fa6c17428a5.jpg”,24 Horas
+http://iptvglobal.site:25461/Moises/Moises/152292
+
 #EXTINF:-1 tvg-chno="300" tvg-id="" tvg-name="LaLiga TV Bar" tvg-logo="http://streamgo.vip:8008/images/72c09d695471ab2d18c82ef696f21f33.png",LaLiga TV Bar
 http://streamgo.vip:8008/tvclub/enVGNgzc3WTD/168554
 
