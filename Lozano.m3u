@@ -141,6 +141,9 @@ http://listamy.com:8080/adolfo/adolfo/511697
 #EXTINF:-1 tvg-chno="43" tvg-id=”paramount.es” tvg-name=”Paramount Network Esñaña” tvg-logo=”http://cpi4u.com:45862/images/da5e8049aecc3505e9304ce140840851.png”,Paramount Network España
 http://castlempire.site:8080/4201/4201/173651 
 
+#EXTINF:-1 tvg-chno="44" tvg-id="energy.es" tvg-name="Energy" tvg-logo="http://castlempire.site:8080/images/2084d1464eaf1aa13eb49c24743adb76.png",Energy
+http://castlempire.site:8080/4201/4201/173626
+
 #EXTINF:-1 tvg-chno="53" tvg-id=”DeportesMovistarPlus.es” tvg-name=”Movistar Deportes España” tvg-logo=”https://i.postimg.cc/Dwj4TXBP/Picsart-22-11-22-02-17-00-537.jpg”,Movistar Deportes España
 http://iptvglobal.site:25461/Moises/Moises/105203
 
