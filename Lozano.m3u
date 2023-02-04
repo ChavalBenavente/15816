@@ -102,6 +102,9 @@ http://listamy.com:8080/adolfo/adolfo/109742
 #EXTINF:-1 tvg-chno="19" tvg-id=”amc.es” tvg-name=”AMC España” tvg-logo=”http://iptvglobal.site:25461/images/a615120e6d3bbfe8ca0b5a38509b4cf7.png”,AMC España
 http://iptvglobal.site:25461/Moises/Moises/129533
 
+#EXTINF:-1 tvg-chno="19.5" tvg-id="Movistar Cine Español" tvg-name="Movistar Cine Español" tvg-logo="",Movistar Ñ
+http://castlempire.site:8080/4201/4201/173746
+
 #EXTINF:-1 tvg-chno="20" tvg-id="fox.es" tvg-name="FOX" tvg-logo="https://i.imgur.com/3Uqj0QH.png",FOX  HD
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/564125.ts 
 
@@ -171,6 +174,9 @@ http://pofftvmax.com:2086/augusto/123456/185
 #EXTINF:-1 tvg-chno="83" tvg-id=”mega.es” tvg-name=”MEGA” tvg-logo=”http://51.222.43.170:36995/images/bcc2706ee2a40a8028cdfdfc9d7140ed.jpg”,Mega España
 http://iptvglobal.site:25461/Moises/Moises/129525
 
+#EXTINF:-1 tvg-chno="84" tvg-id="Odisea.es" tvg-name="Odisea" tvg-logo="https://static.epg.best/es/Odisea.es.png",Odisea
+http://visionplay.me:8080/ITZIAHERN/31349/462838 
+
 #EXTINF:-1 tvg-chno="91" tvg-id=”DisneyJr.es” tvg-name=”Disney Jr. España” tvg-logo=”http://nowresurface.eu:2086/images/bfaa929c0c7c801d0a72e201e2f19513.png”,Disney Jr. España
 http://pofftvmax.com:2086/augusto/123456/481
 
@@ -192,6 +198,9 @@ http://pofftvmax.com:2086/augusto/123456/480
 #EXTINF:-1 tvg-chno="106" tvg-id="MTV España" tvg-name="MTV España" tvg-logo="http://nowresurface.eu:2086/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png",MTV España
 http://pofftvmax.com:2086/augusto/123456/205
 
+#EXTINF:-1 tvg-chno="110" tvg-id="MovistarLaLiga.es" tvg-name="Movistar LaLiga" tvg-logo="http://streamgo.vip:8008/images/a34a7db237454cb394432edfa5a8dde8.png",Movistar LaLiga
+http://streamgo.vip:8008/tvclub/enVGNgzc3WTD/168547
 
-
+#EXTINF:-1 tvg-chno="300" tvg-id="" tvg-name="LaLiga TV Bar" tvg-logo="http://streamgo.vip:8008/images/72c09d695471ab2d18c82ef696f21f33.png",LaLiga TV Bar
+http://streamgo.vip:8008/tvclub/enVGNgzc3WTD/168554
 
