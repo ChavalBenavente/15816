@@ -126,7 +126,7 @@ http://castlempire.site:8080/4201/4201/173633
 #EXTINF:-1 tvg-chno="35" tvg-id="moviestardrama.es" tvg-name="Movistar Drama" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/Drama-por-M_Blanco_RGB.jpg",Movistar Drama
 http://listamy.com:8080/adolfo/adolfo/93192
 
-#EXTINF:-1 tvg-chno="38" tvg-id="TCMSpain.es" tvg-name="TCM Spain", TCM Spain
+#EXTINF:-1 tvg-chno="38" tvg-id="TCMS.es" tvg-name="TCM Spain", TCM Spain
 http://streamgo.vip:8008/etelio0416/enVGNgzc3WTD/168018
 
 #EXTINF:-1 tvg-chno="39" tvg-id="hollywood.es" tvg-name="Hollywood" tvg-logo="http://castlempire.site:8080/images/d052c3b53c436f6846f409793b478c81.png", Canal Hollywood
@@ -138,7 +138,7 @@ http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109970
 #EXTINF:-1 tvg-chno="41" tvg-id=”darkred.es” tvg-name=”DARK” tvg-logo=”http://cpi4u.com:45862/images/730fd04c1cd9abb2d52067b8635ee977.png”,Dark
 http://listamy.com:8080/adolfo/adolfo/511697
 
-#EXTINF:-1 tvg-chno="43" tvg-id=”paramount.es” tvg-name=”Paramount Network Esñaña” tvg-logo=”http://cpi4u.com:45862/images/da5e8049aecc3505e9304ce140840851.png”,Paramount Network España
+#EXTINF:-1 tvg-chno="43" tvg-id=”paramountchannel.es” tvg-name=”Paramount Network Esñaña” tvg-logo=”http://cpi4u.com:45862/images/da5e8049aecc3505e9304ce140840851.png”,Paramount Network España
 http://castlempire.site:8080/4201/4201/173651 
 
 #EXTINF:-1 tvg-chno="44" tvg-id="energy.es" tvg-name="Energy" tvg-logo="http://castlempire.site:8080/images/2084d1464eaf1aa13eb49c24743adb76.png",Energy
@@ -159,13 +159,13 @@ http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/22084
 #EXTINF:-1 tvg-chno="66" tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 ES" tvg-logo="https://i.imgur.com/IGaAXkE.png",EUROSPORT 1
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/14485
 
-#EXTINF:-1 tvg-chno="70" tvg-id="" tvg-name="National Geographic España" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png",National Geographic España
+#EXTINF:-1 tvg-chno="70" tvg-id="NAT GEO HD" tvg-name="National Geographic España" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png",National Geographic España
 http://visionplay.me:8080/ITZIAHERN/31349/462845
 
-#EXTINF:-1 tvg-chno="71" tvg-id="National Geographic Wild España" tvg-name="National Geographic Wild España" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png",NatGeo WILD España
+#EXTINF:-1 tvg-chno="71" tvg-id="NatGeoWild.es" tvg-name="National Geographic Wild España" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png",NatGeo WILD España
 http://visionplay.me:8080/ITZIAHERN/31349/462844
 
-#EXTINF:-1 tvg-chno="73" tvg-id=”discoverychannel.sp” tvg-name=”Discovery Channel España” tvg-logo=”http://mirror.streamhubtv.me:8080/images/be34fe9fbde58cdeb95658967017059f.png”,Discovery Channel España
+#EXTINF:-1 tvg-chno="73" tvg-id=”discoverychannel.es” tvg-name=”Discovery Channel España” tvg-logo=”http://mirror.streamhubtv.me:8080/images/be34fe9fbde58cdeb95658967017059f.png”,Discovery Channel España
 http://nmstreaming.live:25461/UzielLCH/123456789/2100604
 
 #EXTINF:-1 tvg-chno="78" tvg-id="AMC Crime" tvg-name="AMC Crime" tvg-logo="http://nowresurface.eu:2086/images/82354908d326d6b73c7b723c276ddefe.png",AMC Crime
@@ -180,16 +180,16 @@ http://iptvglobal.site:25461/Moises/Moises/129525
 #EXTINF:-1 tvg-chno="84" tvg-id="Odisea.es" tvg-name="Odisea" tvg-logo="https://static.epg.best/es/Odisea.es.png",Odisea
 http://visionplay.me:8080/ITZIAHERN/31349/462838 
 
-#EXTINF:-1 tvg-chno="91" tvg-id=”DisneyJr.es” tvg-name=”Disney Jr. España” tvg-logo=”http://nowresurface.eu:2086/images/bfaa929c0c7c801d0a72e201e2f19513.png”,Disney Jr. España
+#EXTINF:-1 tvg-chno="91" tvg-id=”DisneyJunior.es” tvg-name=”Disney Jr. España” tvg-logo=”http://nowresurface.eu:2086/images/bfaa929c0c7c801d0a72e201e2f19513.png”,Disney Jr. España
 http://pofftvmax.com:2086/augusto/123456/481
 
-#EXTINF:-1 tvg-chno="92" tvg-id=”DisneyChannel.es” tvg-name=”Disney Channel España” tvg-logo=”http://nowresurface.eu:2086/images/faad98defda5a207e361c6fe78ce3f55.png”,Disney Channel España
+#EXTINF:-1 tvg-chno="92" tvg-id=”Disney.es” tvg-name=”Disney Channel España” tvg-logo=”http://nowresurface.eu:2086/images/faad98defda5a207e361c6fe78ce3f55.png”,Disney Channel España
 http://nmstreaming.live:25461/UzielLCH/123456789/2100720
 
-#EXTINF:-1 tvg-chno="93" tvg-id=”” tvg-name=”Nick Jr. España” tvg-logo=”http://nowresurface.eu:2086/images/68f0e063af7ff04b4b7eeb362f50744c.png”,Nick Jr. España
+#EXTINF:-1 tvg-chno="93" tvg-id=”NICK JR” tvg-name=”Nick Jr. España” tvg-logo=”http://nowresurface.eu:2086/images/68f0e063af7ff04b4b7eeb362f50744c.png”,Nick Jr. España
 http://listamy.com:8080/adolfo/adolfo/93267
 
-#EXTINF:-1 tvg-chno="94" tvg-id=”” tvg-name=”Nickelodeon” tvg-logo=”http://nowresurface.eu:2086/images/b11cc9ad84502b27a63fa7a8d813ef6a.png”,Nickelodeon España
+#EXTINF:-1 tvg-chno="94" tvg-id=”NICKELODEON HD” tvg-name=”Nickelodeon” tvg-logo=”http://nowresurface.eu:2086/images/b11cc9ad84502b27a63fa7a8d813ef6a.png”,Nickelodeon España
 http://listamy.com:8080/adolfo/adolfo/513503
 
 #EXTINF:-1 tvg-chno="95" tvg-id="" tvg-name="Dreamworks TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamworks
@@ -201,12 +201,12 @@ http://pofftvmax.com:2086/augusto/123456/480
 #EXTINF:-1 tvg-chno="106" tvg-id="MTV España" tvg-name="MTV España" tvg-logo="http://nowresurface.eu:2086/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png",MTV España
 http://pofftvmax.com:2086/augusto/123456/205
 
-#EXTINF:-1 tvg-chno="110" tvg-id="MovistarLaLiga.es" tvg-name="Movistar LaLiga" tvg-logo="http://streamgo.vip:8008/images/a34a7db237454cb394432edfa5a8dde8.png",Movistar LaLiga
+#EXTINF:-1 tvg-chno="110" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga" tvg-logo="http://streamgo.vip:8008/images/a34a7db237454cb394432edfa5a8dde8.png",Movistar LaLiga
 http://streamgo.vip:8008/tvclub/enVGNgzc3WTD/168547
 
 #EXTINF:-1 tvg-chno="112" tvg-id=”24horas.es” tvg-name=”24 HORAS” tvg-logo=”http://nowresurface.eu:2086/images/e16cd1b163497e713d103fa6c17428a5.jpg”,24 Horas
 http://iptvglobal.site:25461/Moises/Moises/152292
 
-#EXTINF:-1 tvg-chno="300" tvg-id="" tvg-name="LaLiga TV Bar" tvg-logo="http://streamgo.vip:8008/images/72c09d695471ab2d18c82ef696f21f33.png",LaLiga TV Bar
+#EXTINF:-1 tvg-chno="300" tvg-id="LALIGATV BAR" tvg-name="LaLiga TV Bar" tvg-logo="http://streamgo.vip:8008/images/72c09d695471ab2d18c82ef696f21f33.png",LaLiga TV Bar
 http://streamgo.vip:8008/tvclub/enVGNgzc3WTD/168554
 
