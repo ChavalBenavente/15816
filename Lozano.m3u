@@ -66,13 +66,13 @@ http://nmstreaming.live:25461/UzielLCH/123456789/207962
 #EXTINF:-1 tvg-chno="11.1" tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINATELEFE.jpg",Telefe
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/5167.ts
 
-#EXTINF:-1 tvg-chno="11.5" tvg-id="" tvg-name="Movistar Series" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png",Movistar Series
+#EXTINF:-1 tvg-chno="11.5" tvg-id="M+ Series HD" tvg-name="Movistar Series" tvg-logo="",Movistar Series
 http://castlempire.site:8080/4201/4201/173634
 
-#EXTINF:-1 tvg-chno="12" tvg-id="" tvg-name="Movistar Estrenos 2" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+series+xtra-01.png",Movistar Estrenos 2
+#EXTINF:-1 tvg-chno="12" tvg-id="M+ Estrenos 2 HD" tvg-name="Movistar Estrenos 2" tvg-logo="",Movistar Estrenos 2
 http://castlempire.site:8080/4201/4201/173652
 
-#EXTINF:-1 tvg-chno="12.5" tvg-id="" tvg-name="Movistar Series 2" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png",Movistar Series 2
+#EXTINF:-1 tvg-chno="12.5" tvg-id="M+ Series 2 HD" tvg-name="Movistar Series 2" tvg-logo="",Movistar Series 2
 http://castlempire.site:8080/4201/4201/173635
 
 #EXTINF:-1 tvg-id="GlobalTV.pe" tvg-chno="13" tvg-name="Global TV", Global TV
@@ -90,7 +90,7 @@ http://panel.tured.live:80/mauri2022/mauri2022/107413.ts
 #EXTINF:-1 tvg-chno="15.5" tvg-id=”tnt.es” tvg-name=”TNT España” tvg-logo=”http://cpi4u.com:45862/images/35eba2825874ecd2dcd252efdcfba8e3.png”,TNT España
 http://listamy.com:8080/adolfo/adolfo/93228
 
-#EXTINF:-1 tvg-chno="16" tvg-name="Movistar Acción" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png",Movistar Acción
+#EXTINF:-1 tvg-chno="16" tvg-id="M+ Accion HD" tvg-name="Movistar Acción" tvg-logo="",Movistar Acción
 http://castlempire.site:8080/4201/4201/173631
 
 #EXTINF:-1 tvg-chno="17" tvg-id="calle13.es" tvg-name="Calle 13" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg",Calle 13
@@ -102,7 +102,7 @@ http://listamy.com:8080/adolfo/adolfo/109742
 #EXTINF:-1 tvg-chno="19" tvg-id=”amc.es” tvg-name=”AMC España” tvg-logo=”http://iptvglobal.site:25461/images/a615120e6d3bbfe8ca0b5a38509b4cf7.png”,AMC España
 http://iptvglobal.site:25461/Moises/Moises/129533
 
-#EXTINF:-1 tvg-chno="19.5" tvg-id="Movistar Cine Español" tvg-name="Movistar Cine Español" tvg-logo="",Movistar Ñ
+#EXTINF:-1 tvg-chno="19.5" tvg-id="M+Cine Español" tvg-name="Movistar Cine Español" tvg-logo="",Movistar Ñ
 http://castlempire.site:8080/4201/4201/173746
 
 #EXTINF:-1 tvg-chno="20" tvg-id="fox.es" tvg-name="FOX" tvg-logo="https://i.imgur.com/3Uqj0QH.png",FOX  HD
