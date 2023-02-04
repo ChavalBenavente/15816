@@ -6,7 +6,7 @@ https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485
 #EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe" tvg-name="Willax TV",Willax TV
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/567538.ts
 
-#EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno", Azteca Uno
+#EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://totalplayplanes.mx/s/totalplay-web/assets/img/canales/TvAbierta/canal-azteca.png", Azteca Uno
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/140407
 
 #EXTINF:-1 tvg-chno="1.5" tvg-id=”la1.es” tvg-name=”La 1” tvg-logo=”http://nowresurface.eu:2086/images/1594d1f74719c1c1ef67ddac7907ccbe.png”,La 1
@@ -21,7 +21,7 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/140400
 #EXTINF:-1 tvg-chno="2.5" tvg-id=”la2.es” tvg-name=”La 2” tvg-logo=”http://nowresurface.eu:2086/images/151a43ebad08472f764cca527fbf0fc9.png”,La 2
 http://panel.tured.live:80/Hector123/Hector123/229013.ts
 
-#EXTINF:-1 tvg-chno="3" tvg-id=”movistardeportes.pe” tvg-name=”Movistar Deportes” tvg-logo=”https://i.ibb.co/ZBVtnK2/MOVISTAR-DEPORTES-PERU.jpg”,Movistar Deportes
+#EXTINF:-1 tvg-chno="3" tvg-id=”movistardeportes.pe” tvg-name=”Movistar Deportes” tvg-logo=”ource?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F71%2F6718159_BE424D8C4C1AA0DF.png&height=60&resize=RATIO&format=PNG”,Movistar Deportes
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/389735.ts
 
 #EXTINF:-1 tvg-chno="3.5" tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png",Antena 3
@@ -154,7 +154,7 @@ http://castlempire.site:8080/4201/4201/173651
 http://castlempire.site:8080/4201/4201/173626
 
 #EXTINF:-1 tvg-chno="53" tvg-id=”M+DEPORTESHD” tvg-name=”Movistar Deportes España” tvg-logo=”https://i.postimg.cc/Dwj4TXBP/Picsart-22-11-22-02-17-00-537.jpg”,Movistar Deportes España
-http://iptvglobal.site:25461/Moises/Moises/105203
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/389735.ts
 
 #EXTINF:-1 tvg-chno="63" tvg-id="gol.es" tvg-name="GOL" tvg-logo="https://i.imgur.com/Drw3kg5.png",Gol
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/397861.ts
