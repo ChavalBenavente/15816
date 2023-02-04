@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-chno="0" tvg-id=" tvg-name="Gran Hermano", Gran Hermano
 
 #EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe" tvg-name="Willax TV",Willax TV
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/567538.ts
