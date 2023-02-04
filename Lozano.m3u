@@ -12,6 +12,9 @@ http://panel.tured.live:80/Hector123/Hector123/229008.ts
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-name="Latina",Latina
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/140659.ts
 
+#EXTINF:-1 tvg-chno="2.2" tvg-id="" tvg-name="Canal De Las Estrellas", Canal De Las Estrellas
+http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/140400
+
 #EXTINF:-1 tvg-chno="2.5" tvg-id=”la2.es” tvg-name=”La 2” tvg-logo=”http://nowresurface.eu:2086/images/151a43ebad08472f764cca527fbf0fc9.png”,La 2
 http://panel.tured.live:80/Hector123/Hector123/229013.ts
 
@@ -27,13 +30,13 @@ http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194929
 #EXTINF:-1 tvg-chno="4.1" tvg-id="CronicaTV.ar" tvg-name="CRÓNICA" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINACRONICA.jpg",Crónica
 http://teamnextlevel.xyz:25461/Cortez/Cortez/205243
 
-#EXTINF:-1 tvg-chno="4.6" tvg-id=”Cuatro.es” tvg-name=”Cuatro” tvg-logo=”http://iptvglobal.site:25461/images/64e2895fe535c3dbbb675717ce67e852.png",Cuatro
+#EXTINF:-1 tvg-chno="4" tvg-id=”Cuatro.es” tvg-name=”Cuatro” tvg-logo=”http://iptvglobal.site:25461/images/64e2895fe535c3dbbb675717ce67e852.png",Cuatro
 http://panel.tured.live:80/Hector123/Hector123/93692.ts
 
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV",Panamericana TV
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/584548.ts
 
-#EXTINF:-1 tvg-chno="5.6" tvg-id=”Telecinco.es” tvg-name=”TELECINCO” tvg-logo=”http://iptvglobal.site:25461/images/5ad332383ce0872e8c04a92ee6d19810.png",Telecinco
+#EXTINF:-1 tvg-chno="5" tvg-id=”Telecinco.es” tvg-name=”TELECINCO” tvg-logo=”http://iptvglobal.site:25461/images/5ad332383ce0872e8c04a92ee6d19810.png",Telecinco
 http://panel.tured.live:80/Hector123/Hector123/229023.ts
 
 #EXTINF:-1 tvg-chno="6" tvg-id=”movistarplus.pe” tvg-name=”Movistar Plus” tvg-logo=”https://i.postimg.cc/GtMXBKjM/19894871-1750510471633586-2821184914832360189-n.png”,Movistar Plus
@@ -49,7 +52,7 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/400653.ts
 http://panel.tured.live:80/mauri2022/mauri2022/99765.ts
 
 #EXTINF:-1 tvg-chno="8" tvg-id="CanalN.pe" tvg-name="Canal N",Canal N
-http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/623726.ts
+http://streamgo.vip:8008/rubi/rubi/166618
 
 #EXTINF:-1 tvg-chno="8.5" tvg-id="Boing.es" tvg-name="Boing" tvg-logo="http://shacktv.com:8080/logos1/ESBOING.jpg",Boing
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/42449.ts
