@@ -51,6 +51,9 @@ http://panel.tured.live:80/mauri2022/mauri2022/99765.ts
 #EXTINF:-1 tvg-chno="8" tvg-id="CanalN.pe" tvg-name="Canal N",Canal N
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/623726.ts
 
+#EXTINF:-1 tvg-chno="8.5" tvg-id="Boing.es" tvg-name="Boing" tvg-logo="http://shacktv.com:8080/logos1/ESBOING.jpg",Boing
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/42449.ts
+
 #EXTINF:-1 tvg-chno="9" tvg-id="ATV.pe" tvg-name"ATV", ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 
@@ -72,7 +75,8 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/5159.ts
 #EXTINF:-1 tvg-chno="14" tvg-id="GOL PERU" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png",Gol Perú 
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
 
-
+#EXTINF:-1 tvg-chno="15" tvg-id="etc.cl" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/uyiPgGW.png",ETC TV
+http://panel.tured.live:80/mauri2022/mauri2022/107413.ts
 
 
 
