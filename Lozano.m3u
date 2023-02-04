@@ -6,6 +6,9 @@ https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485
 #EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe" tvg-name="Willax TV",Willax TV
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/567538.ts
 
+#EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno", Azteca Uno
+http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/140407
+
 #EXTINF:-1 tvg-chno="1.5" tvg-id=”la1.es” tvg-name=”La 1” tvg-logo=”http://nowresurface.eu:2086/images/1594d1f74719c1c1ef67ddac7907ccbe.png”,La 1
 http://panel.tured.live:80/Hector123/Hector123/229008.ts
 
@@ -38,6 +41,9 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/584548.ts
 
 #EXTINF:-1 tvg-chno="5" tvg-id=”Telecinco.es” tvg-name=”TELECINCO” tvg-logo=”http://iptvglobal.site:25461/images/5ad332383ce0872e8c04a92ee6d19810.png",Telecinco
 http://panel.tured.live:80/Hector123/Hector123/229023.ts
+
+#EXTINF:-1 tvg-chno"5.2" tvg-id="Canal5.mx" tvg-name="Canal 5", Canal 5
+http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/140369
 
 #EXTINF:-1 tvg-chno="6" tvg-id=”movistarplus.pe” tvg-name=”Movistar Plus” tvg-logo=”https://i.postimg.cc/GtMXBKjM/19894871-1750510471633586-2821184914832360189-n.png”,Movistar Plus
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/390882.ts
