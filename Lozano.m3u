@@ -66,6 +66,12 @@ http://nmstreaming.live:25461/UzielLCH/123456789/207962
 #EXTINF:-1 tvg-chno="11.1" tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINATELEFE.jpg",Telefe
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/5167.ts
 
+#EXTINF:-1 tvg-chno="11.5" tvg-id="" tvg-name="Movistar Series" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png",Movistar Series
+http://castlempire.site:8080/4201/4201/173634
+
+#EXTINF:-1 tvg-chno="12" tvg-id="" tvg-name="Movistar Estrenos 2" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+series+xtra-01.png",Movistar Estrenos 2
+http://castlempire.site:8080/4201/4201/173652
+
 #EXTINF:-1 tvg-id="GlobalTV.pe" tvg-chno="13" tvg-name="Global TV", Global TV
 http://panel.tured.live:80/Hector123/Hector123/173213.ts
 
@@ -78,8 +84,8 @@ http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
 #EXTINF:-1 tvg-chno="15" tvg-id="etc.cl" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/uyiPgGW.png",ETC TV
 http://panel.tured.live:80/mauri2022/mauri2022/107413.ts
 
-#EXTINF:-1 tvg-chno="16" tvg-id=”comedycentral.es” tvg-name=”Comedy Central España” tvg-logo=”http://cpi4u.com:45862/images/5daae38532c46bb29b2f71930b4f2d82.png”,Comedy Central España
-http://nmstreaming.live:25461/UzielLCH/123456789/2100590
+#EXTINF:-1 tvg-id="16" tvg-name="Movistar Acción" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png",Movistar Acción
+http://castlempire.site:8080/4201/4201/173631
 
 #EXTINF:-1 tvg-chno="19" tvg-id=”amc.es” tvg-name=”AMC España” tvg-logo=”http://iptvglobal.site:25461/images/a615120e6d3bbfe8ca0b5a38509b4cf7.png”,AMC España
 http://iptvglobal.site:25461/Moises/Moises/129533
@@ -87,10 +93,17 @@ http://iptvglobal.site:25461/Moises/Moises/129533
 #EXTINF:-1 tvg-chno="20" tvg-id="fox.es" tvg-name="FOX" tvg-logo="https://i.imgur.com/3Uqj0QH.png",FOX  HD
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/564125.ts 
 
+#EXTINF:-1 tvg-chno="24" tvg-id=”comedycentral.es” tvg-name=”Comedy Central España” tvg-logo=”http://cpi4u.com:45862/images/5daae38532c46bb29b2f71930b4f2d82.png”,Comedy Central España
+http://nmstreaming.live:25461/UzielLCH/123456789/2100590 
+
 #EXTINF:-1 tvg-chno="30" tvg-id="" tvg-name="Movistar Estrenos" tvg-logo="",Movistar Estrenos
 http://castlempire.site:8080/4201/4201/173745
 
+#EXTINF:-1 tvg-chno="53" tvg-id=”M.Deportes.1.es” tvg-name=”Movistar Deportes España” tvg-logo=”https://i.postimg.cc/Dwj4TXBP/Picsart-22-11-22-02-17-00-537.jpg”,Movistar Deportes España
+http://iptvglobal.site:25461/Moises/Moises/105203
 
+#EXTINF:-1 tvg-chno="66" tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 ES" tvg-logo="https://i.imgur.com/IGaAXkE.png",EUROSPORT 1
+http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/14485
 
 
 
