@@ -189,7 +189,7 @@ http://pofftvmax.com:2086/augusto/123456/4162
 #EXTINF:-1 tvg-chno="80" tvg-id="Canal Cocina" tvg-name="AMC Cocina" tvg-logo="http://nowresurface.eu:2086/images/99281303f6eab9edf2ec9f7ffde1bbaa.png",AMC Cocina
 http://pofftvmax.com:2086/augusto/123456/185
 
-#EXTINF:-1 tvg-chno="83" tvg-id=”mega.es” tvg-name=”MEGA” tvg-logo=”https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEGA.png”,Mega
+#EXTINF:-1 tvg-chno="83" tvg-id=”Mega.es” tvg-name=”Mega” tvg-logo=”https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEGA.png”,Mega
 http://iptvglobal.site:25461/Moises/Moises/129525
 
 #EXTINF:-1 tvg-chno="84" tvg-id="Odisea.es" tvg-name="Odisea" tvg-logo="https://static.epg.best/es/Odisea.es.png",Odisea
