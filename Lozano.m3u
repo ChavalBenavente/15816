@@ -78,7 +78,7 @@ http://play.latvmia.com:8080/eddieel712/z4896KNpDa/1324924
 #EXTINF:-1 tvg-chno="11.5" tvg-id="M+ Series HD" tvg-name="Movistar Series" tvg-logo="",Movistar Series
 http://castlempire.site:8080/4201/4201/173634
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Liga 1 Max", Liga 1 Max
+#EXTINF:-1 tvg-chno="12" tvg-id="Liga 1 Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLdzxuEdG6ugwhhtB8pvhVWEW9cuyWjky02w&usqp=CAU", Liga 1 Max
 http://new-tv.cloud:25461/papa/papa/449044
 
 #EXTINF:-1 tvg-chno="12.5" tvg-id="M+ Estrenos 2 HD" tvg-name="Movistar Estrenos 2" tvg-logo="",Movistar Estrenos 2
