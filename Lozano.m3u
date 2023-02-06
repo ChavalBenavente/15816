@@ -21,7 +21,7 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/140400
 #EXTINF:-1 tvg-chno="2.5" tvg-id=”la2.es” tvg-name=”La 2” tvg-logo=”http://nowresurface.eu:2086/images/151a43ebad08472f764cca527fbf0fc9.png”,La 2
 http://panel.tured.live:80/Hector123/Hector123/229013.ts
 
-#EXTINF:-1 tvg-chno="3" tvg-id=”movistardeportes.pe” tvg-name=”Movistar Deportes” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/3/32/Movistar_Deportes.svgTIO&format=PNG”,Movistar Deportes
+#EXTINF:-1 tvg-chno="3" tvg-id=”movistardeportes.pe” tvg-name=”Movistar Deportes” tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrTFMjdnZid59p9MbuKZM6i7CmvNJnDKdq7A&usqp=CAU”,Movistar Deportes
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/389735.ts
 
 #EXTINF:-1 tvg-chno="3.5" tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png",Antena 3
