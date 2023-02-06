@@ -15,6 +15,9 @@ http://panel.tured.live:80/Hector123/Hector123/229008.ts
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-name="Latina",Latina
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/140659.ts
 
+#EXTINF:-1 tvg-chno="2.2" tvg-id="" tvg-name="America TV" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINAAMERICATV.jpg",America TV
+http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/1019
+
 #EXTINF:-1 tvg-chno="2.2" tvg-id="" tvg-name="Canal De Las Estrellas", Canal De Las Estrellas
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/140400
 
