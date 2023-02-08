@@ -233,3 +233,18 @@ http://club.multidanato.us:8080/MMunoz/Miguel1959/9082
 
 #EXTINF:-1 tvg-chno="300" tvg-id="LALIGATV BAR" tvg-name="LaLiga TV Bar" tvg-logo="http://streamgo.vip:8008/images/72c09d695471ab2d18c82ef696f21f33.png",LaLiga TV Bar
 http://club.multidanato.us:8080/MMunoz/Miguel1959/185
+
+EXTINF:-1 tvg-chno="601" tvg-id="DirecTVSportsPeru.pe" tvg-name="DirecTV Sports Peru" tvg-logo="https://i.imgur.com/OeAwpCW.png",DirecTV Sports Perú
+http://teamnextlevel.xyz:25461/Cortez/Cortez/223282
+
+#EXTINF:-1 tvg-chno="602" tvg-id="Dsports2.ar" tvg-name="Directv Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/640px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES HD",Directv Sports 2 ARG
+http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/2067.ts
+
+#EXTINF:-1 tvg-chno="621" tvg-id=”ESPNArgentina.ar” tvg-name=”ESPN Argentina”,ESPN Argentina
+http://teamnextlevel.xyz:25461/Cortez/Cortez/201550
+
+#EXTINF:-1 tvg-chno="622" tvg-id=”espn2peru.pe” tvg-name=”ESPN 2 Perú” tvg-logo=”http://iptvglobal.site:25461/images/3a60836f4120ffaa1201d3853c983f19.jpg” group-title=”Sports”,ESPN 2 Perú
+http://iptvglobal.site:25461/Moises/Moises/128621
+
+#EXTINF:-1 tvg-chno="623" tvg-id="ESPNExtraSouth.us" tvg-name="ESPN Extra South" tvg-logo="https://i.imgur.com/4VrK2WA.jpg" group-title="Deportes",ESPN Extra South
+http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
