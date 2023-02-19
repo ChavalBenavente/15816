@@ -251,3 +251,6 @@ http://iptvglobal.site:25461/Moises/Moises/128621
 
 #EXTINF:-1 tvg-chno="623" tvg-id="ESPNExtraSouth.us" tvg-name="ESPN Extra South" tvg-logo="https://i.imgur.com/4VrK2WA.jpg" group-title="Deportes",ESPN Extra South
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
+
+#EXTINF:-1 tvg-chno="714" tvg-id="Golperu.pe" tvg-name="Gol Peru", Gol Peru
+http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/10137
