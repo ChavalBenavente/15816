@@ -237,6 +237,10 @@ http://club.multidanato.us:8080/MMunoz/Miguel1959/9082
 #EXTINF:-1 tvg-chno="300" tvg-id="LALIGATV BAR" tvg-name="LaLiga TV Bar" tvg-logo="http://streamgo.vip:8008/images/72c09d695471ab2d18c82ef696f21f33.png",LaLiga TV Bar
 http://club.multidanato.us:8080/MMunoz/Miguel1959/185
 
+
+#EXTINF:-1 tvg-chno="402" tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
+http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/168917
+
 #EXTINF:-1 tvg-chno="601" tvg-id="DirecTVSportsPeru.pe" tvg-name="DirecTV Sports Peru" tvg-logo="https://i.imgur.com/OeAwpCW.png",DirecTV Sports Perú
 http://teamnextlevel.xyz:25461/Cortez/Cortez/223282
 
@@ -255,5 +259,3 @@ http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
 #EXTINF:-1 tvg-chno="714" tvg-id="Golperu.pe" tvg-name="Gol Peru", Gol Peru
 http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/10137
 
-#EXTINF:-1 tvg-chno="999" tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network", Cartoon Network
-http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/168917
