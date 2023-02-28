@@ -54,7 +54,7 @@ http://club.multidanato.us:8080/MMunoz/Miguel1959/120
 #EXTINF:-1 tvg-chno="6" tvg-id=”movistarplus.pe” tvg-name=”Movistar Plus” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png”,Movistar Plus
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/390882.ts
 
-#EXTINF:-1 tvg-chno="6.5" tvg-id=”La6.es” tvg-name=”LA SEXTA” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LaSexta_HD_Logo_2016.png/959px-LaSexta_HD_Logo_2016.png”,La Sexta
+#EXTINF:-1 tvg-chno="6.5" tvg-id=”La6.es” tvg-name=”LA SEXTA” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LaSexta_HD_Logo_2016.png/599px-LaSexta_HD_Logo_2016.png”, La Sexta
 http://panel.tured.live:80/Hector123/Hector123/93704.ts
 
 #EXTINF:-1 tvg-chno="7" tvg-id="TVPeruNoticias.pe" tvg-name="TV Peru Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/640px-TV_Per%C3%BA_Noticias_-_2019_logo.png", TV Peru Noticias
@@ -99,7 +99,7 @@ http://castlempire.site:8080/4201/4201/173635
 #EXTINF:-1 tvg-id="GlobalTV.pe" tvg-chno="13" tvg-name="Global TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png", Global TV
 http://panel.tured.live:80/Hector123/Hector123/173213.ts
 
-#EXTINF:-1 tvg-chno="13.1" tvg-id="el13.ar" tvg-name="El Trece" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMX54JuZ9WGe6MtS9jXyNcuv0Hlfz5jKnm5Gata4v_43pvBIToFYoWCbNr8nYn0rpOPmh6JcFJ5JRJPL0Dj9-2_XOKrEGxjluxjvlzzcE7qqVmi9Wi6YjZ36CSZooj0JtH0QW7DR7u0o1NllLBGknCVPocwQmYMzRWJWWIXwrOlzBN4FlBZcZVjmET/s512/Canal_13_2016.png",El Trece
+#EXTINF:-1 tvg-chno="13.1" tvg-id="el13.ar" tvg-name="El Trece" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0k5JSUDa63tgLP5Drj3ALslUqMWpK4W8cU9EvOhfbfD-4-eAlqfjfvMHD1KNXZvclnZZ4bcRFMpT9XDOxLF1SB55Wg40sFhykUQePmOOA-aV52c4mbO-Hl-TlBuD9uPqxNP2zddqobO1TLI__oHm9NsYhfwUm1vzw5QfO5IlCeD1DDeIPNTaiNkhJ/s512/Canal_13_1994.png", El Trece
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/5159.ts 
 
 #EXTINF:-1 tvg-chno="13.2" tvg-id="Bitme.mx" tvg-name="Bitme" tvg-logo="https://totalplayplanes.mx/s/totalplay-web/assets/img/canales/Infantiles/canal-bitme.png", Bitme
@@ -111,7 +111,7 @@ http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
 #EXTINF:-1 tvg-chno="15" tvg-id="etc.cl" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/uyiPgGW.png",ETC TV
 http://club.multidanato.us:8080/MMunoz/Miguel1959/365
 
-#EXTINF:-1 tvg-chno="15.5" tvg-id=”tnt.es” tvg-name=”TNT España” tvg-logo=”https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png”,TNT España
+#EXTINF:-1 tvg-chno="15.5" tvg-id=”tnt.es” tvg-name=”TNT España” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/768px-TNT_Logo_2016.svg.png”,TNT España
 http://listamy.com:8080/adolfo/adolfo/93228
 
 #EXTINF:-1 tvg-chno="16" tvg-id="M+ Accion HD" tvg-name="Movistar Acción" tvg-logo="",Movistar Acción
@@ -123,7 +123,7 @@ http://listamy.com:8080/adolfo/adolfo/93216
 #EXTINF:-1 tvg-chno="18" tvg-id="Cosmo" tvg-name="Cosmo" tvg-logo="http://nowresurface.eu:2086/images/0c437e9ba6ca7948362d4624b7bdc303.png",Cosmo
 http://listamy.com:8080/adolfo/adolfo/109742
 
-#EXTINF:-1 tvg-chno="19" tvg-id=”amc.es” tvg-name=”AMC España” tvg-logo=”http://iptvglobal.site:25461/images/a615120e6d3bbfe8ca0b5a38509b4cf7.png”,AMC España
+#EXTINF:-1 tvg-chno="19" tvg-id=”amc.es” tvg-name=”AMC España” tvg-logo=”https://www.analitica.com/wp-content/uploads/2014/10/AMC-logo-lowi-res-version.jpg”,AMC España
 http://club.multidanato.us:8080/MMunoz/Miguel1959/149
 
 #EXTINF:-1 tvg-chno="19.5" tvg-id="M+Cine Español" tvg-name="Movistar Cine Español" tvg-logo="",Movistar Ñ
@@ -138,7 +138,7 @@ http://club.multidanato.us:8080/MMunoz/Miguel1959/153
 #EXTINF:-1 tvg-chno="22" tvg-id="SyFy.es" tvg-name="SyFy España" tvg-logo="http://shacktv.com:8080/logos1/Syfy.mx.png",SyFy España
 http://shacktv.com:8080/jvs934/98js24/21994
 
-#EXTINF:-1 tvg-chno="24" tvg-id=”comedycentral.es” tvg-name=”Comedy Central España” tvg-logo=”https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PCM.png”,Comedy Central España
+#EXTINF:-1 tvg-chno="24" tvg-id=”comedycentral.es” tvg-name=”Comedy Central España” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/640px-Comedy_Central_2018.svg.png”,Comedy Central España
 http://nmstreaming.live:25461/UzielLCH/123456789/2100590 
 
 #EXTINF:-1 tvg-chno="30" tvg-id="M+Estrenos HD" tvg-name="Movistar Estrenos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png",Movistar Estrenos
