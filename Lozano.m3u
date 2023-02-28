@@ -12,7 +12,7 @@ http://club.multidanato.us:8080/MMunoz/Miguel1959/6085
 #EXTINF:-1 tvg-chno="1.5" tvg-id=”la1.es” tvg-name=”La 1” tvg-logo=”http://nowresurface.eu:2086/images/1594d1f74719c1c1ef67ddac7907ccbe.png”,La 1
 http://club.multidanato.us:8080/MMunoz/Miguel1959/9081
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-name="Latina",Latina
+#EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1280px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/140659.ts
 
 #EXTINF:-1 tvg-chno="2.1" tvg-id="" tvg-name="America TV" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINAAMERICATV.jpg",America TV
@@ -30,7 +30,7 @@ http://club.multidanato.us:8080/MMunoz/Miguel1959/12883
 #EXTINF:-1 tvg-chno="3.5" tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png",Antena 3
 http://panel.tured.live:80/Hector123/Hector123/229017.ts
 
-#EXTINF:-1 tvg-chno="4" tvg-id="america television" tvg-name="América Televisión" tvg-logo="https://i.imgur.com/vaVu9ow.jpg",América Televisión
+#EXTINF:-1 tvg-chno="4" tvg-id="america television" tvg-name="América Televisión" tvg-logo="https://pt.m.wikipedia.org/wiki/Am%C3%A9rica_Televisi%C3%B3n_(Peru)#/media/Ficheiro%3AAm%C3%A9rica_Televisi%C3%B3n.svg",América Televisión
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194929
 
 #EXTINF:-1 tvg-chno="4.1" tvg-id="CronicaTV.ar" tvg-name="CRÓNICA" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINACRONICA.jpg",Crónica
