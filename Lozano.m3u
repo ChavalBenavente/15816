@@ -241,6 +241,9 @@ http://club.multidanato.us:8080/MMunoz/Miguel1959/185
 #EXTINF:-1 tvg-chno="402" tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/168917
 
+#EXTINF:-1 tvg-chno="410" tvg-id="Nick.mx" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png", Nick
+http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/168930
+
 #EXTINF:-1 tvg-chno="601" tvg-id="DirecTVSportsPeru.pe" tvg-name="DirecTV Sports Peru" tvg-logo="https://i.imgur.com/OeAwpCW.png",DirecTV Sports Perú
 http://teamnextlevel.xyz:25461/Cortez/Cortez/223282
 
