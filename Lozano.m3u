@@ -63,13 +63,13 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/400653.ts
 #EXTINF:-1 tvg-chno="7.1" tvg-id="tvpublica.ar" tvg-name="Televisión Pública" tvg-logo="http://panel.tured.live:80/images/7rrEG-F0t8RQQWrko5sqSihbYM4ajZ-6Xg2TWIL5xGcTBcTT4FLSwfej4XxnT6QO8u1dFpHHM1PkNCocD8AlLFWNaXIeMDvQesvl0782Wcc.png",TV Pública
 http://panel.tured.live:80/mauri2022/mauri2022/99765.ts
 
-#EXTINF:-1 tvg-chno="8" tvg-id="CanalN.pe" tvg-name="Canal N",Canal N
+#EXTINF:-1 tvg-chno="8" tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="https://en.m.wikipedia.org/wiki/Canal_N#/media/File%3ACanal_N_2021.png", Canal N
 http://streamgo.vip:8008/rubi/rubi/166618
 
 #EXTINF:-1 tvg-chno="8.5" tvg-id="Boing.es" tvg-name="Boing" tvg-logo="http://shacktv.com:8080/logos1/ESBOING.jpg",Boing
 http://svtv.xyz:8080/PONCHO/PONCHO2022/55914
 
-#EXTINF:-1 tvg-chno="9" tvg-id="ATV.pe" tvg-name"ATV", ATV
+#EXTINF:-1 tvg-chno="9" tvg-id="ATV.pe" tvg-name"ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ATV_%28Peru%29_-_2018_logo.png/640px-ATV_%28Peru%29_-_2018_logo.png", ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-logo="http://panel.tured.live:80/images/e18e735852f9bd9f333d394050e22e0d.png",RPP TV
