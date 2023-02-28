@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-chno="1" tvg-id=" tvg-name="Gran Hermano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7mo9dnBnjZciNgpjzSVrqI6_WTIUZ4vjlA&usqp=CAU", Gran Hermano
 https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe" tvg-name="Willax TV",Willax TV
+#EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/640px-Willax_Televisi%C3%B3n_2020.png", Willax TV
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/567538.ts
 
 #EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://totalplayplanes.mx/s/totalplay-web/assets/img/canales/TvAbierta/canal-azteca.png", Azteca Uno
 http://club.multidanato.us:8080/MMunoz/Miguel1959/6085
 
-#EXTINF:-1 tvg-chno="1.5" tvg-id=”la1.es” tvg-name=”La 1” tvg-logo=”http://nowresurface.eu:2086/images/1594d1f74719c1c1ef67ddac7907ccbe.png”,La 1
+#EXTINF:-1 tvg-chno="1.5" tvg-id=”la1.es” tvg-name=”La 1” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1280px-Logo_TVE-1.svg.png”,La 1
 http://club.multidanato.us:8080/MMunoz/Miguel1959/9081
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1280px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina
@@ -18,13 +18,13 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/140659.ts
 #EXTINF:-1 tvg-chno="2.1" tvg-id="" tvg-name="America TV" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINAAMERICATV.jpg",America TV
 http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/1019
 
-#EXTINF:-1 tvg-chno="2.2" tvg-id="" tvg-name="Canal De Las Estrellas", Canal De Las Estrellas
+#EXTINF:-1 tvg-chno="2.2" tvg-id="" tvg-name="Canal De Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1280px-Las_Estrellas.svg.png", Canal De Las Estrellas
 http://club.multidanato.us:8080/MMunoz/Miguel1959/41
 
-#EXTINF:-1 tvg-chno="2.5" tvg-id=”la2.es” tvg-name=”La 2” tvg-logo=”http://nowresurface.eu:2086/images/151a43ebad08472f764cca527fbf0fc9.png”,La 2
+#EXTINF:-1 tvg-chno="2.5" tvg-id=”la2.es” tvg-name=”La 2” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1280px-Logo_TVE-2.svg.png”,La 2
 http://club.multidanato.us:8080/MMunoz/Miguel1959/9080
 
-#EXTINF:-1 tvg-chno="3" tvg-id=”movistardeportes.pe” tvg-name=”Movistar Deportes” tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrTFMjdnZid59p9MbuKZM6i7CmvNJnDKdq7A&usqp=CAU”,Movistar Deportes
+#EXTINF:-1 tvg-chno="3" tvg-id=”movistardeportes.pe” tvg-name=”Movistar Deportes” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/640px-Movistar_Deportes.svg.png”,Movistar Deportes
 http://club.multidanato.us:8080/MMunoz/Miguel1959/12883
 
 #EXTINF:-1 tvg-chno="3.5" tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png",Antena 3
