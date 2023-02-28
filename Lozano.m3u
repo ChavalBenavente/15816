@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-chno="1" tvg-id=" tvg-name="Gran Hermano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7mo9dnBnjZciNgpjzSVrqI6_WTIUZ4vjlA&usqp=CAU", Gran Hermano
 https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/640px-Willax_Televisi%C3%B3n_2020.png", Willax TV
+#EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe" tvg-name="WillaxTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/640px-Willax_Televisi%C3%B3n_2020.png", Willax TV
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/166620
 
 #EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://totalplayplanes.mx/s/totalplay-web/assets/img/canales/TvAbierta/canal-azteca.png", Azteca Uno
