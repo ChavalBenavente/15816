@@ -111,7 +111,7 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/272239
 #EXTINF:-1 tvg-chno="14" tvg-id="GOL PERU" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png",Gol Perú 
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
 
-#EXTINF:-1 tvg-chno="15" tvg-id="etc.cl" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",ETC TV
+#EXTINF:-1 tvg-chno="15" tvg-id="ETC.cl" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png", ETC TV
 http://club.multidanato.us:8080/MMunoz/Miguel1959/365
 
 #EXTINF:-1 tvg-chno="15.5" tvg-id="TNT.es" tvg-name="TNT España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/768px-TNT_Logo_2016.svg.png", TNT España
