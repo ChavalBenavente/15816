@@ -150,6 +150,9 @@ http://castlempire.site:8080/4201/4201/173633
 #EXTINF:-1 tvg-chno="35" tvg-id="M+ Drama HD" tvg-name="Movistar Drama" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png",Movistar Drama
 http://listamy.com:8080/adolfo/adolfo/93192
 
+#EXTINF:-1 tvg-chno="37" tvg-id="CNNChile.cl" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/480px-Logo_cnnchile.png", CNN Chile
+http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/58287
+
 #EXTINF:-1 tvg-chno="38" tvg-id="TCM.es" tvg-name="TCM Spain", TCM Spain
 http://club.multidanato.us:8080/MMunoz/Miguel1959/217
 
