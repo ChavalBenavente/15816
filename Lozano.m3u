@@ -24,7 +24,7 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/135431
 #EXTINF:-1 tvg-chno="2.5" tvg-id="La2.es" tvg-name="La 2" tvg-logo="http://streamgo.vip:8008/images/26b8b661c5ecf258a39694278ca284d9.png", La 2
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266082
 
-#EXTINF:-1 tvg-chno="3" tvg-id=”movistardeportes.pe” tvg-name=”Movistar Deportes” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png”,Movistar Deportes
+#EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes
 http://club.multidanato.us:8080/MMunoz/Miguel1959/12883
 
 #EXTINF:-1 tvg-chno="3.5" tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1280px-Antena_3_%282017%29.svg.png",Antena 3
@@ -51,7 +51,7 @@ http://club.multidanato.us:8080/MMunoz/Miguel1959/120
 #EXTINF:-1 tvg-chno="5.5" tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="http://streamgo.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png" , Telecinco
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266092 
 
-#EXTINF:-1 tvg-chno="6" tvg-id=”movistarplus.pe” tvg-name=”Movistar Plus” tvg-logo=”https://wikiwandv2-19431.kxcdn.com/_next/image?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8e%2FMovistar_Plus_%2528Peru%2529_-_2017_logo.png&w=1080&q=50”,Movistar Plus
+#EXTINF:-1 tvg-chno="6" tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8e%2FMovistar_Plus_%2528Peru%2529_-_2017_logo.png&w=1080&q=50", Movistar Plus
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/390882.ts
 
 #EXTINF:-1 tvg-chno="6.5" tvg-id=”La6.es” tvg-name=”LA SEXTA” tvg-logo=”http://streamgo.vip:8008/images/966ee4301686bd3293f32284a44274d5.png”, La Sexta
