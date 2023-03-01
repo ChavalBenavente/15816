@@ -7,10 +7,10 @@ https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/166620
 
 #EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://totalplayplanes.mx/s/totalplay-web/assets/img/canales/TvAbierta/canal-azteca.png", Azteca Uno
-http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/140407
+http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/254426
 
-#EXTINF:-1 tvg-chno="1.5" tvg-id=”la1.es” tvg-name=”La 1” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/538px-Logo_TVE-1.svg.png”,La 1
-http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/168085
+#EXTINF:-1 tvg-chno="1.5" tvg-id=”la1.es” tvg-name=”La 1” tvg-logo=”http://streamgo.vip:8008/images/1186f39f3c2ff7dcf5600c76cddb6a47.png”,La 1
+http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266078
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1280px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/140659.ts
@@ -237,6 +237,8 @@ http://club.multidanato.us:8080/MMunoz/Miguel1959/9082
 #EXTINF:-1 tvg-chno="300" tvg-id="LALIGATV BAR" tvg-name="LaLiga TV Bar" tvg-logo="http://streamgo.vip:8008/images/72c09d695471ab2d18c82ef696f21f33.png",LaLiga TV Bar
 http://club.multidanato.us:8080/MMunoz/Miguel1959/185
 
+#EXTINF:-1 tvg-chno="303" tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="http://streamgo.vip:8008/images/860d7a11d8d872615d5529ee04c2acd1.png", TLC
+http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/276829
 
 #EXTINF:-1 tvg-chno="402" tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/168917
