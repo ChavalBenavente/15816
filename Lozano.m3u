@@ -216,6 +216,9 @@ http://visionplay.me:8080/ITZIAHERN/31349/462838
 #EXTINF:-1 tvg-chno="91" tvg-id=”DisneyJunior.es” tvg-name=”Disney Jr. España” tvg-logo=”http://nowresurface.eu:2086/images/bfaa929c0c7c801d0a72e201e2f19513.png”,Disney Jr. España
 http://pofftvmax.com:2086/augusto/123456/481
 
+#EXTINF:-1 tvg-chno="92" tvg-id="Disney.es" tvg-name="Disney Channel" tvg-logo="https://en.m.wikipedia.org/wiki/Disney_Channel_(Spanish_TV_channel)#/media/File%3ADisneyChannelEMEA.svg", Disney Channel
+http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266011
+
 #EXTINF:-1 tvg-chno="92" tvg-id=”Disney.es” tvg-name=”Disney Channel España” tvg-logo=”https://en.m.wikipedia.org/wiki/Disney_Channel_(Spanish_TV_channel)#/media/File%3ADisneyChannelEMEA.svg”,Disney Channel España
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266011
 
