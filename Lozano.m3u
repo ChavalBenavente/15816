@@ -45,7 +45,7 @@ http://panel.tured.live:80/Hector123/Hector123/93692.ts
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/698px-Panamericana-tv.svg.png", Panamericana TV
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/584548.ts
 
-#EXTINF:-1 tvg-chno="5.5" tvg-id=”Telecinco.es” tvg-name=”TELECINCO” tvg-logo=”http://streamgo.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png",Telecinco
+#EXTINF:-1 tvg-chno="5.5" tvg-id=”Telecinco.es” tvg-name=”TELECINCO” tvg-logo=”",Telecinco
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266092
 
 #EXTINF:-1 tvg-chno"5.2" tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1280px-Canal_5_Mexico_logo_2014.svg.png", Canal 5
@@ -264,5 +264,5 @@ http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
 #EXTINF:-1 tvg-chno="714" tvg-id="Golperu.pe" tvg-name="Gol Peru", Gol Peru
 http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/10137
 
-#EXTINF:-1 tvg-chno="5.5" tvg-id="5" tvg-name="5", 5
-http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/10137
+#EXTINF:-1 tvg-chno="5.5" tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="http://streamgo.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png" , Telecinco
+http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266092
