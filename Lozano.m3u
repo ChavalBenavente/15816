@@ -9,7 +9,7 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/166620
 #EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://totalplayplanes.mx/s/totalplay-web/assets/img/canales/TvAbierta/canal-azteca.png", Azteca Uno
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/254426
 
-#EXTINF:-1 tvg-chno="1.5" tvg-id=”la1.es” tvg-name=”La 1” tvg-logo=”http://streamgo.vip:8008/images/1186f39f3c2ff7dcf5600c76cddb6a47.png”,La 1
+#EXTINF:-1 tvg-chno="1.5" tvg-id="La1.es" tvg-name="La 1" tvg-logo="http://streamgo.vip:8008/images/1186f39f3c2ff7dcf5600c76cddb6a47.png", La 1
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266078
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1280px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina
@@ -21,7 +21,7 @@ http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/1019
 #EXTINF:-1 tvg-chno="2.2" tvg-id="" tvg-name="Canal De Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1280px-Las_Estrellas.svg.png", Canal De Las Estrellas
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/135431
 
-#EXTINF:-1 tvg-chno="2.5" tvg-id=”la2.es” tvg-name=”La 2” tvg-logo=”http://streamgo.vip:8008/images/26b8b661c5ecf258a39694278ca284d9.png”,La 2
+#EXTINF:-1 tvg-chno="2.5" tvg-id="La2.es" tvg-name="La 2" tvg-logo="http://streamgo.vip:8008/images/26b8b661c5ecf258a39694278ca284d9.png", La 2
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266082
 
 #EXTINF:-1 tvg-chno="3" tvg-id=”movistardeportes.pe” tvg-name=”Movistar Deportes” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png”,Movistar Deportes
@@ -45,7 +45,7 @@ http://panel.tured.live:80/Hector123/Hector123/93692.ts
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/698px-Panamericana-tv.svg.png", Panamericana TV
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/584548.ts
 
-#EXTINF:-1 tvg-chno"5.2" tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1280px-Canal_5_Mexico_logo_2014.svg.png", Canal 5
+#EXTINF:-1 tvg-chno="5.2" tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1280px-Canal_5_Mexico_logo_2014.svg.png", Canal 5
 http://club.multidanato.us:8080/MMunoz/Miguel1959/120
 
 #EXTINF:-1 tvg-chno="5.5" tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="http://streamgo.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png" , Telecinco
