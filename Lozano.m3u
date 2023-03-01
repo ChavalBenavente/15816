@@ -54,7 +54,7 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266092
 #EXTINF:-1 tvg-chno="6" tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8e%2FMovistar_Plus_%2528Peru%2529_-_2017_logo.png&w=1080&q=50", Movistar Plus
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/390882.ts
 
-#EXTINF:-1 tvg-chno="6.5" tvg-id=”La6.es” tvg-name=”LA SEXTA” tvg-logo=”http://streamgo.vip:8008/images/966ee4301686bd3293f32284a44274d5.png”, La Sexta
+#EXTINF:-1 tvg-chno="6.5" tvg-id="La6.es" tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LaSexta_HD_Logo_2016.png/1278px-LaSexta_HD_Logo_2016.png", La Sexta
 http://panel.tured.live:80/Hector123/Hector123/93704.ts
 
 #EXTINF:-1 tvg-chno="7" tvg-id="TVPeruNoticias.pe" tvg-name="TV Peru Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/640px-TV_Per%C3%BA_Noticias_-_2019_logo.png", TV Peru Noticias
@@ -63,7 +63,7 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/400653.ts
 #EXTINF:-1 tvg-chno="7.1" tvg-id="tvpublica.ar" tvg-name="Televisión Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/640px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",TV Pública
 http://panel.tured.live:80/mauri2022/mauri2022/99765.ts
 
-#EXTINF:-1 tvg-chno="8" tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="https://logos.fandom.com/es/wiki/Canal_N?file=Canal_N_2021.svg", Canal N
+#EXTINF:-1 tvg-chno="8" tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Canaln2006.png", Canal N
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/166618
 
 #EXTINF:-1 tvg-chno="8.5" tvg-id="Boing.es" tvg-name="Boing" tvg-logo="http://shacktv.com:8080/logos1/ESBOING.jpg",Boing
@@ -111,10 +111,10 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/272239
 #EXTINF:-1 tvg-chno="14" tvg-id="GOL PERU" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png",Gol Perú 
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
 
-#EXTINF:-1 tvg-chno="15" tvg-id="etc.cl" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/uyiPgGW.png",ETC TV
+#EXTINF:-1 tvg-chno="15" tvg-id="etc.cl" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",ETC TV
 http://club.multidanato.us:8080/MMunoz/Miguel1959/365
 
-#EXTINF:-1 tvg-chno="15.5" tvg-id=”tnt.es” tvg-name=”TNT España” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/768px-TNT_Logo_2016.svg.png”,TNT España
+#EXTINF:-1 tvg-chno="15.5" tvg-id="TNT.es" tvg-name="TNT España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/768px-TNT_Logo_2016.svg.png", TNT España
 http://listamy.com:8080/adolfo/adolfo/93228
 
 #EXTINF:-1 tvg-chno="16" tvg-id="M+ Accion HD" tvg-name="Movistar Acción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/1024px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Acción
@@ -144,19 +144,19 @@ http://shacktv.com:8080/jvs934/98js24/21994
 #EXTINF:-1 tvg-chno="24" tvg-id="ComedyCentral.es" tvg-name="Comedy Central España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/640px-Comedy_Central_2018.svg.png", Comedy Central España
 http://nmstreaming.live:25461/UzielLCH/123456789/2100590 
 
-#EXTINF:-1 tvg-chno="30" tvg-id="M+Estrenos HD" tvg-name="Movistar Estrenos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png",Movistar Estrenos
+#EXTINF:-1 tvg-chno="30" tvg-id="M+Estrenos HD" tvg-name="Movistar Estrenos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1024px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Estrenos
 http://castlempire.site:8080/4201/4201/173745
 
-#EXTINF:-1 tvg-chno="34" tvg-id="M+ Comedia HD" tvg-name="Movistar Comedia" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png",Movistar Comedia
+#EXTINF:-1 tvg-chno="34" tvg-id="M+ Comedia HD" tvg-name="Movistar Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Comedia_por_Movistar_Plus%2B_2022_logo.svg/1024px-Comedia_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Comedia
 http://castlempire.site:8080/4201/4201/173633 
 
-#EXTINF:-1 tvg-chno="35" tvg-id="M+ Drama HD" tvg-name="Movistar Drama" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png",Movistar Drama
+#EXTINF:-1 tvg-chno="35" tvg-id="M+ Drama HD" tvg-name="Movistar Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1024px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Drama
 http://listamy.com:8080/adolfo/adolfo/93192
 
 #EXTINF:-1 tvg-chno="37" tvg-id="CNNChile.cl" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/480px-Logo_cnnchile.png", CNN Chile
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/58287
 
-#EXTINF:-1 tvg-chno="38" tvg-id="TCM.es" tvg-name="TCM Spain", TCM Spain
+#EXTINF:-1 tvg-chno="38" tvg-id="TCM.es" tvg-name="TCM Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1024px-TCM_logo.svg.png", TCM Spain
 http://club.multidanato.us:8080/MMunoz/Miguel1959/217
 
 #EXTINF:-1 tvg-chno="39" tvg-id="hollywood.es" tvg-name="Hollywood" tvg-logo="http://castlempire.site:8080/images/d052c3b53c436f6846f409793b478c81.png", Canal Hollywood
