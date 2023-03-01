@@ -84,16 +84,16 @@ http://nmstreaming.live:25461/UzielLCH/123456789/207962
 #EXTINF:-1 tvg-chno="11.1" tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",Telefe
 http://play.latvmia.com:8080/eddieel712/z4896KNpDa/1324924
 
-#EXTINF:-1 tvg-chno="11.5" tvg-id="M+ Series HD" tvg-name="Movistar Series" tvg-logo="",Movistar Series
+#EXTINF:-1 tvg-chno="11.5" tvg-id="M+ Series HD" tvg-name="Movistar Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/1024px-Series_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Series
 http://castlempire.site:8080/4201/4201/173634
 
 #EXTINF:-1 tvg-chno="12" tvg-id="Liga 1 Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLdzxuEdG6ugwhhtB8pvhVWEW9cuyWjky02w&usqp=CAU", Liga 1 Max
 http://club.multidanato.us:8080/MMunoz/Miguel1959/107480
 
-#EXTINF:-1 tvg-chno="12.5" tvg-id="M+ Estrenos 2 HD" tvg-name="Movistar Estrenos 2" tvg-logo="",Movistar Estrenos 2
+#EXTINF:-1 tvg-chno="12.5" tvg-id="M+ Estrenos 2 HD" tvg-name="Movistar Estrenos 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Estrenos 2
 http://castlempire.site:8080/4201/4201/173652
 
-#EXTINF:-1 tvg-chno="13.5" tvg-id="M+ Series 2 HD" tvg-name="Movistar Series 2" tvg-logo="",Movistar Series 2
+#EXTINF:-1 tvg-chno="13.5" tvg-id="M+ Series 2 HD" tvg-name="Movistar Series 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Series 2
 http://castlempire.site:8080/4201/4201/173635
 
 #EXTINF:-1 tvg-id="GlobalTV.pe" tvg-chno="13" tvg-name="Global TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png", Global TV
@@ -117,7 +117,7 @@ http://club.multidanato.us:8080/MMunoz/Miguel1959/365
 #EXTINF:-1 tvg-chno="15.5" tvg-id=”tnt.es” tvg-name=”TNT España” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/768px-TNT_Logo_2016.svg.png”,TNT España
 http://listamy.com:8080/adolfo/adolfo/93228
 
-#EXTINF:-1 tvg-chno="16" tvg-id="M+ Accion HD" tvg-name="Movistar Acción" tvg-logo="",Movistar Acción
+#EXTINF:-1 tvg-chno="16" tvg-id="M+ Accion HD" tvg-name="Movistar Acción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/1024px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Acción
 http://castlempire.site:8080/4201/4201/173631
 
 #EXTINF:-1 tvg-chno="17" tvg-id="calle13.es" tvg-name="Calle 13" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CL13.png",Calle 13
@@ -141,7 +141,7 @@ http://club.multidanato.us:8080/MMunoz/Miguel1959/153
 #EXTINF:-1 tvg-chno="22" tvg-id="SyFy.es" tvg-name="SyFy España" tvg-logo="http://shacktv.com:8080/logos1/Syfy.mx.png",SyFy España
 http://shacktv.com:8080/jvs934/98js24/21994
 
-#EXTINF:-1 tvg-chno="24" tvg-id=”comedycentral.es” tvg-name=”Comedy Central España” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/640px-Comedy_Central_2018.svg.png”,Comedy Central España
+#EXTINF:-1 tvg-chno="24" tvg-id="ComedyCentral.es" tvg-name="Comedy Central España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/640px-Comedy_Central_2018.svg.png", Comedy Central España
 http://nmstreaming.live:25461/UzielLCH/123456789/2100590 
 
 #EXTINF:-1 tvg-chno="30" tvg-id="M+Estrenos HD" tvg-name="Movistar Estrenos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png",Movistar Estrenos
