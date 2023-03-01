@@ -135,7 +135,7 @@ http://castlempire.site:8080/4201/4201/173746
 #EXTINF:-1 tvg-chno="20" tvg-id="fox.es" tvg-name="FOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png",FOX  HD
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/564125.ts 
 
-#EXTINF:-1 tvg-chno="21" tvg-id=”axnwhite.es” tvg-name=”AXN White” tvg-logo=””,AXN White HD
+#EXTINF:-1 tvg-chno="21" tvg-id=”axnwhite.es” tvg-name=”AXN White” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png", AXN White
 http://club.multidanato.us:8080/MMunoz/Miguel1959/153
 
 #EXTINF:-1 tvg-chno="22" tvg-id="SyFy.es" tvg-name="SyFy España" tvg-logo="http://shacktv.com:8080/logos1/Syfy.mx.png",SyFy España
@@ -144,13 +144,13 @@ http://shacktv.com:8080/jvs934/98js24/21994
 #EXTINF:-1 tvg-chno="24" tvg-id="ComedyCentral.es" tvg-name="Comedy Central España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/640px-Comedy_Central_2018.svg.png", Comedy Central España
 http://nmstreaming.live:25461/UzielLCH/123456789/2100590 
 
-#EXTINF:-1 tvg-chno="30" tvg-id="M+Estrenos HD" tvg-name="Movistar Estrenos" tvg-logo="", Movistar Estrenos HD
+#EXTINF:-1 tvg-chno="30" tvg-id="M+Estrenos HD" tvg-name="Movistar Estrenos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1280px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png", Movistar Estrenos HD
 http://castlempire.site:8080/4201/4201/173745
 
-#EXTINF:-1 tvg-chno="34" tvg-id="M+ Comedia HD" tvg-name="Movistar Comedia" tvg-logo="", Movistar Comedia HD
+#EXTINF:-1 tvg-chno="34" tvg-id="M+ Comedia HD" tvg-name="Movistar Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Comedia_por_Movistar_Plus%2B_2022_logo.svg/1280px-Comedia_por_Movistar_Plus%2B_2022_logo.svg.png", Movistar Comedia
 http://castlempire.site:8080/4201/4201/173633 
 
-#EXTINF:-1 tvg-chno="35" tvg-id="M+ Drama HD" tvg-name="Movistar Drama" tvg-logo="", Movistar Drama HD
+#EXTINF:-1 tvg-chno="35" tvg-id="M+ Drama HD" tvg-name="Movistar Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1280px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png", Movistar Drama
 http://listamy.com:8080/adolfo/adolfo/93192
 
 #EXTINF:-1 tvg-chno="37" tvg-id="CNNChile.cl" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/480px-Logo_cnnchile.png", CNN Chile
@@ -162,19 +162,19 @@ http://club.multidanato.us:8080/MMunoz/Miguel1959/217
 #EXTINF:-1 tvg-chno="39" tvg-id="hollywood.es" tvg-name="Hollywood" tvg-logo="http://castlempire.site:8080/images/d052c3b53c436f6846f409793b478c81.png", Canal Hollywood
 http://club.multidanato.us:8080/MMunoz/Miguel1959/4631
 
-#EXTINF:-1 tvg-chno="40" tvg-id=”sundance.es” tvg-name=”SUNDANCE TV” tvg-logo=”http://cpi4u.com:45862/images/c0eb5e1af4939d0fc1df3f17396e0ac4.png”,Sundance TV
+#EXTINF:-1 tvg-chno="40" tvg-id=”sundance.es” tvg-name=”SUNDANCE TV” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/1280px-SundanceTV_2014.svg.png”,Sundance TV
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109970
 
-#EXTINF:-1 tvg-chno="41" tvg-id=”darkred.es” tvg-name=”DARK” tvg-logo=”http://cpi4u.com:45862/images/730fd04c1cd9abb2d52067b8635ee977.png”,Dark
+#EXTINF:-1 tvg-chno="41" tvg-id=”darkred.es” tvg-name=”DARK” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/5/5f/Dark_Teuve_2.png”,Dark
 http://listamy.com:8080/adolfo/adolfo/511697
 
-#EXTINF:-1 tvg-chno="43" tvg-id=”paramountchannel.es” tvg-name=”Paramount Network Esñaña” tvg-logo=”http://cpi4u.com:45862/images/da5e8049aecc3505e9304ce140840851.png”,Paramount Network España
+#EXTINF:-1 tvg-chno="43" tvg-id=”paramountchannel.es” tvg-name=”Paramount Network Esñaña” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/5/5d/Paramount_Network_logo.png”,Paramount Network España
 http://castlempire.site:8080/4201/4201/173651 
 
 #EXTINF:-1 tvg-chno="44" tvg-id="energy.es" tvg-name="Energy" tvg-logo="http://castlempire.site:8080/images/2084d1464eaf1aa13eb49c24743adb76.png",Energy
 http://castlempire.site:8080/4201/4201/173626
 
-#EXTINF:-1 tvg-chno="53" tvg-id=”M+DEPORTESHD” tvg-name=”Movistar Deportes España” tvg-logo=”https://www.mundoplus.tv/wiki/_media/logos/mde.png”,Movistar Deportes España
+#EXTINF:-1 tvg-chno="53" tvg-id="" tvg-name="Movistar Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1280px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png", Movistar Deportes España
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/389735.ts
 
 #EXTINF:-1 tvg-chno="63" tvg-id="gol.es" tvg-name="GOL" tvg-logo="https://i.imgur.com/Drw3kg5.png",Gol
