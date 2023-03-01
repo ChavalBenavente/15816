@@ -6,10 +6,10 @@ https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485
 #EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/640px-Willax_Televisi%C3%B3n_2020.png", Willax TV
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/166620
 
-#EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://totalplayplanes.mx/s/totalplay-web/assets/img/canales/TvAbierta/canal-azteca.png", Azteca Uno HD
+#EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://totalplayplanes.mx/s/totalplay-web/assets/img/canales/TvAbierta/canal-azteca.png", Azteca Uno
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/140407
 
-#EXTINF:-1 tvg-chno="1.5" tvg-id=”la1.es” tvg-name=”La 1” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1280px-Logo_TVE-1.svg.png”,La 1 HD
+#EXTINF:-1 tvg-chno="1.5" tvg-id=”la1.es” tvg-name=”La 1” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/538px-Logo_TVE-1.svg.png”,La 1
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/168085
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1280px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina
@@ -21,16 +21,16 @@ http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/1019
 #EXTINF:-1 tvg-chno="2.2" tvg-id="" tvg-name="Canal De Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1280px-Las_Estrellas.svg.png", Canal De Las Estrellas
 http://club.multidanato.us:8080/MMunoz/Miguel1959/41
 
-#EXTINF:-1 tvg-chno="2.5" tvg-id=”la2.es” tvg-name=”La 2” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1280px-Logo_TVE-2.svg.png”,La 2
+#EXTINF:-1 tvg-chno="2.5" tvg-id=”la2.es” tvg-name=”La 2” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/514px-Logo_TVE-2.svg.png”,La 2
 http://club.multidanato.us:8080/MMunoz/Miguel1959/9080
 
-#EXTINF:-1 tvg-chno="3" tvg-id=”movistardeportes.pe” tvg-name=”Movistar Deportes” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/640px-Movistar_Deportes.svg.png”,Movistar Deportes
+#EXTINF:-1 tvg-chno="3" tvg-id=”movistardeportes.pe” tvg-name=”Movistar Deportes” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png”,Movistar Deportes
 http://club.multidanato.us:8080/MMunoz/Miguel1959/12883
 
 #EXTINF:-1 tvg-chno="3.5" tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1280px-Antena_3_%282017%29.svg.png",Antena 3
 http://panel.tured.live:80/Hector123/Hector123/229017.ts
 
-#EXTINF:-1 tvg-chno="4" tvg-id="america television" tvg-name="América Televisión" tvg-logo="https://pt.m.wikipedia.org/wiki/Am%C3%A9rica_Televisi%C3%B3n_(Peru)#/media/Ficheiro%3AAm%C3%A9rica_Televisi%C3%B3n.svg",América Televisión
+#EXTINF:-1 tvg-chno="4" tvg-id="america television" tvg-name="América Televisión" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-580x348-1004092.jpg",América Televisión
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194929
 
 #EXTINF:-1 tvg-chno="4.1" tvg-id="CronicaTV.ar" tvg-name="CRÓNICA" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINACRONICA.jpg",Crónica
@@ -39,19 +39,19 @@ http://club.multidanato.us:8080/MMunoz/Miguel1959/635
 #EXTINF:-1 tvg-chno="4.3" tvg-id="lared.cl" tvg-name="La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1280px-La_Red_Logotipo_2021.svg.png", La Red
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-id=”Cuatro.es” tvg-name=”Cuatro” tvg-logo=”https://marcaporhombro.com/wp-content/uploads/2012/04/cuatro.jpg",Cuatro
+#EXTINF:-1 tvg-chno="4.5" tvg-id=”Cuatro.es” tvg-name=”Cuatro” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/640px-Logotipo_de_Cuatro.svg.png",Cuatro
 http://panel.tured.live:80/Hector123/Hector123/93692.ts
 
-#EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV",Panamericana TV
+#EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/698px-Panamericana-tv.svg.png", Panamericana TV
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/584548.ts
 
-#EXTINF:-1 tvg-chno="5.5" tvg-id=”Telecinco.es” tvg-name=”TELECINCO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/768px-Telecinco.svg.png",Telecinco
+#EXTINF:-1 tvg-chno="5.5" tvg-id=”Telecinco.es” tvg-name=”TELECINCO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/480px-Telecinco.svg.png",Telecinco
 http://club.multidanato.us:8080/MMunoz/Miguel1959/2511
 
 #EXTINF:-1 tvg-chno"5.2" tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1280px-Canal_5_Mexico_logo_2014.svg.png", Canal 5
 http://club.multidanato.us:8080/MMunoz/Miguel1959/120
 
-#EXTINF:-1 tvg-chno="6" tvg-id=”movistarplus.pe” tvg-name=”Movistar Plus” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png”,Movistar Plus
+#EXTINF:-1 tvg-chno="6" tvg-id=”movistarplus.pe” tvg-name=”Movistar Plus” tvg-logo=”https://wikiwandv2-19431.kxcdn.com/_next/image?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8e%2FMovistar_Plus_%2528Peru%2529_-_2017_logo.png&w=1080&q=50”,Movistar Plus
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/390882.ts
 
 #EXTINF:-1 tvg-chno="6.5" tvg-id=”La6.es” tvg-name=”LA SEXTA” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LaSexta_HD_Logo_2016.png/599px-LaSexta_HD_Logo_2016.png”, La Sexta
