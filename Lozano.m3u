@@ -42,9 +42,6 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="4.5" tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="http://streamgo.vip:8008/images/10cffa3578c870bf70fb51f8514d23a0.png", Cuatro
 http://panel.tured.live:80/Hector123/Hector123/93692.ts
 
-#EXTINF:-1 tvg-chno="4.5" tvg-id=”Cuatro.es” tvg-name=”Cuatro” tvg-logo=”http://streamgo.vip:8008/images/10cffa3578c870bf70fb51f8514d23a0.png",Cuatro
-http://panel.tured.live:80/Hector123/Hector123/93692.ts
-
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/698px-Panamericana-tv.svg.png", Panamericana TV
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/584548.ts
 
