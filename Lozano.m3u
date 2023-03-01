@@ -39,17 +39,20 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/269450
 #EXTINF:-1 tvg-chno="4.3" tvg-id="lared.cl" tvg-name="La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1280px-La_Red_Logotipo_2021.svg.png", La Red
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="4.5" tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="http://streamgo.vip:8008/images/10cffa3578c870bf70fb51f8514d23a0.png", Cuatro
+http://panel.tured.live:80/Hector123/Hector123/93692.ts
+
 #EXTINF:-1 tvg-chno="4.5" tvg-id=”Cuatro.es” tvg-name=”Cuatro” tvg-logo=”http://streamgo.vip:8008/images/10cffa3578c870bf70fb51f8514d23a0.png",Cuatro
 http://panel.tured.live:80/Hector123/Hector123/93692.ts
 
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/698px-Panamericana-tv.svg.png", Panamericana TV
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/584548.ts
 
-#EXTINF:-1 tvg-chno="5.5" tvg-id=”Telecinco.es” tvg-name=”TELECINCO” tvg-logo=”",Telecinco
-http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266092
-
 #EXTINF:-1 tvg-chno"5.2" tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1280px-Canal_5_Mexico_logo_2014.svg.png", Canal 5
 http://club.multidanato.us:8080/MMunoz/Miguel1959/120
+
+#EXTINF:-1 tvg-chno="5.5" tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="http://streamgo.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png" , Telecinco
+http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266092 
 
 #EXTINF:-1 tvg-chno="6" tvg-id=”movistarplus.pe” tvg-name=”Movistar Plus” tvg-logo=”https://wikiwandv2-19431.kxcdn.com/_next/image?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8e%2FMovistar_Plus_%2528Peru%2529_-_2017_logo.png&w=1080&q=50”,Movistar Plus
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/390882.ts
@@ -270,5 +273,3 @@ http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
 #EXTINF:-1 tvg-chno="714" tvg-id="Golperu.pe" tvg-name="Gol Peru", Gol Peru
 http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/10137
 
-#EXTINF:-1 tvg-chno="5.5" tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="http://streamgo.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png" , Telecinco
-http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266092
