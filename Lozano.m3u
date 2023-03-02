@@ -63,6 +63,9 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/400653.ts
 #EXTINF:-1 tvg-chno="7.1" tvg-id="tvpublica.ar" tvg-name="Televisión Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/640px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",TV Pública
 http://panel.tured.live:80/mauri2022/mauri2022/99765.ts
 
+#EXTINF:-1 tvg-chno="7.3" tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg/1025px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg.png", TVN
+http://svtv.xyz:8080/jonya/HHcNTJp/296557
+
 #EXTINF:-1 tvg-chno="8" tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Canaln2006.png", Canal N
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/166618
 
@@ -71,6 +74,9 @@ http://svtv.xyz:8080/PONCHO/PONCHO2022/55914
 
 #EXTINF:-1 tvg-chno="9" tvg-id="ATV.pe" tvg-name"ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ATV_%28Peru%29_-_2018_logo.png/640px-ATV_%28Peru%29_-_2018_logo.png", ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-chno="9.3" tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logotipo_de_Mega_%282015-2020%29.svg/1038px-Logotipo_de_Mega_%282015-2020%29.svg.png", Mega
+http://svtv.xyz:8080/jonya/HHcNTJp/172033
 
 #EXTINF:-1 tvg-chno="10" tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-logo="http://panel.tured.live:80/images/e18e735852f9bd9f333d394050e22e0d.png",RPP TV
 http://panel.tured.live:80/mauri2022/mauri2022/99684.ts 
