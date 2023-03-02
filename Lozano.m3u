@@ -147,7 +147,7 @@ http://castlempire.site:8080/4201/4201/173746
 #EXTINF:-1 tvg-chno="20" tvg-id="fox.es" tvg-name="FOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png",FOX  HD
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/564125.ts 
 
-#EXTINF:-1 tvg-chno="21.5" tvg-id"" tvg-name="21", 21
+#EXTINF:-1 tvg-chno="21.5" tvg-id"" tvg-name="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png", 21
 http://svtv.xyz:8080/jonya/HHcNTJp/55853
 
 #EXTINF:-1 tvg-chno="21" tvg-id=”axnwhite.es” tvg-name=”AXN White” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png", AXN White HD
