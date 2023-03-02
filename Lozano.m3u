@@ -52,7 +52,7 @@ http://panel.tured.live:80/Hector123/Hector123/93692.ts
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/584548.ts
 
 #EXTINF:-1 tvg-chno="5.2" tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1280px-Canal_5_Mexico_logo_2014.svg.png", Canal 5
-http://club.multidanato.us:8080/MMunoz/Miguel1959/120
+http://svtv.xyz:8080/jonya/HHcNTJp/172
 
 #EXTINF:-1 tvg-chno="5.4" tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1280px-Caracol_Televisi%C3%B3n_logo.svg.png", Caracol TV
 http://svtv.xyz:8080/jonya/HHcNTJp/159809
@@ -130,7 +130,7 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/272239
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
 
 #EXTINF:-1 tvg-chno="15" tvg-id="ETC.cl" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png", ETC TV
-http://club.multidanato.us:8080/MMunoz/Miguel1959/365
+http://svtv.xyz:8080/jonya/HHcNTJp/311480
 
 #EXTINF:-1 tvg-chno="15.5" tvg-id="TNT.es" tvg-name="TNT España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/768px-TNT_Logo_2016.svg.png", TNT España
 http://listamy.com:8080/adolfo/adolfo/93228
@@ -287,6 +287,12 @@ http://iptvglobal.site:25461/Moises/Moises/128621
 
 #EXTINF:-1 tvg-chno="623" tvg-id="ESPNExtraSouth.us" tvg-name="ESPN Extra South" tvg-logo="https://i.imgur.com/4VrK2WA.jpg" group-title="Deportes",ESPN Extra South
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
+
+#EXTINF:-1 tvg-chno="633" tvg-id="WinSports.co" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png", Win Sports
+http://svtv.xyz:8080/jonya/HHcNTJp/200939
+
+#EXTINF:-1 tvg-chno="634" tvg-id="WinSportsMas.co" tvg-name="Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", Win Sports+
+http://svtv.xyz:8080/jonya/HHcNTJp/299238
 
 #EXTINF:-1 tvg-chno="714" tvg-id="Golperu.pe" tvg-name="Gol Peru", Gol Peru
 http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/10137
