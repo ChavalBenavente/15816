@@ -288,6 +288,9 @@ http://iptvglobal.site:25461/Moises/Moises/128621
 #EXTINF:-1 tvg-chno="623" tvg-id="ESPNExtraSouth.us" tvg-name="ESPN Extra South" tvg-logo="https://i.imgur.com/4VrK2WA.jpg" group-title="Deportes",ESPN Extra South
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
 
+#EXTINF:-1 tvg-chno="629" tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TyC Sports
+http://svtv.xyz:8080/jonya/HHcNTJp/299241
+
 #EXTINF:-1 tvg-chno="633" tvg-id="WinSports.co" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png", Win Sports
 http://svtv.xyz:8080/jonya/HHcNTJp/200939
 
