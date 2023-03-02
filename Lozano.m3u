@@ -261,6 +261,9 @@ http://svtv.xyz:8080/jonya/HHcNTJp/296564
 #EXTINF:-1 tvg-chno="200" tvg-id="teledeporte.es" tvg-name="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png", Teledeporte
 http://svtv.xyz:8080/jonya/HHcNTJp/55925
 
+#EXTINF:-1 tvg-chno="217" tvg-id="ID.mx" tvg-name="Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png", Discovery Investigation
+http://svtv.xyz:8080/jonya/HHcNTJp/299254
+
 #EXTINF:-1 tvg-chno="300" tvg-id="LALIGATV BAR" tvg-name="LaLiga TV Bar" tvg-logo="http://streamgo.vip:8008/images/72c09d695471ab2d18c82ef696f21f33.png",LaLiga TV Bar
 http://svtv.xyz:8080/jonya/HHcNTJp/31902
 
@@ -270,8 +273,17 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/276829
 #EXTINF:-1 tvg-chno="402" tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/168917
 
+#EXTINF:-1 tvg-chno="404" tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png", Discovery Kids
+http://svtv.xyz:8080/jonya/HHcNTJp/287962
+
 #EXTINF:-1 tvg-chno="410" tvg-id="Nick.mx" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png", Nick
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/168930
+
+#EXTINF:-1 tvg-chno="414" tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png", Animal Planet
+http://svtv.xyz:8080/jonya/HHcNTJp/288080
+
+#EXTINF:-1 tvg-chno="500" tvg-id="SkyLaliga.es" tvg-name="SkySports LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png", SkySports LaLiga
+http://svtv.xyz:8080/jonya/HHcNTJp/293983
 
 #EXTINF:-1 tvg-chno="601" tvg-id="DirecTVSportsPeru.pe" tvg-name="DirecTV Sports Peru" tvg-logo="https://i.imgur.com/OeAwpCW.png",DirecTV Sports Perú
 http://teamnextlevel.xyz:25461/Cortez/Cortez/223282
