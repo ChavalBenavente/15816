@@ -21,6 +21,9 @@ http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/1019
 #EXTINF:-1 tvg-chno="2.2" tvg-id="" tvg-name="Canal De Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1280px-Las_Estrellas.svg.png", Canal De Las Estrellas
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/135431
 
+#EXTINF:-1 tvg-chno="2.3" tvg-id="Chilevision.cl" tvg-name="Chilevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1024px-Chilevisi%C3%B3n_%282018-%29.png", Chilevision
+http://svtv.xyz:8080/jonya/HHcNTJp/288081
+
 #EXTINF:-1 tvg-chno="2.5" tvg-id="La2.es" tvg-name="La 2" tvg-logo="http://streamgo.vip:8008/images/26b8b661c5ecf258a39694278ca284d9.png", La 2
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266082
 
