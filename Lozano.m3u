@@ -258,10 +258,10 @@ http://svtv.xyz:8080/jonya/HHcNTJp/299244
 #EXTINF:-1 tvg-chno="106" tvg-id="WarnerTV.pe" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", Warner TV
 http://svtv.xyz:8080/jonya/HHcNTJp/31026
 
-#EXTINF:-1 tvg-chno="110" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png", Movistar LaLiga
+#EXTINF:-1 tvg-chno="110" tvg-id="M+ LaLiga" tvg-name="Movistar LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png", M+ LaLiga
 http://svtv.xyz:8080/jonya/HHcNTJp/136650
 
-#EXTINF:-1 tvg-chno="112" tvg-id=”24horas.es” tvg-name=”24 HORAS” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png”, 24 Horas
+#EXTINF:-1 tvg-chno="112" tvg-id="24horas.es" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/24_Horas_TVN_logo.png", 24 Horas
 http://svtv.xyz:8080/jonya/HHcNTJp/296564
 
 #EXTINF:-1 tvg-chno="200" tvg-id="teledeporte.es" tvg-name="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png", Teledeporte
@@ -270,10 +270,10 @@ http://svtv.xyz:8080/jonya/HHcNTJp/55925
 #EXTINF:-1 tvg-chno="217" tvg-id="ID.mx" tvg-name="Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png", Discovery Investigation
 http://svtv.xyz:8080/jonya/HHcNTJp/299254
 
-#EXTINF:-1 tvg-chno="300" tvg-id="LALIGATV BAR" tvg-name="LaLiga TV Bar" tvg-logo="http://streamgo.vip:8008/images/72c09d695471ab2d18c82ef696f21f33.png",LaLiga TV Bar
+#EXTINF:-1 tvg-chno="300" tvg-id="LaLigaTV Bar" tvg-name="LaLigaTV Bar" tvg-logo="https://futbar.com/logos/laliga_white_logo.png", LaLigaTV Bar
 http://svtv.xyz:8080/jonya/HHcNTJp/31902
 
-#EXTINF:-1 tvg-chno="303" tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png", TLC
+#EXTINF:-1 tvg-chno="303" tvg-id="TLC.mx tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png", TLC
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/276829
 
 #EXTINF:-1 tvg-chno="402" tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
@@ -291,17 +291,17 @@ http://svtv.xyz:8080/jonya/HHcNTJp/288080
 #EXTINF:-1 tvg-chno="500" tvg-id="SkyLaliga.es" tvg-name="SkySports LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png", SkySports LaLiga
 http://svtv.xyz:8080/jonya/HHcNTJp/293983
 
-#EXTINF:-1 tvg-chno="601" tvg-id="DirecTVSportsPeru.pe" tvg-name="DirecTV Sports Peru" tvg-logo="https://i.imgur.com/OeAwpCW.png",DirecTV Sports Perú
+#EXTINF:-1 tvg-chno="601" tvg-id="DirecTVSportsPeru.pe" tvg-name="DirecTV Sports Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/2560px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png", DirecTV Sports Perú
 http://teamnextlevel.xyz:25461/Cortez/Cortez/223282
 
-#EXTINF:-1 tvg-chno="602" tvg-id="Dsports2.ar" tvg-name="Directv Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/640px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES HD",Directv Sports 2 ARG
+#EXTINF:-1 tvg-chno="602" tvg-id="Dsports2.ar" tvg-name="Directv Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/640px-DirecTV_Sports_2_Latin_America_%282018%29.png", Directv Sports 2 ARG
 http://svtv.xyz:8080/jonya/HHcNTJp/192358
 
 #EXTINF:-1 tvg-chno="621" tvg-id=”ESPNArgentina.ar” tvg-name=”ESPN Argentina” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png", ESPN Argentina
 http://teamnextlevel.xyz:25461/Cortez/Cortez/201550
 
-#EXTINF:-1 tvg-chno="622" tvg-id=”espn2peru.pe” tvg-name=”ESPN 2 Perú” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png”, ESPN 2 Perú
-http://iptvglobal.site:25461/Moises/Moises/128621
+#EXTINF:-1 tvg-chno="622" tvg-id="ESPN2.ar" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2
+http://svtv.xyz:8080/jonya/HHcNTJp/299268
 
 #EXTINF:-1 tvg-chno="623" tvg-id="ESPNExtraSouth.us" tvg-name="ESPN Extra South" tvg-logo="https://i.imgur.com/4VrK2WA.jpg" group-title="Deportes",ESPN Extra South
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
