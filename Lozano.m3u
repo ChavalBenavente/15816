@@ -279,10 +279,10 @@ http://teamnextlevel.xyz:25461/Cortez/Cortez/223282
 #EXTINF:-1 tvg-chno="602" tvg-id="Dsports2.ar" tvg-name="Directv Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/640px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES HD",Directv Sports 2 ARG
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/2067.ts
 
-#EXTINF:-1 tvg-chno="621" tvg-id=”ESPNArgentina.ar” tvg-name=”ESPN Argentina”,ESPN Argentina
+#EXTINF:-1 tvg-chno="621" tvg-id=”ESPNArgentina.ar” tvg-name=”ESPN Argentina” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png", ESPN Argentina
 http://teamnextlevel.xyz:25461/Cortez/Cortez/201550
 
-#EXTINF:-1 tvg-chno="622" tvg-id=”espn2peru.pe” tvg-name=”ESPN 2 Perú” tvg-logo=”http://iptvglobal.site:25461/images/3a60836f4120ffaa1201d3853c983f19.jpg” group-title=”Sports”,ESPN 2 Perú
+#EXTINF:-1 tvg-chno="622" tvg-id=”espn2peru.pe” tvg-name=”ESPN 2 Perú” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png”, ESPN 2 Perú
 http://iptvglobal.site:25461/Moises/Moises/128621
 
 #EXTINF:-1 tvg-chno="623" tvg-id="ESPNExtraSouth.us" tvg-name="ESPN Extra South" tvg-logo="https://i.imgur.com/4VrK2WA.jpg" group-title="Deportes",ESPN Extra South
@@ -294,6 +294,6 @@ http://svtv.xyz:8080/jonya/HHcNTJp/200939
 #EXTINF:-1 tvg-chno="634" tvg-id="WinSportsMas.co" tvg-name="Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", Win Sports+
 http://svtv.xyz:8080/jonya/HHcNTJp/299238
 
-#EXTINF:-1 tvg-chno="714" tvg-id="Golperu.pe" tvg-name="Gol Peru", Gol Peru
+#EXTINF:-1 tvg-chno="714" tvg-id="Golperu.pe" tvg-name="Gol Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/1280px-Gol_Per%C3%BA_2019.svg.png", Gol Peru
 http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/10137
 
