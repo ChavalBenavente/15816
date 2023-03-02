@@ -249,11 +249,14 @@ http://listamy.com:8080/adolfo/adolfo/396882
 #EXTINF:-1 tvg-chno="98" tvg-id="Clan.es" tvg-name="Clan" tvg-logo="http://nowresurface.eu:2086/images/603c07e2735df19b9a7ce091d7453d2b.png", Clan
 http://svtv.xyz:8080/jonya/HHcNTJp/67522
 
-#EXTINF:-1 tvg-chno="106" tvg-id="MTV España" tvg-name="MTV España" tvg-logo="http://nowresurface.eu:2086/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png", MTV España
+#EXTINF:-1 tvg-chno="106.5" tvg-id="MTV España" tvg-name="MTV España" tvg-logo="http://nowresurface.eu:2086/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png", MTV España
 http://pofftvmax.com:2086/augusto/123456/205
 
 #EXTINF:-1 tvg-chno="102" tvg-id="TNT.pe" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/2048px-TNT_TV_logo.svg.png", TNT
 http://svtv.xyz:8080/jonya/HHcNTJp/299244 
+
+#EXTINF:-1 tvg-chno="106" tvg-id="WarnerTV.pe" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", Warner TV
+http://svtv.xyz:8080/jonya/HHcNTJp/31026
 
 #EXTINF:-1 tvg-chno="110" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png", Movistar LaLiga
 http://svtv.xyz:8080/jonya/HHcNTJp/136650
