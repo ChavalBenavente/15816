@@ -57,7 +57,7 @@ http://svtv.xyz:8080/jonya/HHcNTJp/172
 #EXTINF:-1 tvg-chno="5.4" tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1280px-Caracol_Televisi%C3%B3n_logo.svg.png", Caracol TV
 http://svtv.xyz:8080/jonya/HHcNTJp/159809
 
-#EXTINF:-1 tvg-chno="5.5" tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="http://streamgo.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png" , Telecinco
+#EXTINF:-1 tvg-chno="5.5" tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1280px-Telecinco.svg.png", Telecinco
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266092 
 
 #EXTINF:-1 tvg-chno="6" tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8e%2FMovistar_Plus_%2528Peru%2529_-_2017_logo.png&w=1080&q=50", Movistar Plus
@@ -258,13 +258,13 @@ http://club.multidanato.us:8080/MMunoz/Miguel1959/77283
 #EXTINF:-1 tvg-chno="112" tvg-id=”24horas.es” tvg-name=”24 HORAS” tvg-logo=”http://nowresurface.eu:2086/images/e16cd1b163497e713d103fa6c17428a5.jpg”,24 Horas
 http://club.multidanato.us:8080/MMunoz/Miguel1959/9083
 
-#EXTINF:-1 tvg-chno="200" tvg-id="teledeporte.es" tvg-name="Teledeporte", Teledeporte
+#EXTINF:-1 tvg-chno="200" tvg-id="teledeporte.es" tvg-name="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png", Teledeporte
 http://club.multidanato.us:8080/MMunoz/Miguel1959/9082
 
 #EXTINF:-1 tvg-chno="300" tvg-id="LALIGATV BAR" tvg-name="LaLiga TV Bar" tvg-logo="http://streamgo.vip:8008/images/72c09d695471ab2d18c82ef696f21f33.png",LaLiga TV Bar
 http://club.multidanato.us:8080/MMunoz/Miguel1959/185
 
-#EXTINF:-1 tvg-chno="303" tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="http://streamgo.vip:8008/images/860d7a11d8d872615d5529ee04c2acd1.png", TLC
+#EXTINF:-1 tvg-chno="303" tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png", TLC
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/276829
 
 #EXTINF:-1 tvg-chno="402" tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
