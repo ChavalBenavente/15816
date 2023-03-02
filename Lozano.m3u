@@ -28,7 +28,7 @@ http://svtv.xyz:8080/jonya/HHcNTJp/288081
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266082
 
 #EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes
-http://club.multidanato.us:8080/MMunoz/Miguel1959/12883
+http://svtv.xyz:8080/jonya/HHcNTJp/299250
 
 #EXTINF:-1 tvg-chno="3.5" tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1280px-Antena_3_%282017%29.svg.png",Antena 3
 http://panel.tured.live:80/Hector123/Hector123/229017.ts
@@ -55,7 +55,7 @@ http://club.multidanato.us:8080/MMunoz/Miguel1959/120
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266092 
 
 #EXTINF:-1 tvg-chno="6" tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8e%2FMovistar_Plus_%2528Peru%2529_-_2017_logo.png&w=1080&q=50", Movistar Plus
-http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/390882.ts
+http://svtv.xyz:8080/jonya/HHcNTJp/196248
 
 #EXTINF:-1 tvg-chno="6.5" tvg-id="La6.es" tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LaSexta_HD_Logo_2016.png/1278px-LaSexta_HD_Logo_2016.png", La Sexta
 http://panel.tured.live:80/Hector123/Hector123/93704.ts
@@ -65,6 +65,9 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/400653.ts
 
 #EXTINF:-1 tvg-chno="7.1" tvg-id="tvpublica.ar" tvg-name="Televisión Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/640px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",TV Pública
 http://panel.tured.live:80/mauri2022/mauri2022/99765.ts
+
+#EXTINF:-1 tvg-chno="7.2" tvg-id ="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png", Azteca 7
+http://svtv.xyz:8080/jonya/HHcNTJp/24167
 
 #EXTINF:-1 tvg-chno="7.3" tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg/1025px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg.png", TVN
 http://svtv.xyz:8080/jonya/HHcNTJp/296557
