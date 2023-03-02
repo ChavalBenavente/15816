@@ -264,6 +264,9 @@ http://svtv.xyz:8080/jonya/HHcNTJp/136650
 #EXTINF:-1 tvg-chno="112" tvg-id="24horas.es" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/24_Horas_TVN_logo.png", 24 Horas
 http://svtv.xyz:8080/jonya/HHcNTJp/296564
 
+#EXTINF:-1 tvg-chno="135" tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png", HBO
+http://svtv.xyz:8080/jonya/HHcNTJp/287609
+
 #EXTINF:-1 tvg-chno="200" tvg-id="teledeporte.es" tvg-name="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png", Teledeporte
 http://svtv.xyz:8080/jonya/HHcNTJp/55925
 
@@ -273,10 +276,7 @@ http://svtv.xyz:8080/jonya/HHcNTJp/299254
 #EXTINF:-1 tvg-chno="300" tvg-id="LaLigaTV Bar" tvg-name="LaLigaTV Bar" tvg-logo="https://futbar.com/logos/laliga_white_logo.png", LaLigaTV Bar
 http://svtv.xyz:8080/jonya/HHcNTJp/31902
 
-#EXTINF:-1 tvg-chno="303" tvg-id="TLC.mx tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png", TLC
-http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/276829
-
-#EXTINF:-1 tvg-chno="303" tvg-id="TLC.mx tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png", TLC HD
+#EXTINF:-1 tvg-chno="303" tvg-id="" tvg-name="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png", 303
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/276829
 
 #EXTINF:-1 tvg-chno="402" tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
