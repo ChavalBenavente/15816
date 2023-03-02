@@ -273,7 +273,10 @@ http://svtv.xyz:8080/jonya/HHcNTJp/299254
 #EXTINF:-1 tvg-chno="300" tvg-id="LaLigaTV Bar" tvg-name="LaLigaTV Bar" tvg-logo="https://futbar.com/logos/laliga_white_logo.png", LaLigaTV Bar
 http://svtv.xyz:8080/jonya/HHcNTJp/31902
 
-#EXTINF:-1 tvg-chno="303" tvg-id="TLC.mx tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png", TLC
+#EXTINF:-1 tvg-chno="303" tvg-id="TLC.mx tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png", TLC
+http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/276829
+
+#EXTINF:-1 tvg-chno="303" tvg-id="TLC.mx tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png", TLC HD
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/276829
 
 #EXTINF:-1 tvg-chno="402" tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
@@ -291,7 +294,7 @@ http://svtv.xyz:8080/jonya/HHcNTJp/288080
 #EXTINF:-1 tvg-chno="500" tvg-id="SkyLaliga.es" tvg-name="SkySports LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png", SkySports LaLiga
 http://svtv.xyz:8080/jonya/HHcNTJp/293983
 
-#EXTINF:-1 tvg-chno="601" tvg-id="DirecTVSportsPeru.pe" tvg-name="DirecTV Sports Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/2560px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png", DirecTV Sports Perú
+#EXTINF:-1 tvg-chno="601" tvg-id="DSports.pe" tvg-name="Directv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/2560px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png", DirecTV Sports Perú
 http://teamnextlevel.xyz:25461/Cortez/Cortez/223282
 
 #EXTINF:-1 tvg-chno="602" tvg-id="Dsports2.ar" tvg-name="Directv Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/640px-DirecTV_Sports_2_Latin_America_%282018%29.png", Directv Sports 2 ARG
