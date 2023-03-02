@@ -195,7 +195,7 @@ http://castlempire.site:8080/4201/4201/173626
 #EXTINF:-1 tvg-chno="53" tvg-id="" tvg-name="Movistar Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1280px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png", Movistar Deportes España
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/389735.ts
 
-#EXTINF:-1 tvg-chno="63" tvg-id="gol.es" tvg-name="GOL" tvg-logo="https://i.imgur.com/Drw3kg5.png",Gol
+#EXTINF:-1 tvg-chno="63" tvg-id="gol.es" tvg-name="GOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/2560px-Gol.svg.png",Gol
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/397861.ts
 
 #EXTINF:-1 tvg-chno="64" tvg-id="" tvg-name="DAZN 1" tvg-logo="http://s0lc.net:8080/imagenes/22083.jpg",DAZN 1
@@ -222,13 +222,13 @@ http://club.multidanato.us:8080/MMunoz/Miguel1959/64952
 #EXTINF:-1 tvg-chno="80" tvg-id="Canal Cocina" tvg-name="AMC Cocina" tvg-logo="http://nowresurface.eu:2086/images/99281303f6eab9edf2ec9f7ffde1bbaa.png",AMC Cocina
 http://club.multidanato.us:8080/MMunoz/Miguel1959/104058
 
-#EXTINF:-1 tvg-chno="83" tvg-id=”Mega.es” tvg-name=”Mega” tvg-logo=”https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEGA.png”,Mega
+#EXTINF:-1 tvg-chno="83" tvg-id=”Mega.es” tvg-name=”Mega” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png”, Mega
 http://club.multidanato.us:8080/MMunoz/Miguel1959/2053
 
 #EXTINF:-1 tvg-chno="84" tvg-id="Odisea.es" tvg-name="Odisea" tvg-logo="https://static.epg.best/es/Odisea.es.png",Odisea
 http://visionplay.me:8080/ITZIAHERN/31349/462838 
 
-#EXTINF:-1 tvg-chno="91" tvg-id=”DisneyJunior.es” tvg-name=”Disney Jr. España” tvg-logo=”http://nowresurface.eu:2086/images/bfaa929c0c7c801d0a72e201e2f19513.png”,Disney Jr. España
+#EXTINF:-1 tvg-chno="91" tvg-id=”DisneyJunior.es” tvg-name=”Disney Jr. España” tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1280px-Disney_Junior.svg.png”,Disney Jr. España
 http://pofftvmax.com:2086/augusto/123456/481
 
 #EXTINF:-1 tvg-chno="92" tvg-id="Disney.es" tvg-name="Disney Channel" tvg-logo="https://en.m.wikipedia.org/wiki/Disney_Channel_(Spanish_TV_channel)#/media/File%3ADisneyChannelEMEA.svg", Disney Channel
@@ -237,7 +237,7 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266011
 #EXTINF:-1 tvg-chno="92" tvg-id=”Disney.es” tvg-name=”Disney Channel España” tvg-logo=”https://en.m.wikipedia.org/wiki/Disney_Channel_(Spanish_TV_channel)#/media/File%3ADisneyChannelEMEA.svg”,Disney Channel España
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266011
 
-#EXTINF:-1 tvg-chno="93" tvg-id=”NICK JR” tvg-name=”Nick Jr. España” tvg-logo=”https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICKJR.png”,Nick Jr. España
+#EXTINF:-1 tvg-chno="93" tvg-id=”NICK JR” tvg-name=”Nick Jr. España” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png”,Nick Jr. España
 http://listamy.com:8080/adolfo/adolfo/93267
 
 #EXTINF:-1 tvg-chno="94" tvg-id=”NICKELODEON HD” tvg-name=”Nickelodeon” tvg-logo=”https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICK.png”,Nickelodeon España
@@ -246,16 +246,16 @@ http://listamy.com:8080/adolfo/adolfo/513503
 #EXTINF:-1 tvg-chno="95" tvg-id="" tvg-name="Dreamworks TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamworks
 http://listamy.com:8080/adolfo/adolfo/396882
 
-#EXTINF:-1 tvg-chno="98" tvg-id="Clan.es" tvg-name="Clan" tvg-logo="http://nowresurface.eu:2086/images/603c07e2735df19b9a7ce091d7453d2b.png",Clan
+#EXTINF:-1 tvg-chno="98" tvg-id="Clan.es" tvg-name="Clan" tvg-logo="http://nowresurface.eu:2086/images/603c07e2735df19b9a7ce091d7453d2b.png", Clan
 http://pofftvmax.com:2086/augusto/123456/480
 
-#EXTINF:-1 tvg-chno="106" tvg-id="MTV España" tvg-name="MTV España" tvg-logo="http://nowresurface.eu:2086/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png",MTV España
+#EXTINF:-1 tvg-chno="106" tvg-id="MTV España" tvg-name="MTV España" tvg-logo="http://nowresurface.eu:2086/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png", MTV España
 http://pofftvmax.com:2086/augusto/123456/205
 
-#EXTINF:-1 tvg-chno="110" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga" tvg-logo="http://streamgo.vip:8008/images/a34a7db237454cb394432edfa5a8dde8.png",Movistar LaLiga
+#EXTINF:-1 tvg-chno="110" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga" tvg-logo="http://streamgo.vip:8008/images/a34a7db237454cb394432edfa5a8dde8.png", Movistar LaLiga
 http://club.multidanato.us:8080/MMunoz/Miguel1959/77283
 
-#EXTINF:-1 tvg-chno="112" tvg-id=”24horas.es” tvg-name=”24 HORAS” tvg-logo=”http://nowresurface.eu:2086/images/e16cd1b163497e713d103fa6c17428a5.jpg”,24 Horas
+#EXTINF:-1 tvg-chno="112" tvg-id=”24horas.es” tvg-name=”24 HORAS” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png”, 24 Horas
 http://club.multidanato.us:8080/MMunoz/Miguel1959/9083
 
 #EXTINF:-1 tvg-chno="200" tvg-id="teledeporte.es" tvg-name="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png", Teledeporte
