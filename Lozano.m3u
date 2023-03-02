@@ -54,6 +54,9 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/584548.ts
 #EXTINF:-1 tvg-chno="5.2" tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1280px-Canal_5_Mexico_logo_2014.svg.png", Canal 5
 http://club.multidanato.us:8080/MMunoz/Miguel1959/120
 
+#EXTINF:-1 tvg-chno="5.4" tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1280px-Caracol_Televisi%C3%B3n_logo.svg.png", Caracol TV
+http://svtv.xyz:8080/jonya/HHcNTJp/159809
+
 #EXTINF:-1 tvg-chno="5.5" tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="http://streamgo.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png" , Telecinco
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266092 
 
