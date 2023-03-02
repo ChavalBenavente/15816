@@ -42,6 +42,9 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/269450
 #EXTINF:-1 tvg-chno="4.3" tvg-id="lared.cl" tvg-name="La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1280px-La_Red_Logotipo_2021.svg.png", La Red
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="4.4" tvg-id="RCN.co" tvg-name="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1228px-Canal_RCN_logo.svg.png", RCN
+http://svtv.xyz:8080/jonya/HHcNTJp/31370
+
 #EXTINF:-1 tvg-chno="4.5" tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="http://streamgo.vip:8008/images/10cffa3578c870bf70fb51f8514d23a0.png", Cuatro
 http://panel.tured.live:80/Hector123/Hector123/93692.ts
 
