@@ -66,7 +66,7 @@ http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/400653.ts
 #EXTINF:-1 tvg-chno="7.1" tvg-id="tvpublica.ar" tvg-name="Televisión Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/640px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",TV Pública
 http://panel.tured.live:80/mauri2022/mauri2022/99765.ts
 
-#EXTINF:-1 tvg-chno="7.2" tvg-id ="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png", Azteca 7
+#EXTINF:-1 tvg-chno="7.2" tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png", Azteca 7
 http://svtv.xyz:8080/jonya/HHcNTJp/24167
 
 #EXTINF:-1 tvg-chno="7.3" tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg/1025px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg.png", TVN
@@ -147,11 +147,8 @@ http://castlempire.site:8080/4201/4201/173746
 #EXTINF:-1 tvg-chno="20" tvg-id="fox.es" tvg-name="FOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png",FOX  HD
 http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/564125.ts 
 
-#EXTINF:-1 tvg-chno="21.5" tvg-id"" tvg-name="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png", 21
+#EXTINF:-1 tvg-chno="21" tvg-id="AXNWhite.es" tvg-name="AXN White" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png", AXN White
 http://svtv.xyz:8080/jonya/HHcNTJp/55853
-
-#EXTINF:-1 tvg-chno="21" tvg-id=”axnwhite.es” tvg-name=”AXN White” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png", AXN White HD
-http://club.multidanato.us:8080/MMunoz/Miguel1959/153
 
 #EXTINF:-1 tvg-chno="22" tvg-id="SyFy.es" tvg-name="SyFy España" tvg-logo="http://shacktv.com:8080/logos1/Syfy.mx.png",SyFy España
 http://shacktv.com:8080/jvs934/98js24/21994
