@@ -255,6 +255,9 @@ http://listamy.com:8080/adolfo/adolfo/396882
 #EXTINF:-1 tvg-chno="98" tvg-id="Clan.es" tvg-name="Clan" tvg-logo="http://nowresurface.eu:2086/images/603c07e2735df19b9a7ce091d7453d2b.png", Clan
 http://svtv.xyz:8080/jonya/HHcNTJp/67522
 
+#EXTINF:-1 tvg-chno="99" tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png", DeporTV
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/59796
+
 #EXTINF:-1 tvg-chno="106.5" tvg-id="MTV España" tvg-name="MTV España" tvg-logo="http://nowresurface.eu:2086/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png", MTV España
 http://pofftvmax.com:2086/augusto/123456/205
 
