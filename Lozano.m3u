@@ -288,6 +288,9 @@ http://svtv.xyz:8080/jonya/HHcNTJp/55925
 #EXTINF:-1 tvg-chno="217" tvg-id="ID.mx" tvg-name="Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png", Discovery Investigation
 http://svtv.xyz:8080/jonya/HHcNTJp/299254
 
+#EXTINF:-1 tvg-chno="240" tvg-id="FoxSports3.cl" tvg-name="Fox Sports 3 Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/2560px-Fox_Sports_3_Argentina_2023.svg.png", Fox Sports 3 Chile
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/141445
+
 #EXTINF:-1 tvg-chno="300" tvg-id="LaLigaTV Bar" tvg-name="LaLigaTV Bar" tvg-logo="https://futbar.com/logos/laliga_white_logo.png", LaLigaTV Bar
 http://svtv.xyz:8080/jonya/HHcNTJp/31902
 
