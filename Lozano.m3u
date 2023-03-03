@@ -15,8 +15,8 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266078
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1280px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina
 http://svtv.xyz:8080/jonya/HHcNTJp/299227
 
-#EXTINF:-1 tvg-chno="2.1" tvg-id="" tvg-name="America TV" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINAAMERICATV.jpg",America TV
-http://latinchannel.tv:8080/NEWNOMBREABRATV45/NEWCONTRA7HABRA3/1019
+#EXTINF:-1 tvg-chno="2.1" tvg-id="" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png",America TV
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22089
 
 #EXTINF:-1 tvg-chno="2.2" tvg-id="" tvg-name="Canal De Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1280px-Las_Estrellas.svg.png", Canal De Las Estrellas
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/135431
@@ -29,6 +29,9 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266082
 
 #EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes
 http://svtv.xyz:8080/jonya/HHcNTJp/299250
+
+#EXTINF:-1 tvg-chno="3.1" tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22124
 
 #EXTINF:-1 tvg-chno="3.5" tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1280px-Antena_3_%282017%29.svg.png",Antena 3
 http://panel.tured.live:80/Hector123/Hector123/229017.ts
@@ -87,6 +90,9 @@ http://svtv.xyz:8080/PONCHO/PONCHO2022/55914
 #EXTINF:-1 tvg-chno="9" tvg-id="ATV.pe" tvg-name"ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ATV_%28Peru%29_-_2018_logo.png/640px-ATV_%28Peru%29_-_2018_logo.png", ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 
+#EXTINF:-1 tvg-chno="9.1" tvg-id="Elnueve.ar" tvg-name="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png", El Nueve
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/153934
+
 #EXTINF:-1 tvg-chno="9.3" tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logotipo_de_Mega_%282015-2020%29.svg/1038px-Logotipo_de_Mega_%282015-2020%29.svg.png", Mega
 http://svtv.xyz:8080/jonya/HHcNTJp/172033
 
@@ -117,8 +123,8 @@ http://castlempire.site:8080/4201/4201/173635
 #EXTINF:-1 tvg-id="GlobalTV.pe" tvg-chno="13" tvg-name="Global TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png", Global TV
 http://panel.tured.live:80/Hector123/Hector123/173213.ts
 
-#EXTINF:-1 tvg-chno="13.1" tvg-id="el13.ar" tvg-name="El Trece" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0k5JSUDa63tgLP5Drj3ALslUqMWpK4W8cU9EvOhfbfD-4-eAlqfjfvMHD1KNXZvclnZZ4bcRFMpT9XDOxLF1SB55Wg40sFhykUQePmOOA-aV52c4mbO-Hl-TlBuD9uPqxNP2zddqobO1TLI__oHm9NsYhfwUm1vzw5QfO5IlCeD1DDeIPNTaiNkhJ/s512/Canal_13_1994.png", El Trece
-http://legazy.cc:8888/live/cholito10/Lj9gsFmSMEq6/5159.ts 
+#EXTINF:-1 tvg-chno="13.1" tvg-id="El13.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", El Trece
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/153937
 
 #EXTINF:-1 tvg-chno="13.2" tvg-id="Bitme.mx" tvg-name="Bitme" tvg-logo="https://totalplayplanes.mx/s/totalplay-web/assets/img/canales/Infantiles/canal-bitme.png", Bitme
 http://play.latvmia.com:8080/eddieel712/z4896KNpDa/1165166
