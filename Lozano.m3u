@@ -273,6 +273,9 @@ http://svtv.xyz:8080/jonya/HHcNTJp/296564
 #EXTINF:-1 tvg-chno="135" tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png", HBO
 http://svtv.xyz:8080/jonya/HHcNTJp/287609
 
+#EXTINF:-1 tvg-chno="143" tvg-id="TelefeInternacional.es" tvg-name="Telefe Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png", Telefe Internacional
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/101841
+
 #EXTINF:-1 tvg-chno="200" tvg-id="teledeporte.es" tvg-name="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png", Teledeporte
 http://svtv.xyz:8080/jonya/HHcNTJp/55925
 
