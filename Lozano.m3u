@@ -222,6 +222,9 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117178
 #EXTINF:-1 tvg-chno="53" tvg-id="" tvg-name="Movistar Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1280px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png", Movistar Deportes España
 http://svtv.xyz:8080/jonya/HHcNTJp/136653
 
+#EXTINF:-1 tvg-chno="54" tvg-id="Futv.cr" tvg-name="FuTV" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg", FuTV
+http://svtv.xyz:8080/jonya/HHcNTJp/264849
+
 #EXTINF:-1 tvg-chno="63" tvg-id="gol.es" tvg-name="GOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/2560px-Gol.svg.png",Gol
 http://svtv.xyz:8080/jonya/HHcNTJp/21984
 
@@ -234,10 +237,10 @@ http://svtv.xyz:8080/jonya/HHcNTJp/278210
 #EXTINF:-1 tvg-chno="66" tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",EUROSPORT 1
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/14485
 
-#EXTINF:-1 tvg-chno="70" tvg-id="NAT GEO HD" tvg-name="National Geographic España" tvg-logo="https://www.seekpng.com/png/full/284-2842549_national-geographic-channel-logo-white-nat-geo-logo.png",National Geographic España
+#EXTINF:-1 tvg-chno="70" tvg-id="NAT GEO HD" tvg-name="National Geographic España" tvg-logo="https://play-lh.googleusercontent.com/s9hHKX02cVc5NKF4-O8bfy-SLefsjSzz9Ug_PgXhkMnY4E-wZXIbifrykDnEXv4HbpM",National Geographic España
 http://visionplay.me:8080/ITZIAHERN/31349/462845
 
-#EXTINF:-1 tvg-chno="71" tvg-id="NatGeoWild.es" tvg-name="National Geographic Wild España" tvg-logo="https://www.seekpng.com/png/full/760-7606470_nat-geo-wild-nat-geo-wild-hd-logo.png",NatGeo WILD España
+#EXTINF:-1 tvg-chno="71" tvg-id="NatGeoWild.es" tvg-name="National Geographic Wild España" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJV5koTcK1Zq-F-3BCjM5OKQa8PKF4dQ9wy8g3uVtg=s900-c-k-c0x00ffffff-no-rj",NatGeo WILD España
 http://visionplay.me:8080/ITZIAHERN/31349/462844
 
 #EXTINF:-1 tvg-chno="73" tvg-id=”discoverychannel.es” tvg-name=”Discovery Channel España” tvg-logo=”http://mirror.streamhubtv.me:8080/images/be34fe9fbde58cdeb95658967017059f.png”,Discovery Channel España
@@ -314,6 +317,9 @@ http://svtv.xyz:8080/jonya/HHcNTJp/299248
 
 #EXTINF:-1 tvg-chno="210" tvg-id="TVCDeportes.mx" tvg-name="TVC Deportes" tvg-logo="https://www.seekpng.com/png/full/297-2976535_deportes-tvc-deportes-2-logo.png", TVC Deportes
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/26966
+
+#EXTINF:-1 tvg-chno="213" tvg-id="TNTSeries.cl" tvg-name="TNT Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Tnt-series-latin-america.svg", TNT Series
+http://svtv.xyz:8080/jonya/HHcNTJp/164031
 
 #EXTINF:-1 tvg-chno="217" tvg-id="ID.mx" tvg-name="Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png", Discovery Investigation
 http://svtv.xyz:8080/jonya/HHcNTJp/299254
