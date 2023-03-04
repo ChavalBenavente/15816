@@ -42,6 +42,9 @@ http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194929
 #EXTINF:-1 tvg-chno="4.1" tvg-id="CronicaTV.ar" tvg-name="CRÓNICA" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINACRONICA.jpg",Crónica
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/269450
 
+#EXTINF:-1 tvg-chno="4.2" tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png", Foro TV
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/26979
+
 #EXTINF:-1 tvg-chno="4.3" tvg-id="lared.cl" tvg-name="La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1280px-La_Red_Logotipo_2021.svg.png", La Red
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
@@ -50,6 +53,9 @@ http://svtv.xyz:8080/jonya/HHcNTJp/31370
 
 #EXTINF:-1 tvg-chno="4.5" tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="http://streamgo.vip:8008/images/10cffa3578c870bf70fb51f8514d23a0.png", Cuatro
 http://panel.tured.live:80/Hector123/Hector123/93692.ts
+
+#EXTINF:-1 tvg-chno="4.6" tvg-id="Canal4.uy" tvg-name="Canal 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Canal_4_OFICIAL.png", Canal 4
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/153857
 
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/698px-Panamericana-tv.svg.png", Panamericana TV
 http://svtv.xyz:8080/jonya/HHcNTJp/31917
@@ -63,8 +69,14 @@ http://svtv.xyz:8080/jonya/HHcNTJp/159809
 #EXTINF:-1 tvg-chno="5.5" tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1280px-Telecinco.svg.png", Telecinco
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266092 
 
+#EXTINF:-1 tvg-chno="5.6" tvg-id="TNU.uy" tvg-name="TNU" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_07/small.933539358_915sinttulo_20210722210858.png.f6a051fddf484ec873a5e7e6b435833f.png", TNU
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22175
+
 #EXTINF:-1 tvg-chno="6" tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8e%2FMovistar_Plus_%2528Peru%2529_-_2017_logo.png&w=1080&q=50", Movistar Plus
 http://svtv.xyz:8080/jonya/HHcNTJp/196248
+
+#EXTINF:-1 tvg-chno="6.2" tvg-id="Canal6.mx" tvg-name="Multimedios Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1461px-Multimedios_Canal_Seis_Logo.svg.png", Multimedios Television
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/26717
 
 #EXTINF:-1 tvg-chno="6.5" tvg-id="La6.es" tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LaSexta_HD_Logo_2016.png/1278px-LaSexta_HD_Logo_2016.png", La Sexta
 http://panel.tured.live:80/Hector123/Hector123/93704.ts
@@ -93,11 +105,17 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-chno="9.1" tvg-id="Elnueve.ar" tvg-name="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png", El Nueve
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/153934
 
+#EXTINF:-1 tvg-chno="9.2" tvg-id="Canal9.mx" tvg-name="Nu9ve" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/21134978072561.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg", Nu9ve
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/26964
+
 #EXTINF:-1 tvg-chno="9.3" tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logotipo_de_Mega_%282015-2020%29.svg/1038px-Logotipo_de_Mega_%282015-2020%29.svg.png", Mega
 http://svtv.xyz:8080/jonya/HHcNTJp/172033
 
 #EXTINF:-1 tvg-chno="10" tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-logo="http://panel.tured.live:80/images/e18e735852f9bd9f333d394050e22e0d.png",RPP TV
 http://panel.tured.live:80/mauri2022/mauri2022/99684.ts 
+
+#EXTINF:-1 tvg-chno="10.6" tvg-id="Canal10.uy" tvg-name="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Canal_10_Uruguay_Logo_1960.webp", Canal 10
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22178
 
 #EXTINF:-1 tvg-chno="11" tvg-id="" tvg-name="Liga 1" tvg-logo="https://2.bp.blogspot.com/-porIDbBHAHA/XDUP54Z5qLI/AAAAAAABTqI/7RjjZrqvA_QJglZbN5rxa1avkNtTNZTlQCLcBGAs/s1600/Liga1Peru.png", Liga 1
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/176687 
@@ -116,6 +134,9 @@ http://svtv.xyz:8080/jonya/HHcNTJp/31935
 
 #EXTINF:-1 tvg-chno="12.5" tvg-id="M+ Estrenos 2 HD" tvg-name="Movistar Estrenos 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Estrenos 2
 http://castlempire.site:8080/4201/4201/173652
+
+#EXTINF:-1 tvg-chno="12.6" tvg-id="Teledoce.uy" tvg-name="Teledoce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Teledoce_2022.png", Teledoce
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/105832
 
 #EXTINF:-1 tvg-chno="13.5" tvg-id="M+ Series 2 HD" tvg-name="Movistar Series 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Series 2
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117245
@@ -282,8 +303,14 @@ http://svtv.xyz:8080/jonya/HHcNTJp/287609
 #EXTINF:-1 tvg-chno="143" tvg-id="TelefeInternacional.es" tvg-name="Telefe Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png", Telefe Internacional
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/101841
 
+#EXTINF:-1 tvg-chno="184" tvg-id="VTV.uy" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png", VTV
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22176
+
 #EXTINF:-1 tvg-chno="200" tvg-id="teledeporte.es" tvg-name="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png", Teledeporte
 http://svtv.xyz:8080/jonya/HHcNTJp/55925
+
+#EXTINF:-1 tvg-chno="210" tvg-id="TVCDeportes.mx" tvg-name="TVC Deportes" tvg-logo="https://www.seekpng.com/png/full/297-2976535_deportes-tvc-deportes-2-logo.png", TVC Deportes
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/26966
 
 #EXTINF:-1 tvg-chno="217" tvg-id="ID.mx" tvg-name="Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png", Discovery Investigation
 http://svtv.xyz:8080/jonya/HHcNTJp/299254
@@ -319,10 +346,13 @@ http://svtv.xyz:8080/jonya/HHcNTJp/288080
 http://svtv.xyz:8080/jonya/HHcNTJp/293983
 
 #EXTINF:-1 tvg-chno="601" tvg-id="DSports.pe" tvg-name="Directv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/2560px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png", DirecTV Sports Perú
-http://teamnextlevel.xyz:25461/Cortez/Cortez/223282
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/4668
 
 #EXTINF:-1 tvg-chno="602" tvg-id="Dsports2.ar" tvg-name="Directv Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/640px-DirecTV_Sports_2_Latin_America_%282018%29.png", Directv Sports 2 ARG
 http://svtv.xyz:8080/jonya/HHcNTJp/192358
+
+#EXTINF:-1 tvg-chno="603" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png", ESPN Premium
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/154049
 
 #EXTINF:-1 tvg-chno="621" tvg-id=”ESPNArgentina.ar” tvg-name=”ESPN Argentina” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png", ESPN Argentina
 http://teamnextlevel.xyz:25461/Cortez/Cortez/201550
@@ -341,6 +371,9 @@ http://svtv.xyz:8080/jonya/HHcNTJp/200939
 
 #EXTINF:-1 tvg-chno="634" tvg-id="WinSportsMas.co" tvg-name="Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", Win Sports+
 http://svtv.xyz:8080/jonya/HHcNTJp/299238
+
+#EXTINF:-1 tvg-chno="661" tvg-id="VTVPlus.uy" tvg-name="VTV Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png", VTV Plus
+http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/153848
 
 #EXTINF:-1 tvg-chno="714" tvg-id="Golperu.pe" tvg-name="Gol Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg", Gol Peru
 http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/10137
