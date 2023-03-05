@@ -6,10 +6,10 @@ https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485
 #EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/640px-Willax_Televisi%C3%B3n_2020.png", Willax TV
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/166620
 
-#EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://totalplayplanes.mx/s/totalplay-web/assets/img/canales/TvAbierta/canal-azteca.png", Azteca Uno
+#EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://www.seekpng.com/png/full/229-2293870_azteca-trece-coming-azteca-uno-logo-azteca-1.png", Azteca Uno
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/254426
 
-#EXTINF:-1 tvg-chno="1.5" tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png", La 1
+#EXTINF:-1 tvg-chno="1.5" tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png", La 1
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266078
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1280px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina
@@ -24,7 +24,7 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/135431
 #EXTINF:-1 tvg-chno="2.3" tvg-id="Chilevision.cl" tvg-name="Chilevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1024px-Chilevisi%C3%B3n_%282018-%29.png", Chilevision
 http://svtv.xyz:8080/jonya/HHcNTJp/288081
 
-#EXTINF:-1 tvg-chno="2.5" tvg-id="La2.es" tvg-name="La 2" tvg-logo="http://streamgo.vip:8008/images/26b8b661c5ecf258a39694278ca284d9.png", La 2
+#EXTINF:-1 tvg-chno="2.5" tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/2195px-Logo_TVE-2.svg.png", La 2
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266082
 
 #EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes
@@ -120,7 +120,7 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22178
 #EXTINF:-1 tvg-chno="11" tvg-id="" tvg-name="Liga 1" tvg-logo="https://2.bp.blogspot.com/-porIDbBHAHA/XDUP54Z5qLI/AAAAAAABTqI/7RjjZrqvA_QJglZbN5rxa1avkNtTNZTlQCLcBGAs/s1600/Liga1Peru.png", Liga 1
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/176687 
 
-#EXTINF:-1 tvg-chno="11" tvg-id=”bescablesportsperu.pe” tvg-name=”BESTCABLE SPORTS“ tvg-logo=”https://raw.githubusercontent.com/ChavalBenavente/LISTITA-BENAVENTIANA/main/Logo/BestCableSports.png”,BESTCABLE SPORTS
+#EXTINF:-1 tvg-chno="11" tvg-id=”bescablesportsperu.pe” tvg-name=”BESTCABLE SPORTS“ tvg-logo=”https://yt3.googleusercontent.com/60R-uwtAbZOFS9uvtVx35hiaYIJnfG9RjSpVBTxovF7xXprnT0t4XXvEc7SZTrhItK622-NURQ=s900-c-k-c0x00ffffff-no-rj”, BESTCABLE SPORTS
 http://nmstreaming.live:25461/UzielLCH/123456789/207962 
 
 #EXTINF:-1 tvg-chno="11.1" tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",Telefe
@@ -147,7 +147,7 @@ http://panel.tured.live:80/Hector123/Hector123/173213.ts
 #EXTINF:-1 tvg-chno="13.1" tvg-id="El13.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", El Trece
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/153937
 
-#EXTINF:-1 tvg-chno="13.2" tvg-id="Bitme.mx" tvg-name="Bitme" tvg-logo="https://totalplayplanes.mx/s/totalplay-web/assets/img/canales/Infantiles/canal-bitme.png", Bitme
+#EXTINF:-1 tvg-chno="13.2" tvg-id="Bitme.mx" tvg-name="Bitme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png", Bitme
 http://play.latvmia.com:8080/eddieel712/z4896KNpDa/1165166
 
 #EXTINF:-1 tvg-chno="13.3" tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg/483px-Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg.png", Canal 13
@@ -165,13 +165,13 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117252
 #EXTINF:-1 tvg-chno="16" tvg-id="M+ Accion HD" tvg-name="Movistar Acción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/1024px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Acción
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117232
 
-#EXTINF:-1 tvg-chno="17" tvg-id="calle13.es" tvg-name="Calle 13" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CL13.png",Calle 13
+#EXTINF:-1 tvg-chno="17" tvg-id="calle13.es" tvg-name="Calle 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Calle_13_Universal.png",Calle 13
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117219
 
 #EXTINF:-1 tvg-chno="18" tvg-id="Cosmo" tvg-name="Cosmo" tvg-logo="http://nowresurface.eu:2086/images/0c437e9ba6ca7948362d4624b7bdc303.png",Cosmo
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117203
 
-#EXTINF:-1 tvg-chno="19" tvg-id=”amc.es” tvg-name=”AMC España” tvg-logo=”https://www.analitica.com/wp-content/uploads/2014/10/AMC-logo-lowi-res-version.jpg”,AMC España
+#EXTINF:-1 tvg-chno="19" tvg-id=”amc.es” tvg-name=”AMC España” tvg-logo=”https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png”,AMC España
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117212
 
 #EXTINF:-1 tvg-chno="19.5" tvg-id="M+Cine Español" tvg-name="Movistar Cine Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg/1280px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg.png", Movistar Ñ
@@ -183,10 +183,10 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117223
 #EXTINF:-1 tvg-chno="21" tvg-id="AXNWhite.es" tvg-name="AXN White" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png", AXN White
 http://svtv.xyz:8080/jonya/HHcNTJp/55853
 
-#EXTINF:-1 tvg-chno="22" tvg-id="SyFy.es" tvg-name="SyFy España" tvg-logo="http://shacktv.com:8080/logos1/Syfy.mx.png",SyFy España
+#EXTINF:-1 tvg-chno="22" tvg-id="SyFy.es" tvg-name="SyFy España" tvg-logo="https://static.mercadonegro.pe/wp-content/uploads/2017/07/27012714/syfy_2017_logo.png",SyFy España
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117248
 
-#EXTINF:-1 tvg-chno="24" tvg-id="ComedyCentral.es" tvg-name="Comedy Central España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/640px-Comedy_Central_2018.svg.png", Comedy Central España
+#EXTINF:-1 tvg-chno="24" tvg-id="ComedyCentral.es" tvg-name="Comedy Central España" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Comedy-Central-Symbol.jpg", Comedy Central España
 http://nmstreaming.live:25461/UzielLCH/123456789/2100590 
 
 #EXTINF:-1 tvg-chno="30" tvg-id="M+Estrenos HD" tvg-name="Movistar Estrenos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1280px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png", Movistar Estrenos HD
