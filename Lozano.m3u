@@ -384,6 +384,9 @@ http://svtv.xyz:8080/jonya/HHcNTJp/299241
 #EXTINF:-1 tvg-chno="631" tvg-id="TNTSportsHD.cl" tvg-name="TNT Sports HD" tvg-logo="https://i.ibb.co/0j4Kj2n/Picsart-23-03-05-17-49-37-742.png", TNT Sports HD
 http://svtv.xyz:8080/jonya/HHcNTJp/159924
 
+#EXTINF:-1 tvg-chno="631" tvg-id="" tvg-name="631" tvg-logo="https://i.ibb.co/0j4Kj2n/Picsart-23-03-05-17-49-37-742.png", 631
+http://svtv.xyz:8080/jonya/HHcNTJp/159924
+
 #EXTINF:-1 tvg-chno="633" tvg-id="WinSports.co" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png", Win Sports
 http://svtv.xyz:8080/jonya/HHcNTJp/200939
 
