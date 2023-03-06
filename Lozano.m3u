@@ -315,6 +315,9 @@ http://svtv.xyz:8080/jonya/HHcNTJp/55925
 #EXTINF:-1 tvg-chno="202" tvg-id="StarChannel.pe" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png
 http://svtv.xyz:8080/jonya/HHcNTJp/299248
 
+#EXTINF:-1 tvg-chno="208" tvg-id="Sony.pe" tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Sony Channel
+http://svtv.xyz:8080/jonya/HHcNTJp/299247
+
 #EXTINF:-1 tvg-chno="210" tvg-id="TVCDeportes.mx" tvg-name="TVC Deportes" tvg-logo="https://www.seekpng.com/png/full/297-2976535_deportes-tvc-deportes-2-logo.png", TVC Deportes
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/26966
 
