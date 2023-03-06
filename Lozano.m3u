@@ -401,3 +401,6 @@ http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/10137
 
 #EXTINF:-1 tvg-chno="714" tvg-id="" tvg-name="Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg", Gol Perú
 http://svtv.xyz:8080/jonya/HHcNTJp/299226
+
+#EXTINF::-1 tvg-chno="732" tvg-id="DiscoveryChannel.pe" tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png", Discovery Channel
+http://svtv.xyz:8080/jonya/HHcNTJp/296566
