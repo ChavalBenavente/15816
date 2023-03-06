@@ -404,3 +404,6 @@ http://svtv.xyz:8080/jonya/HHcNTJp/299226
 
 #EXTINF::-1 tvg-chno="732" tvg-id="DiscoveryChannel.pe" tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png", Discovery Channel
 http://svtv.xyz:8080/jonya/HHcNTJp/296566
+
+#EXTINF:-1 tvg-chno="742" tvg-id="History.pe" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png", History
+http://svtv.xyz:8080/jonya/HHcNTJp/292816
