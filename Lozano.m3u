@@ -60,6 +60,9 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/153857
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/698px-Panamericana-tv.svg.png", Panamericana TV
 http://svtv.xyz:8080/jonya/HHcNTJp/31917
 
+#EXTINF:-1 tvg-chno="5.1" tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG", C5N
+http://176.57.50.167:25461/Tina1/Tina1/5071
+
 #EXTINF:-1 tvg-chno="5.2" tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1280px-Canal_5_Mexico_logo_2014.svg.png", Canal 5
 http://svtv.xyz:8080/jonya/HHcNTJp/172
 
@@ -324,8 +327,32 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/26966
 #EXTINF:-1 tvg-chno="213" tvg-id="TNTSeries.cl" tvg-name="TNT Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Tnt-series-latin-america.svg", TNT Series
 http://svtv.xyz:8080/jonya/HHcNTJp/164031
 
-#EXTINF:-1 tvg-chno="217" tvg-id="ID.mx" tvg-name="Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png", Discovery Investigation
+#EXTINF:-1 tvg-chno="213" tvg-id="" tvg-name="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2560px-TNT_Serie_HD.svg.png", 213
+http://svtv.xyz:8080/jonya/HHcNTJp/164031
+
+#EXTINF:-1 tvg-chno="214" tvg-id="A3Series.ar" tvg-name="A3Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/2560px-Atreseries_2020_logo.svg.png", A3Series
+http://176.57.50.167:25461/Tina1/Tina1/61877
+
+#EXTINF:-1 tvg-chno="215" tvg-id="ComedyCentral.ar" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVJ24qKVwcS1fjXIn9y2zlstzyJaVffqai8hwe7X-k=s900-c-k-c0x00ffffff-no-rj", Comedy Central
+http://176.57.50.167:25461/Tina1/Tina1/61257
+
+#EXTINF:-1 tvg-chno="217" tvg-id="FX.ar" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2560px-FX-logo.svg.png", FX
+http://176.57.50.167:25461/Tina1/Tina1/5119
+
+#EXTINF:-1 tvg-chno="218" tvg-id="Universaltv.ar" tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/2560px-Universal_TV_logo.svg.png", Universal TV
+http://176.57.50.167:25461/Tina1/Tina1/5178
+
+#EXTINF:-1 tvg-chno="219" tvg-id="Syfy.ar" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png", Syfy
+http://176.57.50.167:25461/Tina1/Tina1/61838
+
+#EXTINF:-1 tvg-chno="222" tvg-id="E.ar" tvg-name="E! Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/632px-E%21_Logo.svg.png", E! Entertainment
+http://176.57.50.167:25461/Tina1/Tina1/5095
+
+#EXTINF:-1 tvg-chno="223" tvg-id="ID.mx" tvg-name="Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png", Discovery Investigation
 http://svtv.xyz:8080/jonya/HHcNTJp/299254
+
+#EXTINF:-1 tvg-chno="231" tvg-id="TelemundoInt.mx" tvg-name="Telemundo Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Telemundo_Internacional_Logo_(2018-presente).png/revision/latest/scale-to-width-down/1000?cb=20181101133212&path-prefix=es", Telemundo Internacional
+http://176.57.50.167:25461/Tina1/Tina1/5165
 
 #EXTINF:-1 tvg-chno="239" tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png", Fox Sports 2
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/1020
