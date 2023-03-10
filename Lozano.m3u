@@ -261,28 +261,16 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117172
 #EXTINF:-1 tvg-chno="84" tvg-id="Odisea.es" tvg-name="Odisea" tvg-logo="https://static.epg.best/es/Odisea.es.png",Odisea
 http://visionplay.me:8080/ITZIAHERN/31349/462838 
 
-#EXTINF:-1 tvg-chno="91" tvg-id=”DisneyJunior.es” tvg-name=”Disney Jr. España” tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1280px-Disney_Junior.svg.png”,Disney Jr. España
+#EXTINF:-1 tvg-chno="91" tvg-id="" tvg-name="91" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Disney-Junior-logo.png", Disney Junior
 http://pofftvmax.com:2086/augusto/123456/481
 
-#EXTINF:-1 tvg-chno="91" tvg-id="" tvg-name="91" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Disney-Junior-logo.png", 91
-http://pofftvmax.com:2086/augusto/123456/481
-
-#EXTINF:-1 tvg-chno="92" tvg-id="Disney.es" tvg-name="Disney Channel" tvg-logo="https://en.m.wikipedia.org/wiki/Disney_Channel_(Spanish_TV_channel)#/media/File%3ADisneyChannelEMEA.svg", Disney Channel
+#EXTINF:-1 tvg-chno="92" tvg-id="" tvg-name="92" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/2560px-DisneyChannelEMEA.svg.png", Disney Channel
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266011
 
-#EXTINF:-1 tvg-chno="92" tvg-id="" tvg-name="92" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/2560px-DisneyChannelEMEA.svg.png", 92
-http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266011
-
-#EXTINF:-1 tvg-chno="93" tvg-id=”NICK JR” tvg-name=”Nick Jr. España” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png”,Nick Jr. España
+#EXTINF:-1 tvg-chno="93" tvg-id="" tvg-name="93" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", Nick Jr
 http://svtv.xyz:8080/jonya/HHcNTJp/55923
 
-#EXTINF:-1 tvg-chno="93" tvg-id="" tvg-name="93" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", 93
-http://svtv.xyz:8080/jonya/HHcNTJp/55923
-
-#EXTINF:-1 tvg-chno="94" tvg-id=”NICKELODEON HD” tvg-name=”Nickelodeon” tvg-logo=”https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICK.png”,Nickelodeon España
-http://svtv.xyz:8080/jonya/HHcNTJp/55850
-
-#EXTINF:-1 tvg-chno="94" tvg-id="" tvg-name="94" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png", 94
+#EXTINF:-1 tvg-chno="94" tvg-id="" tvg-name="94" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png", Nickelodeon
 http://svtv.xyz:8080/jonya/HHcNTJp/55850
 
 #EXTINF:-1 tvg-chno="95" tvg-id="" tvg-name="Dreamworks TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamworks
