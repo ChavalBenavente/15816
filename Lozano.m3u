@@ -7,7 +7,7 @@ https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/166620
 
 #EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://www.seekpng.com/png/full/229-2293870_azteca-trece-coming-azteca-uno-logo-azteca-1.png", Azteca Uno
-http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/254426
+http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/74239
 
 #EXTINF:-1 tvg-chno="1.5" tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png", La 1
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266078
@@ -21,9 +21,6 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22089
 #EXTINF:-1 tvg-chno="2.2" tvg-id="" tvg-name="Canal De Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1280px-Las_Estrellas.svg.png", Canal De Las Estrellas
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/135431
 
-#EXTINF:-1 tvg-chno="2.3" tvg-id="Chilevision.cl" tvg-name="Chilevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1024px-Chilevisi%C3%B3n_%282018-%29.png", Chilevision
-http://svtv.xyz:8080/jonya/HHcNTJp/288081
-
 #EXTINF:-1 tvg-chno="2.5" tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/2195px-Logo_TVE-2.svg.png", La 2
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266082
 
@@ -34,7 +31,7 @@ http://svtv.xyz:8080/jonya/HHcNTJp/299250
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22124
 
 #EXTINF:-1 tvg-chno="3.5" tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1280px-Antena_3_%282017%29.svg.png",Antena 3
-http://panel.tured.live:80/Hector123/Hector123/229017.ts
+http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/55037
 
 #EXTINF:-1 tvg-chno="4" tvg-id="america television" tvg-name="América Televisión" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-580x348-1004092.jpg",América Televisión
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194929
@@ -91,13 +88,13 @@ http://svtv.xyz:8080/jonya/HHcNTJp/31928
 http://panel.tured.live:80/mauri2022/mauri2022/99765.ts
 
 #EXTINF:-1 tvg-chno="7.2" tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png", Azteca 7
-http://svtv.xyz:8080/jonya/HHcNTJp/24167
+http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/74238
 
 #EXTINF:-1 tvg-chno="7.3" tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg/1025px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg.png", TVN
 http://svtv.xyz:8080/jonya/HHcNTJp/296557
 
 #EXTINF:-1 tvg-chno="8" tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Canaln2006.png", Canal N
-http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/166618
+http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/73766
 
 #EXTINF:-1 tvg-chno="8.5" tvg-id="Boing.es" tvg-name="Boing" tvg-logo="http://shacktv.com:8080/logos1/ESBOING.jpg",Boing
 http://svtv.xyz:8080/PONCHO/PONCHO2022/55914
@@ -128,6 +125,9 @@ http://nmstreaming.live:25461/UzielLCH/123456789/207962
 
 #EXTINF:-1 tvg-chno="11.1" tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",Telefe
 http://play.latvmia.com:8080/eddieel712/z4896KNpDa/1324924
+
+#EXTINF:-1 tvg-chno="11.3" tvg-id="Chilevision.cl" tvg-name="Chilevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1024px-Chilevisi%C3%B3n_%282018-%29.png", Chilevision
+http://svtv.xyz:8080/jonya/HHcNTJp/288081 
 
 #EXTINF:-1 tvg-chno="11.5" tvg-id="M+ Series HD" tvg-name="Movistar Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/1024px-Series_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Series
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117243
@@ -264,16 +264,25 @@ http://visionplay.me:8080/ITZIAHERN/31349/462838
 #EXTINF:-1 tvg-chno="91" tvg-id=”DisneyJunior.es” tvg-name=”Disney Jr. España” tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1280px-Disney_Junior.svg.png”,Disney Jr. España
 http://pofftvmax.com:2086/augusto/123456/481
 
+#EXTINF:-1 tvg-chno="91" tvg-id="" tvg-name="91" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Disney-Junior-logo.png", 91
+http://pofftvmax.com:2086/augusto/123456/481
+
 #EXTINF:-1 tvg-chno="92" tvg-id="Disney.es" tvg-name="Disney Channel" tvg-logo="https://en.m.wikipedia.org/wiki/Disney_Channel_(Spanish_TV_channel)#/media/File%3ADisneyChannelEMEA.svg", Disney Channel
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266011
 
-#EXTINF:-1 tvg-chno="92" tvg-id=”Disney.es” tvg-name=”Disney Channel España” tvg-logo=”https://en.m.wikipedia.org/wiki/Disney_Channel_(Spanish_TV_channel)#/media/File%3ADisneyChannelEMEA.svg”,Disney Channel España
+#EXTINF:-1 tvg-chno="92" tvg-id="" tvg-name="92" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/2560px-DisneyChannelEMEA.svg.png", 92
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266011
 
 #EXTINF:-1 tvg-chno="93" tvg-id=”NICK JR” tvg-name=”Nick Jr. España” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png”,Nick Jr. España
 http://svtv.xyz:8080/jonya/HHcNTJp/55923
 
+#EXTINF:-1 tvg-chno="93" tvg-id="" tvg-name="93" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", 93
+http://svtv.xyz:8080/jonya/HHcNTJp/55923
+
 #EXTINF:-1 tvg-chno="94" tvg-id=”NICKELODEON HD” tvg-name=”Nickelodeon” tvg-logo=”https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICK.png”,Nickelodeon España
+http://svtv.xyz:8080/jonya/HHcNTJp/55850
+
+#EXTINF:-1 tvg-chno="94" tvg-id="" tvg-name="94" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png", 94
 http://svtv.xyz:8080/jonya/HHcNTJp/55850
 
 #EXTINF:-1 tvg-chno="95" tvg-id="" tvg-name="Dreamworks TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamworks
@@ -318,16 +327,22 @@ http://svtv.xyz:8080/jonya/HHcNTJp/55925
 #EXTINF:-1 tvg-chno="202" tvg-id="StarChannel.pe" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png
 http://svtv.xyz:8080/jonya/HHcNTJp/299248
 
+#EXTINF:-1 tvg-chno="207" tvg-id="AE.ar" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png", A&E
+http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/74294
+
 #EXTINF:-1 tvg-chno="208" tvg-id="Sony.pe" tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Sony Channel
 http://svtv.xyz:8080/jonya/HHcNTJp/299247
 
-#EXTINF:-1 tvg-chno="210" tvg-id="TVCDeportes.mx" tvg-name="TVC Deportes" tvg-logo="https://www.seekpng.com/png/full/297-2976535_deportes-tvc-deportes-2-logo.png", TVC Deportes
+#EXTINF:-1 tvg-chno="209" tvg-id="AXN.ar" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png", AXN
+http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/74271
+
+#EXTINF:-1 tvg-chno="210" tvg-id="AMC.ar" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/2560px-AMC_logo_2016.svg.png", AMC
+http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/77338
+
+#EXTINF:-1 tvg-chno="211" tvg-id="TVCDeportes.mx" tvg-name="TVC Deportes" tvg-logo="https://www.seekpng.com/png/full/297-2976535_deportes-tvc-deportes-2-logo.png", TVC Deportes
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/26966
 
-#EXTINF:-1 tvg-chno="213" tvg-id="TNTSeries.cl" tvg-name="TNT Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Tnt-series-latin-america.svg", TNT Series
-http://svtv.xyz:8080/jonya/HHcNTJp/164031
-
-#EXTINF:-1 tvg-chno="213" tvg-id="" tvg-name="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2560px-TNT_Serie_HD.svg.png", 213
+#EXTINF:-1 tvg-chno="213" tvg-id="TNTSeries.cl" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2560px-TNT_Serie_HD.svg.png", TNT Series
 http://svtv.xyz:8080/jonya/HHcNTJp/164031
 
 #EXTINF:-1 tvg-chno="214" tvg-id="A3Series.ar" tvg-name="A3Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/2560px-Atreseries_2020_logo.svg.png", A3Series
@@ -366,7 +381,7 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/141446
 #EXTINF:-1 tvg-chno="300" tvg-id="LaLigaTV Bar" tvg-name="LaLigaTV Bar" tvg-logo="https://futbar.com/logos/laliga_white_logo.png", LaLigaTV Bar
 http://svtv.xyz:8080/jonya/HHcNTJp/31902
 
-#EXTINF:-1 tvg-chno="303" tvg-id="" tvg-name="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png", 303
+#EXTINF:-1 tvg-chno="303" tvg-id="" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png", TLC
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/276829
 
 #EXTINF:-1 tvg-chno="402" tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
@@ -416,6 +431,9 @@ http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
 
 #EXTINF:-1 tvg-chno="623" tvg-id="ESPN3.ar" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/2560px-ESPN3_logo.svg.png", ESPN 3
 http://svtv.xyz:8080/jonya/HHcNTJp/296545
+
+#EXTINF:-1 tvg-chno="624" tvg-id="ESPN4.ar" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4
+http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/95953
 
 #EXTINF:-1 tvg-chno="629" tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TyC Sports
 http://svtv.xyz:8080/jonya/HHcNTJp/299241
