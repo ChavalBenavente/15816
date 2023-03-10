@@ -426,6 +426,9 @@ http://svtv.xyz:8080/jonya/HHcNTJp/200939
 #EXTINF:-1 tvg-chno="634" tvg-id="WinSportsMas.co" tvg-name="Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", Win Sports+
 http://svtv.xyz:8080/jonya/HHcNTJp/299238
 
+#EXTINF:-1 tvg-chno="650" tvg-id="BeInSportsÑ.ar" tvg-name="BeIn Sports Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png", BeIn Sports Ñ
+http://tv.masterplaytv.club:39001/JuanPGarcia3462/RUUgxHwgc3/141449
+
 #EXTINF:-1 tvg-chno="661" tvg-id="VTVPlus.uy" tvg-name="VTV Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png", VTV Plus
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/153848
 
