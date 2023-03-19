@@ -4,10 +4,10 @@
 https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/640px-Willax_Televisi%C3%B3n_2020.png", Willax TV
-http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/166620
+http://svtv.xyz:8080/jonya/HHcNTJp/55207
 
 #EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://www.seekpng.com/png/full/229-2293870_azteca-trece-coming-azteca-uno-logo-azteca-1.png", Azteca Uno
-http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/74239
+http://svtv.xyz:8080/jonya/HHcNTJp/37670
 
 #EXTINF:-1 tvg-chno="1.5" tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png", La 1
 http://go-nextlevel.xyz:25461/Georgia01/Georgia01/243041
@@ -61,13 +61,13 @@ http://svtv.xyz:8080/jonya/HHcNTJp/31917
 http://176.57.50.167:25461/Tina1/Tina1/5071
 
 #EXTINF:-1 tvg-chno="5.2" tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1280px-Canal_5_Mexico_logo_2014.svg.png", Canal 5
-http://svtv.xyz:8080/jonya/HHcNTJp/172
+http://playhispano.org:25461/0224231335/m5doVCOGpT/87081
 
 #EXTINF:-1 tvg-chno="5.4" tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1280px-Caracol_Televisi%C3%B3n_logo.svg.png", Caracol TV
 http://svtv.xyz:8080/jonya/HHcNTJp/159809
 
 #EXTINF:-1 tvg-chno="5.5" tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1280px-Telecinco.svg.png", Telecinco
-http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266092 
+http://svtv.xyz:8080/jonya/HHcNTJp/68747 
 
 #EXTINF:-1 tvg-chno="5.6" tvg-id="TNU.uy" tvg-name="TNU" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_07/small.933539358_915sinttulo_20210722210858.png.f6a051fddf484ec873a5e7e6b435833f.png", TNU
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22175
@@ -75,17 +75,20 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22175
 #EXTINF:-1 tvg-chno="6" tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8e%2FMovistar_Plus_%2528Peru%2529_-_2017_logo.png&w=1080&q=50", Movistar Plus
 http://svtv.xyz:8080/jonya/HHcNTJp/196248
 
+#EXTINF:-1 tvg-chno="6.1" tvg-id="LN.ar" tvg-name="LN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagOUGI6mYsjfV__VlNxoGT9WD-J-R_VJsryt7qGsrH3W194WLEudyK57rg27s27CpFuBU1U3jI21INplrlw35MRBg7HnoXg0JOwXPejr3x2Q_FyDgVOdDKs7MR40C_TDji7jomapCBybb7OH8D_wS4aDVYj1shi7lJ8DA8hWARu2iZg2sawkdcW7p/s544/LANACION-MAS.png", LN +
+http://playhispano.org:25461/0224231335/m5doVCOGpT/160661
+
 #EXTINF:-1 tvg-chno="6.2" tvg-id="Canal6.mx" tvg-name="Multimedios Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1461px-Multimedios_Canal_Seis_Logo.svg.png", Multimedios Television
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/26717
 
 #EXTINF:-1 tvg-chno="6.5" tvg-id="La6.es" tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LaSexta_HD_Logo_2016.png/1278px-LaSexta_HD_Logo_2016.png", La Sexta
-http://panel.tured.live:80/Hector123/Hector123/93704.ts
+http://svtv.xyz:8080/jonya/HHcNTJp/31908
 
 #EXTINF:-1 tvg-chno="7" tvg-id="TVPeruNoticias.pe" tvg-name="TV Peru Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/640px-TV_Per%C3%BA_Noticias_-_2019_logo.png", TV Peru Noticias
 http://svtv.xyz:8080/jonya/HHcNTJp/31928
 
 #EXTINF:-1 tvg-chno="7.1" tvg-id="tvpublica.ar" tvg-name="Televisión Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/640px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",TV Pública
-http://panel.tured.live:80/mauri2022/mauri2022/99765.ts
+http://playhispano.org:25461/0224231335/m5doVCOGpT/195334
 
 #EXTINF:-1 tvg-chno="7.2" tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png", Azteca 7
 http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/74238
@@ -112,16 +115,16 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/26964
 http://svtv.xyz:8080/jonya/HHcNTJp/172033
 
 #EXTINF:-1 tvg-chno="10" tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-logo="http://panel.tured.live:80/images/e18e735852f9bd9f333d394050e22e0d.png",RPP TV
-http://panel.tured.live:80/mauri2022/mauri2022/99684.ts 
+http://playhispano.org:25461/0224231335/m5doVCOGpT/86487 
 
 #EXTINF:-1 tvg-chno="10.6" tvg-id="Canal10.uy" tvg-name="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Canal_10_Uruguay_Logo_1960.webp", Canal 10
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22178
 
 #EXTINF:-1 tvg-chno="11" tvg-id="" tvg-name="Liga 1" tvg-logo="https://2.bp.blogspot.com/-porIDbBHAHA/XDUP54Z5qLI/AAAAAAABTqI/7RjjZrqvA_QJglZbN5rxa1avkNtTNZTlQCLcBGAs/s1600/Liga1Peru.png", Liga 1
-http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/176687 
+http://playhispano.org:25461/0224231335/m5doVCOGpT/189561 
 
 #EXTINF:-1 tvg-chno="11" tvg-id=”bescablesportsperu.pe” tvg-name=”BESTCABLE SPORTS“ tvg-logo=”https://yt3.googleusercontent.com/60R-uwtAbZOFS9uvtVx35hiaYIJnfG9RjSpVBTxovF7xXprnT0t4XXvEc7SZTrhItK622-NURQ=s900-c-k-c0x00ffffff-no-rj”, BESTCABLE SPORTS
-http://nmstreaming.live:25461/UzielLCH/123456789/207962 
+http://playhispano.org:25461/0224231335/m5doVCOGpT/192667 
 
 #EXTINF:-1 tvg-chno="11.1" tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",Telefe
 http://play.latvmia.com:8080/eddieel712/z4896KNpDa/1324924
