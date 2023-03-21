@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-id=" tvg-name="Gran Hermano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7mo9dnBnjZciNgpjzSVrqI6_WTIUZ4vjlA&usqp=CAU", Gran Hermano
+#EXTINF:-1 tvg-chno="1" tvg-id="6320ddef274b1b0007b2ee88" tvg-name="Gran Hermano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7mo9dnBnjZciNgpjzSVrqI6_WTIUZ4vjlA&usqp=CAU", Gran Hermano
 https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/640px-Willax_Televisi%C3%B3n_2020.png", Willax TV
