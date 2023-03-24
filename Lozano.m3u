@@ -291,7 +291,7 @@ http://pofftvmax.com:2086/augusto/123456/205
 #EXTINF:-1 tvg-chno="102" tvg-id="TNT.pe" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/2048px-TNT_TV_logo.svg.png", TNT
 http://svtv.xyz:8080/jonya/HHcNTJp/299244 
 
-#EXTINF:-1 tvg-chno="106" tvg-id="WARNER" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", Warner TV
+#EXTINF:-1 tvg-chno="106" tvg-id="WarnerChannelSouth.us" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", Warner TV
 http://svtv.xyz:8080/jonya/HHcNTJp/31026
 
 #EXTINF:-1 tvg-chno="110" tvg-id="MovistarLaLiga.es" tvg-name="Movistar LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png", M+ LaLiga
@@ -378,7 +378,7 @@ http://go-nextlevel.xyz:25461/Georgia01/Georgia01/201340
 #EXTINF:-1 tvg-chno="303" tvg-id="" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png", TLC
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/276829
 
-#EXTINF:-1 tvg-chno="304" tvg-id="CARTOON NETWORK" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
+#EXTINF:-1 tvg-chno="304" tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/168917
 
 #EXTINF:-1 tvg-chno="308" tvg-id="Nick.mx" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png", Nick
@@ -399,7 +399,7 @@ http://svtv.xyz:8080/jonya/HHcNTJp/293983
 #EXTINF:-1 tvg-chno="509" tvg-id="Cinemax.ar" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png", Cinemax
 http://go-nextlevel.xyz:25461/Georgia01/Georgia01/201275
 
-#EXTINF:-1 tvg-chno="510" tvg-id="Paramount.ar" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/2560px-Paramount_Pictures_Corporation_logo.svg.png", Paramount
+#EXTINF:-1 tvg-chno="510" tvg-id="ParamountNetworkPanregional.us" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/2560px-Paramount_Pictures_Corporation_logo.svg.png", Paramount
 http://go-nextlevel.xyz:25461/Georgia01/Georgia01/201444
 
 #EXTINF:-1 tvg-chno="511" tvg-id="HBOLat.us" tvg-name="HBO Latino" tvg-logo="https://i.imgur.com/0nkBOB1_d.webp?maxwidth=1520&fidelity=grand", HBO Latino
@@ -411,7 +411,7 @@ http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/77055
 #EXTINF:-1 tvg-chno="513" tvg-id="DHE.us" tvg-name="DHE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png", DHE
 http://go-nextlevel.xyz:25461/Georgia01/Georgia01/201276
 
-#EXTINF:-1 tvg-chno="518" tvg-id="SPACE" tvg-name="Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png", Space
+#EXTINF:-1 tvg-chno="518" tvg-id="SpacePanregional.us" tvg-name="Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png", Space
 http://go-nextlevel.xyz:25461/Georgia01/Georgia01/239019
 
 #EXTINF:-1 tvg-chno="542" tvg-id="CNNEspañol.mx" tvg-name="CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/2560px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png", CNN en Español
@@ -429,7 +429,7 @@ http://tv.masterplaytv.club:39001/JuanPGarcia3462/RUUgxHwgc3/4670
 #EXTINF:-1 tvg-chno="604" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png", ESPN Premium
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/154049
 
-#EXTINF:-1 tvg-chno="621" tvg-id=”ESPNArgentina.ar” tvg-name=”ESPN Argentina” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png", ESPN Argentina
+#EXTINF:-1 tvg-chno="621" tvg-id=”ESPN.ar” tvg-name=”ESPN Argentina” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png", ESPN Argentina
 http://teamnextlevel.xyz:25461/Cortez/Cortez/201550
 
 #EXTINF:-1 tvg-chno="622" tvg-id="ESPN2.ar" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2
