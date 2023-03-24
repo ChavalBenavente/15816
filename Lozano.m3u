@@ -357,7 +357,7 @@ http://176.57.50.167:25461/Tina1/Tina1/5095
 #EXTINF:-1 tvg-chno="223" tvg-id="InvestigationDiscoverySouth.us" tvg-name="Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png", Discovery Investigation
 http://svtv.xyz:8080/jonya/HHcNTJp/299254
 
-#EXTINF:-1 tvg-chno="231" tvg-id="TelemundoInt.mx" tvg-name="Telemundo Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Telemundo_Internacional_Logo_(2018-presente).png/revision/latest/scale-to-width-down/1000?cb=20181101133212&path-prefix=es", Telemundo Internacional
+#EXTINF:-1 tvg-chno="231" tvg-id="TELEMUNDO" tvg-name="Telemundo Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Telemundo_Internacional_Logo_(2018-presente).png/revision/latest/scale-to-width-down/1000?cb=20181101133212&path-prefix=es", Telemundo Internacional
 http://176.57.50.167:25461/Tina1/Tina1/5165
 
 #EXTINF:-1 tvg-chno="239" tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png", Fox Sports 2
