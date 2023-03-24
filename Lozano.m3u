@@ -99,7 +99,7 @@ http://svtv.xyz:8080/jonya/HHcNTJp/296557
 #EXTINF:-1 tvg-chno="8" tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Canaln2006.png", Canal N
 http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/73766
 
-#EXTINF:-1 tvg-chno="8.5" tvg-id="Boing.es" tvg-name="Boing" tvg-logo="http://shacktv.com:8080/logos1/ESBOING.jpg",Boing
+#EXTINF:-1 tvg-chno="8.5" tvg-id="BoingSpain.es" tvg-name="Boing" tvg-logo="http://shacktv.com:8080/logos1/ESBOING.jpg",Boing
 http://svtv.xyz:8080/PONCHO/PONCHO2022/55914
 
 #EXTINF:-1 tvg-chno="9" tvg-id="ATV.pe" tvg-name"ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ATV_%28Peru%29_-_2018_logo.png/640px-ATV_%28Peru%29_-_2018_logo.png", ATV
@@ -213,10 +213,10 @@ http://svtv.xyz:8080/jonya/HHcNTJp/190776
 #EXTINF:-1 tvg-chno="39" tvg-id="CanalHollywood.es" tvg-name="Hollywood" tvg-logo="http://castlempire.site:8080/images/d052c3b53c436f6846f409793b478c81.png", Canal Hollywood
 http://svtv.xyz:8080/jonya/HHcNTJp/55896
 
-#EXTINF:-1 tvg-chno="40" tvg-id=”sundancetvspain.es” tvg-name=”SUNDANCE TV” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/1280px-SundanceTV_2014.svg.png”,Sundance TV
+#EXTINF:-1 tvg-chno="40" tvg-id=”SundanceTVSpain.es” tvg-name=”Sundance TV” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/1280px-SundanceTV_2014.svg.png”,Sundance TV
 http://cpi4u.com:45862/EDSON660/VEjxagzuVK/109970
 
-#EXTINF:-1 tvg-chno="41" tvg-id=”dark.es” tvg-name=”DARK” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/5/5f/Dark_Teuve_2.png”,Dark
+#EXTINF:-1 tvg-chno="41" tvg-id=”Dark.es” tvg-name=”Dark” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/5/5f/Dark_Teuve_2.png”,Dark
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117221
 
 #EXTINF:-1 tvg-chno="43" tvg-id=”paramountchannelspain.es” tvg-name=”Paramount Network Esñaña” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/5/5d/Paramount_Network_logo.png”,Paramount Network España
@@ -336,7 +336,7 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/26966
 #EXTINF:-1 tvg-chno="213" tvg-id="TNTSeries.cl" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2560px-TNT_Serie_HD.svg.png", TNT Series
 http://svtv.xyz:8080/jonya/HHcNTJp/164031
 
-#EXTINF:-1 tvg-chno="214" tvg-id="A3Series.ar" tvg-name="A3Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/2560px-Atreseries_2020_logo.svg.png", A3Series
+#EXTINF:-1 tvg-chno="214" tvg-id="Atreseries.es" tvg-name="A3Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/2560px-Atreseries_2020_logo.svg.png", A3Series
 http://176.57.50.167:25461/Tina1/Tina1/61877
 
 #EXTINF:-1 tvg-chno="215" tvg-id="ComedyCentral.ar" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVJ24qKVwcS1fjXIn9y2zlstzyJaVffqai8hwe7X-k=s900-c-k-c0x00ffffff-no-rj", Comedy Central
@@ -381,7 +381,7 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/276829
 #EXTINF:-1 tvg-chno="304" tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/168917
 
-#EXTINF:-1 tvg-chno="308" tvg-id="Nick.mx" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png", Nick
+#EXTINF:-1 tvg-chno="308" tvg-id="NickelodeonSouth.us" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png", Nick
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/168930
 
 #EXTINF:-1 tvg-chno="312" tvg-id="DisneyChannel.ar" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/2560px-Disney_Channel_logo_%282014%29.svg.png", Disney Channel
@@ -447,7 +447,7 @@ http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/95953
 #EXTINF:-1 tvg-chno="629" tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TyC Sports
 http://svtv.xyz:8080/jonya/HHcNTJp/299241
 
-#EXTINF:-1 tvg-chno="631" tvg-id="" tvg-name="631" tvg-logo="https://i.ibb.co/0j4Kj2n/Picsart-23-03-05-17-49-37-742.png", 631
+#EXTINF:-1 tvg-chno="631" tvg-id="TNTChile.cl" tvg-name="631" tvg-logo="https://i.ibb.co/0j4Kj2n/Picsart-23-03-05-17-49-37-742.png", 631
 http://svtv.xyz:8080/jonya/HHcNTJp/159924
 
 #EXTINF:-1 tvg-chno="633" tvg-id="WinSports.co" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png", Win Sports
