@@ -120,6 +120,9 @@ http://daleplaypro.com:8080/Willy21/Willy21/156170
 #EXTINF:-1 tvg-chno="10" tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-logo="http://panel.tured.live:80/images/e18e735852f9bd9f333d394050e22e0d.png",RPP TV
 http://svtv.xyz:8080/jonya/HHcNTJp/192537 
 
+#EXTINF:-1 tvg-chno="10" tvg-id="Canal Claro" tvg-name="Canal Claro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/CanalClaro.jpg/revision/latest/scale-to-width-down/220?cb=20210423175312&path-prefix=es", Canal Claro
+http://daleplaypro.com:8080/Willy21/Willy21/223295
+
 #EXTINF:-1 tvg-chno="10.6" tvg-id="Canal10.uy" tvg-name="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Canal_10_Uruguay_Logo_1960.webp", Canal 10
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22178
 
@@ -156,7 +159,7 @@ http://panel.tured.live:80/Hector123/Hector123/173213.ts
 #EXTINF:-1 tvg-chno="13.1" tvg-id="El13.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", El Trece
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/153937
 
-#EXTINF:-1 tvg-chno="13.2" tvg-id="Bitme.mx" tvg-name="Bitme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png", Bitme
+#EXTINF:-1 tvg-chno="13.2" tvg-id="BITIME" tvg-name="Bitme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png", Bitme
 http://go-nextlevel.xyz:25461/Georgia01/Georgia01/218179
 
 #EXTINF:-1 tvg-chno="13.3" tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg/483px-Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg.png", Canal 13
@@ -410,6 +413,9 @@ http://daleplaypro.com:8080/Willy21/Willy21/156121
 
 #EXTINF:-1 tvg-chno="500" tvg-id="SkyLaliga.es" tvg-name="SkySports LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png", SkySports LaLiga
 http://svtv.xyz:8080/jonya/HHcNTJp/293983
+
+#EXTINF:-1 tvg-chno="501" tvg-id="TUDN" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png", TUDN
+http://daleplaypro.com:8080/Willy21/Willy21/136820
 
 #EXTINF:-1 tvg-chno="509" tvg-id="Cinemax.ar" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png", Cinemax
 http://go-nextlevel.xyz:25461/Georgia01/Georgia01/201275
