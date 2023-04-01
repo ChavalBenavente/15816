@@ -9,7 +9,7 @@ http://svtv.xyz:8080/jonya/HHcNTJp/55207
 #EXTINF:-1 tvg-chno="1.1" tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1803px-A24-logo.svg.png", A24
 http://daleplaypro.com:8080/Willy21/Willy21/81289
 
-#EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://www.seekpng.com/png/full/229-2293870_azteca-trece-coming-azteca-uno-logo-azteca-1.png", Azteca Uno
+#EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno HD" tvg-logo="https://www.seekpng.com/png/full/229-2293870_azteca-trece-coming-azteca-uno-logo-azteca-1.png", Azteca Uno HD
 http://svtv.xyz:8080/jonya/HHcNTJp/37670
 
 #EXTINF:-1 tvg-chno="1.5" tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png", La 1
@@ -21,13 +21,13 @@ http://svtv.xyz:8080/jonya/HHcNTJp/299227
 #EXTINF:-1 tvg-chno="2.1" tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png",America TV
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22089
 
-#EXTINF:-1 tvg-chno="2.2" tvg-id="LasEstrellas.mx" tvg-name="Canal De Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1280px-Las_Estrellas.svg.png", Canal De Las Estrellas
+#EXTINF:-1 tvg-chno="2.2" tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1280px-Las_Estrellas.svg.png", Las Estrellas HS
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/135431
 
 #EXTINF:-1 tvg-chno="2.5" tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/2195px-Logo_TVE-2.svg.png", La 2
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266082
 
-#EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes
+#EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú
 http://svtv.xyz:8080/jonya/HHcNTJp/299250
 
 #EXTINF:-1 tvg-chno="3.1" tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
@@ -42,7 +42,7 @@ http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194929
 #EXTINF:-1 tvg-chno="4.1" tvg-id="CronicaTV.ar" tvg-name="CRÓNICA" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINACRONICA.jpg",Crónica
 http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/269450
 
-#EXTINF:-1 tvg-chno="4.2" tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png", Foro TV
+#EXTINF:-1 tvg-chno="4.2" tvg-id="ForoTV.mx" tvg-name="Foro TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png", Foro TV HD
 http://svtv.xyz:8080/jonya/HHcNTJp/109054
 
 #EXTINF:-1 tvg-chno="4.3" tvg-id="lared.cl" tvg-name="La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1280px-La_Red_Logotipo_2021.svg.png", La Red
@@ -63,7 +63,7 @@ http://svtv.xyz:8080/jonya/HHcNTJp/31917
 #EXTINF:-1 tvg-chno="5.1" tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG", C5N
 http://176.57.50.167:25461/Tina1/Tina1/5071
 
-#EXTINF:-1 tvg-chno="5.2" tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1280px-Canal_5_Mexico_logo_2014.svg.png", Canal 5
+#EXTINF:-1 tvg-chno="5.2" tvg-id="Canal5.mx" tvg-name="Canal 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1280px-Canal_5_Mexico_logo_2014.svg.png", Canal 5 HD
 http://daleplaypro.com:8080/Willy21/Willy21/114283
 
 #EXTINF:-1 tvg-chno="5.4" tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1280px-Caracol_Televisi%C3%B3n_logo.svg.png", Caracol TV
@@ -285,7 +285,7 @@ http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266011
 #EXTINF:-1 tvg-chno="93" tvg-id="NickJrSpain.es" tvg-name="93" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", Nick Jr
 http://svtv.xyz:8080/jonya/HHcNTJp/55923
 
-#EXTINF:-1 tvg-chno="94" tvg-id="NickelodeonSpain.es" tvg-name="94" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png", Nickelodeon
+#EXTINF:-1 tvg-chno="94" tvg-id="NickelodeonSpain.es" tvg-name="94" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png", Nickelodeon Spain
 http://svtv.xyz:8080/jonya/HHcNTJp/55850
 
 #EXTINF:-1 tvg-chno="95" tvg-id="DreamworksChannelSpain.es" tvg-name="Dreamworks TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamworks
@@ -378,25 +378,25 @@ http://svtv.xyz:8080/jonya/HHcNTJp/299254
 #EXTINF:-1 tvg-chno="231" tvg-id="TELEMUNDO" tvg-name="Telemundo Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Telemundo_Internacional_Logo_(2018-presente).png/revision/latest/scale-to-width-down/1000?cb=20181101133212&path-prefix=es", Telemundo Internacional
 http://176.57.50.167:25461/Tina1/Tina1/5165
 
-#EXTINF:-1 tvg-chno="239" tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png", Fox Sports 2
+#EXTINF:-1 tvg-chno="239" tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png", Fox Sports 2
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/1020
 
-#EXTINF:-1 tvg-chno="240" tvg-id="FoxSports3.cl" tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/2560px-Fox_Sports_3_Argentina_2023.svg.png", Fox Sports 3
+#EXTINF:-1 tvg-chno="240" tvg-id="FoxSports3.cl" tvg-name="Fox Sports 3 Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/2560px-Fox_Sports_3_Argentina_2023.svg.png", Fox Sports 3
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/141445
 
-#EXTINF:-1 tvg-chno="241" tvg-id="FoxSports.ar" tvg-name="Fox Sports" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/small.1336428652_FOXSportsARG(2023-).png.4163d5ab2163e727a2e654780572557e.png", Fox Sports
+#EXTINF:-1 tvg-chno="241" tvg-id="FoxSports.ar" tvg-name="Fox Sports Argentina" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/small.1336428652_FOXSportsARG(2023-).png.4163d5ab2163e727a2e654780572557e.png", Fox Sports
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/141446
 
 #EXTINF:-1 tvg-chno="300" tvg-id="LaLigaTV Bar" tvg-name="LaLigaTV Bar" tvg-logo="https://futbar.com/logos/laliga_white_logo.png", LaLigaTV Bar
 http://svtv.xyz:8080/jonya/HHcNTJp/31902
 
-#EXTINF:-1 tvg-chno="302" tvg-id="HBOFamily.ar" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Family
+#EXTINF:-1 tvg-chno="302" tvg-id="HBOFamily.ar" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Family HD
 http://go-nextlevel.xyz:25461/Georgia01/Georgia01/201340
 
 #EXTINF:-1 tvg-chno="303" tvg-id="" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png", TLC
 http://daleplaypro.com:8080/Willy21/Willy21/126558
 
-#EXTINF:-1 tvg-chno="304" tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
+#EXTINF:-1 tvg-chno="304" tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png", Cartoon Network HD
 http://daleplaypro.com:8080/Willy21/Willy21/156126
 
 #EXTINF:-1 tvg-chno="308" tvg-id="NickelodeonSouth.us" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png", Nick
@@ -453,13 +453,13 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/154049
 #EXTINF:-1 tvg-chno="621" tvg-id=”ESPN.ar” tvg-name=”ESPN Argentina” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png", ESPN Argentina
 http://daleplaypro.com:8080/Willy21/Willy21/156145
 
-#EXTINF:-1 tvg-chno="622" tvg-id="ESPN2.ar" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2
+#EXTINF:-1 tvg-chno="622" tvg-id="ESPN2.ar" tvg-name="ESPN 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2
 http://svtv.xyz:8080/jonya/HHcNTJp/299268
 
 #EXTINF:-1 tvg-chno="624" tvg-id="ESPNExtraSouth.us" tvg-name="ESPN Extra South" tvg-logo="https://i.imgur.com/4VrK2WA.jpg" group-title="Deportes",ESPN Extra South
 http://daleplaypro.com:8080/Willy21/Willy21/156142
 
-#EXTINF:-1 tvg-chno="623" tvg-id="ESPN3.ar" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/2560px-ESPN3_logo.svg.png", ESPN 3
+#EXTINF:-1 tvg-chno="623" tvg-id="ESPN3.ar" tvg-name="ESPN 3 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/2560px-ESPN3_logo.svg.png", ESPN 3
 http://svtv.xyz:8080/jonya/HHcNTJp/296545
 
 #EXTINF:-1 tvg-chno="624" tvg-id="ESPN4.ar" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4
