@@ -6,6 +6,9 @@ https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485
 #EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/640px-Willax_Televisi%C3%B3n_2020.png", Willax TV
 http://svtv.xyz:8080/jonya/HHcNTJp/55207
 
+#EXTINF:-1 tvg-chno="1.1" tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1803px-A24-logo.svg.png", A24
+http://daleplaypro.com:8080/Willy21/Willy21/81289
+
 #EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://www.seekpng.com/png/full/229-2293870_azteca-trece-coming-azteca-uno-logo-azteca-1.png", Azteca Uno
 http://svtv.xyz:8080/jonya/HHcNTJp/37670
 
@@ -189,10 +192,16 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117223
 #EXTINF:-1 tvg-chno="21" tvg-id="AXNWhite.us" tvg-name="AXN White" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png", AXN White
 http://svtv.xyz:8080/jonya/HHcNTJp/55853
 
-#EXTINF:-1 tvg-chno="22" tvg-id="SyFySpain.es" tvg-name="SyFy España" tvg-logo="https://static.mercadonegro.pe/wp-content/uploads/2017/07/27012714/syfy_2017_logo.png",SyFy España
+#EXTINF:-1 tvg-chno="22.1" tvg-id="CineAr.ar" tvg-name="CineAr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/2560px-Cine.Ar_logo.svg.png", CineAr
+http://daleplaypro.com:8080/Willy21/Willy21/81320
+
+#EXTINF:-1 tvg-chno="22.5" tvg-id="SyFySpain.es" tvg-name="SyFy España" tvg-logo="https://static.mercadonegro.pe/wp-content/uploads/2017/07/27012714/syfy_2017_logo.png",SyFy España
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117248
 
-#EXTINF:-1 tvg-chno="24" tvg-id="ComedyCentralSpain.es" tvg-name="Comedy Central España" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Comedy-Central-Symbol.jpg", Comedy Central España
+#EXTINF:-1 tvg-chno="24.2" tvg-id="AZCorazon.mx" tvg-name="Azteca Corazón" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.692624624_TVAztecaInternacionalCorazn.png.6837edce04314290090b044fa94a2a06.png", Azteca Corazón
+http://daleplaypro.com:8080/Willy21/Willy21/63191
+
+#EXTINF:-1 tvg-chno="24.5" tvg-id="ComedyCentralSpain.es" tvg-name="Comedy Central España" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Comedy-Central-Symbol.jpg", Comedy Central España
 http://nmstreaming.live:25461/UzielLCH/123456789/2100590 
 
 #EXTINF:-1 tvg-chno="30" tvg-id="MovistarEstrenos.es" tvg-name="Movistar Estrenos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1280px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png", Movistar Estrenos HD
