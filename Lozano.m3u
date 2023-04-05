@@ -261,7 +261,7 @@ http://visionplay.me:8080/ITZIAHERN/31349/462845
 #EXTINF:-1 tvg-chno="71" tvg-id="NationalGeographicWildSpain.es" tvg-name="National Geographic Wild España" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJV5koTcK1Zq-F-3BCjM5OKQa8PKF4dQ9wy8g3uVtg=s900-c-k-c0x00ffffff-no-rj",NatGeo WILD España
 http://visionplay.me:8080/ITZIAHERN/31349/462844
 
-#EXTINF:-1 tvg-chno="73" tvg-id="discoverychannelspain.es" tvg-name=”Discovery Channel España” tvg-logo="http://mirror.streamhubtv.me:8080/images/be34fe9fbde58cdeb95658967017059f.png",Discovery Channel España
+#EXTINF:-1 tvg-chno="73" tvg-id="DiscoveryChannelSpain.es" tvg-name="Discovery Channel España" tvg-logo="https://banner2.cleanpng.com/20180421/lxe/kisspng-discovery-channel-television-channel-discovery-hd-cooperative-signing-5adbecaa96a947.1777021915243624106171.jpg", Discovery Channel Spain
 http://nmstreaming.live:25461/UzielLCH/123456789/2100604
 
 #EXTINF:-1 tvg-chno="78" tvg-id="AMC Crime" tvg-name="AMC Crime" tvg-logo="http://nowresurface.eu:2086/images/82354908d326d6b73c7b723c276ddefe.png",AMC Crime
@@ -270,7 +270,7 @@ http://svtv.xyz:8080/jonya/HHcNTJp/351195
 #EXTINF:-1 tvg-chno="80" tvg-id="Canal Cocina" tvg-name="AMC Cocina" tvg-logo="http://nowresurface.eu:2086/images/99281303f6eab9edf2ec9f7ffde1bbaa.png",AMC Cocina
 http://svtv.xyz:8080/jonya/HHcNTJp/55867
 
-#EXTINF:-1 tvg-chno="83" tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png", Mega España
+#EXTINF:-1 tvg-chno="83" tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png", Mega
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117172
 
 #EXTINF:-1 tvg-chno="84" tvg-id="Odisea.es" tvg-name="Odisea" tvg-logo="https://static.epg.best/es/Odisea.es.png",Odisea
