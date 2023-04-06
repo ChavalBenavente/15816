@@ -381,13 +381,13 @@ http://svtv.xyz:8080/jonya/HHcNTJp/299254
 #EXTINF:-1 tvg-chno="231" tvg-id="TELEMUNDO" tvg-name="Telemundo Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Telemundo_Internacional_Logo_(2018-presente).png/revision/latest/scale-to-width-down/1000?cb=20181101133212&path-prefix=es", Telemundo Internacional
 http://176.57.50.167:25461/Tina1/Tina1/5165
 
-#EXTINF:-1 tvg-chno="239" tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png", Fox Sports 2 Argentina
+#EXTINF:-1 tvg-chno="239" tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png", Fox Sports 2
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/1020
 
-#EXTINF:-1 tvg-chno="240" tvg-id="FoxSports3.cl" tvg-name="Fox Sports 3 Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/2560px-Fox_Sports_3_Argentina_2023.svg.png", Fox Sports 3 Chile
+#EXTINF:-1 tvg-chno="240" tvg-id="FoxSports3.cl" tvg-name="Fox Sports 3 Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/2560px-Fox_Sports_3_Argentina_2023.svg.png", Fox Sports 3
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/141445
 
-#EXTINF:-1 tvg-chno="241" tvg-id="FoxSports.ar" tvg-name="Fox Sports Argentina" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/small.1336428652_FOXSportsARG(2023-).png.4163d5ab2163e727a2e654780572557e.png", Fox Sports Argentina
+#EXTINF:-1 tvg-chno="241" tvg-id="FoxSports.ar" tvg-name="Fox Sports Argentina" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/small.1336428652_FOXSportsARG(2023-).png.4163d5ab2163e727a2e654780572557e.png", Fox Sports
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/141446
 
 #EXTINF:-1 tvg-chno="300" tvg-id="LaLigaTV Bar" tvg-name="LaLigaTV Bar" tvg-logo="https://futbar.com/logos/laliga_white_logo.png", LaLigaTV Bar
