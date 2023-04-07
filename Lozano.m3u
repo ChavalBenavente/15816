@@ -12,6 +12,9 @@ http://daleplaypro.com:8080/Willy21/Willy21/81289
 #EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno HD" tvg-logo="https://www.seekpng.com/png/full/229-2293870_azteca-trece-coming-azteca-uno-logo-azteca-1.png", Azteca Uno HD
 http://svtv.xyz:8080/jonya/HHcNTJp/37670
 
+#EXTINF:-1 tvg-chno="1.4" tvg-id="CanalUno.co" tvg-name="Canal Uno"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/2086px-Channel_1_%28Colombia%29_-_2017_logo.svg.png", Canal Uno
+http://hidra.live:80/nkzrgzmt/PNeedjRI/304224
+
 #EXTINF:-1 tvg-chno="1.5" tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png", La 1
 http://svtv.xyz:8080/jonya/HHcNTJp/278027
 
@@ -25,13 +28,16 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22089
 http://dns.k4livetv.com:8080/ESPERANZA/1234/408514
 
 #EXTINF:-1 tvg-chno="2.5" tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/2195px-Logo_TVE-2.svg.png", La 2
-http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266082
+http://hidra.live:80/nkzrgzmt/PNeedjRI/303670
 
 #EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú
 http://svtv.xyz:8080/jonya/HHcNTJp/299250
 
 #EXTINF:-1 tvg-chno="3.1" tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22124
+
+#EXTINF:-1 tvg-chno="3.2" tvg-id="ImagenTV.mx" tvg-name="Imagen TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", Imagen TV
+http://hidra.live:80/nkzrgzmt/PNeedjRI/302675
 
 #EXTINF:-1 tvg-chno="3.5" tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1280px-Antena_3_%282017%29.svg.png",Antena 3
 http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/55037
@@ -49,7 +55,7 @@ http://svtv.xyz:8080/jonya/HHcNTJp/109054
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="4.4" tvg-id="CanalRCN.co" tvg-name="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1228px-Canal_RCN_logo.svg.png", RCN
-http://dns.k4livetv.com:8080/ESPERANZA/1234/463155
+http://hidra.live:80/nkzrgzmt/PNeedjRI/304257
 
 #EXTINF:-1 tvg-chno="4.5" tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="http://streamgo.vip:8008/images/10cffa3578c870bf70fb51f8514d23a0.png", Cuatro
 http://panel.tured.live:80/Hector123/Hector123/93692.ts
@@ -102,6 +108,9 @@ http://svtv.xyz:8080/jonya/HHcNTJp/296557
 #EXTINF:-1 tvg-chno="8" tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Canaln2006.png", Canal N
 http://svtv.xyz:8080/jonya/HHcNTJp/292859
 
+#EXTINF:-1 tvg-chno="8.2" tvg-id="NMasMTY.mx" tvg-name="N+ Monterrey" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_554688468.png", N+ Monterrey
+http://hidra.live:80/nkzrgzmt/PNeedjRI/302688
+
 #EXTINF:-1 tvg-chno="8.5" tvg-id="BoingSpain.es" tvg-name="Boing" tvg-logo="http://shacktv.com:8080/logos1/ESBOING.jpg",Boing
 http://svtv.xyz:8080/jonya/HHcNTJp/55914
 
@@ -138,8 +147,14 @@ http://playhispano.org:25461/0224231335/m5doVCOGpT/192667
 #EXTINF:-1 tvg-chno="11.1" tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",Telefe
 http://dns.k4livetv.com:8080/ESPERANZA/1234/416195
 
+#EXTINF:-1 tvg-chno="11.2" tvg-id="CanalOnce.mx" tvg-name="Canal Once" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_Canal_Once_M%C3%A9xico.svg/2560px-Logo_Canal_Once_M%C3%A9xico.svg.png", Canal Once
+http://hidra.live:80/nkzrgzmt/PNeedjRI/304506
+
 #EXTINF:-1 tvg-chno="11.3" tvg-id="Chilevision.cl" tvg-name="Chilevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1024px-Chilevisi%C3%B3n_%282018-%29.png", Chilevision
 http://svtv.xyz:8080/jonya/HHcNTJp/288081 
+
+#EXTINF:-1 tvg-chno="11.4" tvg-id="SenalColombia.mx" tvg-name="Señal Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/2560px-Se%C3%B1al_Colombia_logo.svg.png", Señal Colombia
+http://hidra.live:80/nkzrgzmt/PNeedjRI/304264
 
 #EXTINF:-1 tvg-chno="11.5" tvg-id="MovistarSeries.es" tvg-name="Movistar Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/1024px-Series_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Series
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117243
@@ -166,7 +181,7 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/153937
 http://dns.k4livetv.com:8080/ESPERANZA/1234/491157
 
 #EXTINF:-1 tvg-chno="13.3" tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg/483px-Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg.png", Canal 13
-http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/272239
+http://hidra.live:80/nkzrgzmt/PNeedjRI/35305
 
 #EXTINF:-1 tvg-chno="14" tvg-id="GOL PERU" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png",Gol Perú 
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
@@ -220,7 +235,7 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117238
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117240
 
 #EXTINF:-1 tvg-chno="37" tvg-id="CNNChile.cl" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/480px-Logo_cnnchile.png", CNN Chile
-http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/58287
+http://hidra.live:80/nkzrgzmt/PNeedjRI/35180
 
 #EXTINF:-1 tvg-chno="38" tvg-id="TCMSpain.es" tvg-name="TCM Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1024px-TCM_logo.svg.png", TCM Spain
 http://svtv.xyz:8080/jonya/HHcNTJp/190776
@@ -283,7 +298,7 @@ http://visionplay.me:8080/ITZIAHERN/31349/462838
 http://pofftvmax.com:2086/augusto/123456/481
 
 #EXTINF:-1 tvg-chno="92" tvg-id="DisneyChannelSpain.es" tvg-name="92" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/2560px-DisneyChannelEMEA.svg.png", Disney Channel
-http://streamgo.vip:8008/CLAUDIA2022/ClaudiA2022/266011
+http://hidra.live:80/nkzrgzmt/PNeedjRI/303937
 
 #EXTINF:-1 tvg-chno="93" tvg-id="NickJrSpain.es" tvg-name="93" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", Nick Jr
 http://svtv.xyz:8080/jonya/HHcNTJp/55923
