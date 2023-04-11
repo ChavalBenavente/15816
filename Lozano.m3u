@@ -18,6 +18,9 @@ http://hidra.live:80/nkzrgzmt/PNeedjRI/304224
 #EXTINF:-1 tvg-chno="1.5" tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png", La 1
 http://svtv.xyz:8080/jonya/HHcNTJp/278027
 
+#EXTINF:-1 tvg-chno="1.7" tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSauR-jgrjlVzmLJ3eqAsLl23sQffQp2BoHkg&usqp=CAU", Unicanal
+http://motivatv.club:8080/Amber2/1234/279936
+
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1280px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina
 http://svtv.xyz:8080/jonya/HHcNTJp/299227
 
@@ -41,6 +44,9 @@ http://hidra.live:80/nkzrgzmt/PNeedjRI/302675
 
 #EXTINF:-1 tvg-chno="3.5" tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1280px-Antena_3_%282017%29.svg.png",Antena 3
 http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/55037
+
+#EXTINF:-1 tvg-chno="3.7" tvg-id="Trece.py" tvg-name="Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png", Trece
+http://motivatv.club:8080/Amber2/1234/279957
 
 #EXTINF:-1 tvg-chno="4" tvg-id="america television" tvg-name="América Televisión" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-580x348-1004092.jpg",América Televisión
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194929
@@ -114,6 +120,9 @@ http://hidra.live:80/nkzrgzmt/PNeedjRI/302688
 #EXTINF:-1 tvg-chno="8.5" tvg-id="BoingSpain.es" tvg-name="Boing" tvg-logo="http://shacktv.com:8080/logos1/ESBOING.jpg",Boing
 http://svtv.xyz:8080/jonya/HHcNTJp/55914
 
+#EXTINF:-1 tvg-chno="8.7" tvg-id="Telefuturo.py" tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TelefuturoLogo2022.png", Telefuturo
+http://motivatv.club:8080/Amber2/1234/279969
+
 #EXTINF:-1 tvg-chno="9" tvg-id="ATV.pe" tvg-name"ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ATV_%28Peru%29_-_2018_logo.png/640px-ATV_%28Peru%29_-_2018_logo.png", ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 
@@ -135,8 +144,8 @@ http://daleplaypro.com:8080/Willy21/Willy21/223295
 #EXTINF:-1 tvg-chno="10.6" tvg-id="Canal10.uy" tvg-name="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Canal_10_Uruguay_Logo_1960.webp", Canal 10
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22178
 
-
-
+#EXTINF:-1 tvg-chno="10.7" tvg-id="ABCTV.py" tvg-name="ABC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQa_hZMEtpJ_Pt_5bMdTYkm3EJvK08P1lPg&usqp=CAU", ABC TV
+http://motivatv.club:8080/Amber2/1234/279951
 
 #EXTINF:-1 tvg-chno="11" tvg-id="" tvg-name="Liga 1" tvg-logo="https://2.bp.blogspot.com/-porIDbBHAHA/XDUP54Z5qLI/AAAAAAABTqI/7RjjZrqvA_QJglZbN5rxa1avkNtTNZTlQCLcBGAs/s1600/Liga1Peru.png", Liga 1
 http://dns.k4livetv.com:8080/ESPERANZA/1234/505929 
