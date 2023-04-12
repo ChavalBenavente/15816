@@ -123,6 +123,9 @@ http://svtv.xyz:8080/jonya/HHcNTJp/55914
 #EXTINF:-1 tvg-chno="8.7" tvg-id="Telefuturo.py" tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TelefuturoLogo2022.png", Telefuturo
 http://motivatv.club:8080/Amber2/1234/279969
 
+#EXTINF:-1 tvg-chno="8.8" tvg-id="VTV.ve" tvg-name="Venezolana de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/2560px-Venezolana_de_Televisi%C3%B3n_2018.svg.png", Venezolana de Televisión
+http://motivatv.club:8080/Amber2/1234/279810
+
 #EXTINF:-1 tvg-chno="9" tvg-id="ATV.pe" tvg-name"ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ATV_%28Peru%29_-_2018_logo.png/640px-ATV_%28Peru%29_-_2018_logo.png", ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 
@@ -135,11 +138,17 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/26964
 #EXTINF:-1 tvg-chno="9.3" tvg-id="Mega.cl" tvg-name="Mega Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logotipo_de_Mega_%282015-2020%29.svg/1038px-Logotipo_de_Mega_%282015-2020%29.svg.png", Mega Chile
 http://daleplaypro.com:8080/Willy21/Willy21/156170
 
+#EXTINF:-1 tvg-chno="9.7" tvg-id="C9N.py" tvg-name="C9N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png", C9N
+http://motivatv.club:8080/Amber2/1234/279930
+
 #EXTINF:-1 tvg-chno="10" tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-logo="http://panel.tured.live:80/images/e18e735852f9bd9f333d394050e22e0d.png",RPP TV
 http://svtv.xyz:8080/jonya/HHcNTJp/192537 
 
 #EXTINF:-1 tvg-chno="10" tvg-id="Canal Claro" tvg-name="Canal Claro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/CanalClaro.jpg/revision/latest/scale-to-width-down/220?cb=20210423175312&path-prefix=es", Canal Claro
 http://daleplaypro.com:8080/Willy21/Willy21/223295
+
+#EXTINF:-1 tvg-chno="11.7" tvg-id="TigoSports.py" tvg-name="Tigo Sports PY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-ly-lNBNvC7SE_hTnLawLBbyZuU5S0H_oQ&usqp=CAU", Tigo Sports PY
+http://motivatv.club:8080/Amber2/1234/279924
 
 #EXTINF:-1 tvg-chno="10.6" tvg-id="Canal10.uy" tvg-name="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Canal_10_Uruguay_Logo_1960.webp", Canal 10
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22178
@@ -184,7 +193,7 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117245
 http://panel.tured.live:80/Hector123/Hector123/173213.ts
 
 #EXTINF:-1 tvg-chno="13.1" tvg-id="El13.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", El Trece
-http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/153937
+http://motivatv.club:8080/Amber2/1234/491776
 
 #EXTINF:-1 tvg-chno="13.2" tvg-id="BITIME" tvg-name="Bitme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png", Bitme
 http://dns.k4livetv.com:8080/ESPERANZA/1234/491157
