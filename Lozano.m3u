@@ -33,6 +33,9 @@ http://dns.k4livetv.com:8080/ESPERANZA/1234/408514
 #EXTINF:-1 tvg-chno="2.5" tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/2195px-Logo_TVE-2.svg.png", La 2
 http://hidra.live:80/nkzrgzmt/PNeedjRI/303670
 
+#EXTINF:1 tvg-chno="2.9" tvg-id="Unitel.bo" tvg-name="Unitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg", Unitel
+http://motivatv.club:8080/Amber2/1234/408625
+
 #EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú
 http://svtv.xyz:8080/jonya/HHcNTJp/299250
 
@@ -141,6 +144,9 @@ http://daleplaypro.com:8080/Willy21/Willy21/156170
 #EXTINF:-1 tvg-chno="9.7" tvg-id="C9N.py" tvg-name="C9N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png", C9N
 http://motivatv.club:8080/Amber2/1234/279930
 
+#EXTINF:-1 tvg-chno="9.9" tvg-id="ATB.bo" tvg-name="ATB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png", ATB
+http://motivatv.club:8080/Amber2/1234/408636
+
 #EXTINF:-1 tvg-chno="10" tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-logo="http://panel.tured.live:80/images/e18e735852f9bd9f333d394050e22e0d.png",RPP TV
 http://svtv.xyz:8080/jonya/HHcNTJp/192537 
 
@@ -176,6 +182,9 @@ http://hidra.live:80/nkzrgzmt/PNeedjRI/304264
 
 #EXTINF:-1 tvg-chno="11.5" tvg-id="MovistarSeries.es" tvg-name="Movistar Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/1024px-Series_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Series
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117243
+
+#EXTINF:-1 tvg-chno="11.9" tvg-id="RedUno.bo" tvg-name="Red Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/2560px-Uno_logo.svg.png", Red Uno
+http://motivatv.club:8080/Amber2/1234/408635
 
 #EXTINF:-1 tvg-chno="12" tvg-id="Liga 1 Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLdzxuEdG6ugwhhtB8pvhVWEW9cuyWjky02w&usqp=CAU", Liga 1 Max
 http://daleplaypro.com:8080/Willy21/Willy21/135807
