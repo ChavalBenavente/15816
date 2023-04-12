@@ -153,7 +153,7 @@ http://svtv.xyz:8080/jonya/HHcNTJp/192537
 #EXTINF:-1 tvg-chno="10" tvg-id="Canal Claro" tvg-name="Canal Claro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/CanalClaro.jpg/revision/latest/scale-to-width-down/220?cb=20210423175312&path-prefix=es", Canal Claro
 http://daleplaypro.com:8080/Willy21/Willy21/223295
 
-#EXTINF:-1 tvg-chno="11.7" tvg-id="TigoSports.py" tvg-name="Tigo Sports PY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-ly-lNBNvC7SE_hTnLawLBbyZuU5S0H_oQ&usqp=CAU", Tigo Sports PY
+#EXTINF:-1 tvg-chno="14.7" tvg-id="TigoSports.py" tvg-name="Tigo Sports PY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-ly-lNBNvC7SE_hTnLawLBbyZuU5S0H_oQ&usqp=CAU", Tigo Sports PY
 http://motivatv.club:8080/Amber2/1234/279924
 
 #EXTINF:-1 tvg-chno="10.6" tvg-id="Canal10.uy" tvg-name="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Canal_10_Uruguay_Logo_1960.webp", Canal 10
@@ -212,6 +212,12 @@ http://hidra.live:80/nkzrgzmt/PNeedjRI/35305
 
 #EXTINF:-1 tvg-chno="14" tvg-id="GOL PERU" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png",Gol Perú 
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1152848
+
+#EXTINF:-1 tvg-chno="14.9" tvg-id="TigoSports.bo" tvg-name="Tigo Sports BO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcjE8cOH7hiqX1Zp9_UqNgLbtNLMikuPEKsw&usqp=CAU", Tigo Sports BO
+http://motivatv.club:8080/Amber2/1234/505939
+
+#EXTINF:-1 tvg-chno="14.10" tvg-id="Sportv.br" tvg-name="Sportv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/2560px-SporTV_2017_logo.svg.png", Sportv
+http://motivatv.club:8080/Amber2/1234/278996
 
 #EXTINF:-1 tvg-chno="15" tvg-id="ETC.cl" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png", ETC TV
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/153873
