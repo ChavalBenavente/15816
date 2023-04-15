@@ -36,6 +36,9 @@ http://hidra.live:80/nkzrgzmt/PNeedjRI/303670
 #EXTINF:1 tvg-chno="2.9" tvg-id="Unitel.bo" tvg-name="Unitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg", Unitel
 http://motivatv.club:8080/Amber2/1234/408625
 
+#EXTINF:-1 tvg-chno="2.10" tvg-id="Ecuavisa.ec" tvg-name=Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png", Ecuavisa
+http://motivatv.club:8080/MIGUEL1/MIGUEL1/408505
+
 #EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú
 http://svtv.xyz:8080/jonya/HHcNTJp/299250
 
@@ -50,6 +53,9 @@ http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/55037
 
 #EXTINF:-1 tvg-chno="3.7" tvg-id="Trece.py" tvg-name="Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png", Trece
 http://motivatv.club:8080/Amber2/1234/279957
+
+#EXTINF:-1 tvg-chno="3.10" tvg-id="ECDF.ec" tvg-name="El Canal del Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png", El Canal del Fútbol
+http://motivatv.club:8080/MIGUEL1/MIGUEL1/408531
 
 #EXTINF:-1 tvg-chno="4" tvg-id="america television" tvg-name="América Televisión" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-580x348-1004092.jpg",América Televisión
 http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/1194929
@@ -71,6 +77,9 @@ http://panel.tured.live:80/Hector123/Hector123/93692.ts
 
 #EXTINF:-1 tvg-chno="4.6" tvg-id="Canal4.uy" tvg-name="Canal 4 Uruguay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Canal_4_OFICIAL.png", Canal 4 Uruguay
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/153857
+
+#EXTINF:-1 tvg-chno="4.10" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png", Teleamazonas
+http://motivatv.club:8080/MIGUEL1/MIGUEL1/408498
 
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/698px-Panamericana-tv.svg.png", Panamericana TV
 http://svtv.xyz:8080/jonya/HHcNTJp/31917
@@ -101,6 +110,9 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/26717
 
 #EXTINF:-1 tvg-chno="6.5" tvg-id="La6.es" tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LaSexta_HD_Logo_2016.png/1278px-LaSexta_HD_Logo_2016.png", La Sexta
 http://svtv.xyz:8080/jonya/HHcNTJp/31908
+
+#EXTINF:-1 tvg-chno="6.10" tvg-id="GolTv.ec" tvg-name="Gol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png", Gol TV
+http://motivatv.club:8080/MIGUEL1/MIGUEL1/408533
 
 #EXTINF:-1 tvg-chno="7" tvg-id="TVPeruNoticias.pe" tvg-name="TV Peru Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/640px-TV_Per%C3%BA_Noticias_-_2019_logo.png", TV Peru Noticias
 http://svtv.xyz:8080/jonya/HHcNTJp/31928
@@ -152,6 +164,9 @@ http://svtv.xyz:8080/jonya/HHcNTJp/192537
 
 #EXTINF:-1 tvg-chno="10" tvg-id="Canal Claro" tvg-name="Canal Claro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/CanalClaro.jpg/revision/latest/scale-to-width-down/220?cb=20210423175312&path-prefix=es", Canal Claro
 http://daleplaypro.com:8080/Willy21/Willy21/223295
+
+#EXTINF:-1 tvg-chno="10.10" tvg-id="TCTV.ec" tvg-name="TC Televisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/TC_Televisi%C3%B3n_new_logo_2020.png/revision/latest?cb=20201021171747&path-prefix=es", TC Televisión
+http://motivatv.club:8080/MIGUEL1/MIGUEL1/408497
 
 #EXTINF:-1 tvg-chno="14.7" tvg-id="TigoSports.py" tvg-name="Tigo Sports PY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-ly-lNBNvC7SE_hTnLawLBbyZuU5S0H_oQ&usqp=CAU", Tigo Sports PY
 http://motivatv.club:8080/Amber2/1234/279924
