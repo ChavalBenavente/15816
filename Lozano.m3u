@@ -21,7 +21,7 @@ http://svtv.xyz:8080/jonya/HHcNTJp/278027
 #EXTINF:-1 tvg-chno="1.7" tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSauR-jgrjlVzmLJ3eqAsLl23sQffQp2BoHkg&usqp=CAU", Unicanal
 http://motivatv.club:8080/Amber2/1234/279936
 
-#EXTINF:-1 tvg-chno="1.9" tvg-id="Pat.bo" tvg-name="Pat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" 
+#EXTINF:-1 tvg-chno="1.9" tvg-id="Pat.bo" tvg-name="Pat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png", Pat TV
 https://master.tucableip.com//pat/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1280px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina
