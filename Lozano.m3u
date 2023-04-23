@@ -85,7 +85,7 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/153857
 http://motivatv.club:8080/MIGUEL1/MIGUEL1/408498
 
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/698px-Panamericana-tv.svg.png", Panamericana TV
-http://svtv.xyz:8080/jonya/HHcNTJp/31917
+https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=eEd4sIYqNTEZ9Suy_hnpOJqch3oDBTJThwTqWBikb7BTAzLJn1kRMYFpp0tY-mwQrk5X8DMleWcAodV0DxcWyw&dmTs=192110&dmV1st=023d0fbd-d008-47e7-aeb9-c2956eba3605
 
 #EXTINF:-1 tvg-chno="5.1" tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG", C5N
 http://176.57.50.167:25461/Tina1/Tina1/5071
@@ -148,7 +148,7 @@ http://motivatv.club:8080/Amber2/1234/279969
 http://motivatv.club:8080/Amber2/1234/279810
 
 #EXTINF:-1 tvg-chno="9" tvg-id="ATV.pe" tvg-name"ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ATV_%28Peru%29_-_2018_logo.png/640px-ATV_%28Peru%29_-_2018_logo.png", ATV
-https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
 
 #EXTINF:-1 tvg-chno="9.1" tvg-id="Elnueve.ar" tvg-name="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png", El Nueve
 http://dns.k4livetv.com:8080/ESPERANZA/1234/416212
