@@ -7,7 +7,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee
 http://svtv.xyz:8080/jonya/HHcNTJp/55207
 
 #EXTINF:-1 tvg-chno="1.1" tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1803px-A24-logo.svg.png", A24
-http://daleplaypro.com:8080/Willy21/Willy21/81289
+http://daleplaypro.com:8080/Fausto/12345/81289
 
 #EXTINF:-1 tvg-chno="1.2" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno HD" tvg-logo="https://www.seekpng.com/png/full/229-2293870_azteca-trece-coming-azteca-uno-logo-azteca-1.png", Azteca Uno HD
 http://svtv.xyz:8080/jonya/HHcNTJp/37670
@@ -85,13 +85,13 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/153857
 http://motivatv.club:8080/MIGUEL1/MIGUEL1/408498
 
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/698px-Panamericana-tv.svg.png", Panamericana TV
-https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=eEd4sIYqNTEZ9Suy_hnpOJqch3oDBTJThwTqWBikb7BTAzLJn1kRMYFpp0tY-mwQrk5X8DMleWcAodV0DxcWyw&dmTs=192110&dmV1st=023d0fbd-d008-47e7-aeb9-c2956eba3605
+http://daleplaypro.com:8080/Fausto/12345/13582710&dmV1st=023d0fbd-d008-47e7-aeb9-c2956eba3605
 
 #EXTINF:-1 tvg-chno="5.1" tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG", C5N
 http://176.57.50.167:25461/Tina1/Tina1/5071
 
 #EXTINF:-1 tvg-chno="5.2" tvg-id="Canal5.mx" tvg-name="Canal 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1280px-Canal_5_Mexico_logo_2014.svg.png", Canal 5 HD
-http://daleplaypro.com:8080/Willy21/Willy21/114283
+http://daleplaypro.com:8080/Fausto/12345/114283
 
 #EXTINF:-1 tvg-chno="5.4" tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1280px-Caracol_Televisi%C3%B3n_logo.svg.png", Caracol TV
 http://svtv.xyz:8080/jonya/HHcNTJp/159809
@@ -169,7 +169,7 @@ http://motivatv.club:8080/Amber2/1234/408636
 http://svtv.xyz:8080/jonya/HHcNTJp/192537 
 
 #EXTINF:-1 tvg-chno="10" tvg-id="Canal Claro" tvg-name="Canal Claro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/CanalClaro.jpg/revision/latest/scale-to-width-down/220?cb=20210423175312&path-prefix=es", Canal Claro
-http://daleplaypro.com:8080/Willy21/Willy21/223295
+http://daleplaypro.com:8080/Fausto/12345/185886
 
 #EXTINF:-1 tvg-chno="10.1" tvg-id="ChilecitoTV.ar" tvg-name="Chilecito TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvCVELCa4VMTyZB2s-FerOi-ro_cDfxA165A&usqp=CAU", Chilecito TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
