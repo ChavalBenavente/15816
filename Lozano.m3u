@@ -537,7 +537,7 @@ http://daleplaypro.com:8080/Fausto/12345/156145
 #EXTINF:-1 tvg-chno="622" tvg-id="ESPN2.ar" tvg-name="ESPN 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2
 http://svtv.xyz:8080/jonya/HHcNTJp/299268
 
-#EXTINF:-1 tvg-chno="624" tvg-id="ESPNExtraSouth.us" tvg-name="ESPN Extra South" tvg-logo="https://i.imgur.com/4VrK2WA.jpg" group-title="Deportes",ESPN Extra South
+#EXTINF:-1 tvg-chno="624" tvg-id="ESPNExtra.ar" tvg-name="ESPN Extra" tvg-logo="https://i.imgur.com/4VrK2WA.jpg" group-title="Deportes",ESPN Extra South
 http://daleplaypro.com:8080/Fausto/12345/156142
 
 #EXTINF:-1 tvg-chno="623" tvg-id="ESPN3.ar" tvg-name="ESPN 3 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/2560px-ESPN3_logo.svg.png", ESPN 3
