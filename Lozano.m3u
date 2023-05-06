@@ -148,7 +148,7 @@ http://hidra.live:80/nkzrgzmt/PNeedjRI/302688
 http://svtv.xyz:8080/jonya/HHcNTJp/55914
 
 #EXTINF:-1 tvg-chno="8.7" tvg-id="Telefuturo.py" tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TelefuturoLogo2022.png", Telefuturo
-http://motivatv.club:8080/Amber2/1234/279969
+https://rds3tf.desdeparaguay.net:443/telefuturo/telefuturo_int_alta/chunklist_w1449795937.m3u8?k=c0dbde2c6bfb0c374fbd56eeaaa6945216c8b466fb3b4cd90aed4531a369650c&exp=1683347589
 
 #EXTINF:-1 tvg-chno="8.8" tvg-id="VTV.ve" tvg-name="Venezolana de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/2560px-Venezolana_de_Televisi%C3%B3n_2018.svg.png", Venezolana de Televisión
 http://motivatv.club:8080/Amber2/1234/279810
@@ -190,7 +190,7 @@ http://motivatv.club:8080/Amber2/1234/279924
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/22178
 
 #EXTINF:-1 tvg-chno="10.7" tvg-id="ABCTV.py" tvg-name="ABC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQa_hZMEtpJ_Pt_5bMdTYkm3EJvK08P1lPg&usqp=CAU", ABC TV
-http://motivatv.club:8080/Amber2/1234/279951
+https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-id="" tvg-name="Liga 1" tvg-logo="https://2.bp.blogspot.com/-porIDbBHAHA/XDUP54Z5qLI/AAAAAAABTqI/7RjjZrqvA_QJglZbN5rxa1avkNtTNZTlQCLcBGAs/s1600/Liga1Peru.png", Liga 1
 http://dns.k4livetv.com:8080/ESPERANZA/1234/505929 
@@ -199,7 +199,7 @@ http://dns.k4livetv.com:8080/ESPERANZA/1234/505929
 http://playhispano.org:25461/0224231335/m5doVCOGpT/192667 
 
 #EXTINF:-1 tvg-chno="11.1" tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",Telefe
-http://dns.k4livetv.com:8080/ESPERANZA/1234/416195
+http://hplay.xyz:80/uywjdbyl/3zR04geeA7/43312
 
 #EXTINF:-1 tvg-chno="11.2" tvg-id="CanalOnce.mx" tvg-name="Canal Once" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_Canal_Once_M%C3%A9xico.svg/2560px-Logo_Canal_Once_M%C3%A9xico.svg.png", Canal Once
 http://hidra.live:80/nkzrgzmt/PNeedjRI/304506
@@ -235,7 +235,7 @@ http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/117245
 http://panel.tured.live:80/Hector123/Hector123/173213.ts
 
 #EXTINF:-1 tvg-chno="13.1" tvg-id="El13.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", El Trece
-http://motivatv.club:8080/Amber2/1234/491776
+http://hplay.xyz:80/uywjdbyl/3zR04geeA7/43314
 
 #EXTINF:-1 tvg-chno="13.2" tvg-id="BITIME" tvg-name="Bitme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png", Bitme
 http://dns.k4livetv.com:8080/ESPERANZA/1234/491157
