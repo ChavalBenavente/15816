@@ -132,6 +132,9 @@ http://daleplaypro.com:8080/Fausto/12345/63185
 #EXTINF:-1 tvg-chno="7.3" tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg/1025px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg.png", TVN
 http://svtv.xyz:8080/jonya/HHcNTJp/296557
 
+#EXTINF:-1 tvg-chno="7.5" tvg-id="24horas.es" tvg-name="24 Horas España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png", 24 Horas España
+http://hplay.xyz:80/uywjdbyl/3zR04geeA7/303701
+
 #EXTINF:-1 tvg-chno="8" tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Canaln2006.png", Canal N
 http://svtv.xyz:8080/jonya/HHcNTJp/292859
 
