@@ -525,14 +525,14 @@ http://daleplaypro.com:8080/Fausto/12345/156180
 #EXTINF:-1 tvg-chno="542" tvg-id="CNNEspañol.mx" tvg-name="CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/2560px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png", CNN en Español
 http://svtv.xyz:8080/antonioma/ATaHJaQ/31077
 
-#EXTINF:-1 tvg-chno="601" tvg-id="DSports.pe" tvg-name="Directv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/2560px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png", DirecTV Sports Perú
-http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/4668
+#EXTINF:-1 tvg-chno="610" tvg-id="DSports.pe" tvg-name="Directv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/2560px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png", DirecTV Sports Perú
+http://k4livetv.com:8080/castle/castle/587000
 
-#EXTINF:-1 tvg-chno="602" tvg-id="Dsports2.ar" tvg-name="Directv Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/640px-DirecTV_Sports_2_Latin_America_%282018%29.png", Directv Sports 2 ARG
+#EXTINF:-1 tvg-chno="612" tvg-id="Dsports2.ar" tvg-name="Directv Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/640px-DirecTV_Sports_2_Latin_America_%282018%29.png", Directv Sports 2 ARG
 http://svtv.xyz:8080/antonioma/ATaHJaQ/192358
 
-#EXTINF:-1 tvg-chno="603" tvg-id="Dsportsplus.cl" tvg-name="Directv Sports +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png", Directv Sports +
-http://tv.masterplaytv.club:39001/JuanPGarcia3462/RUUgxHwgc3/4670 
+#EXTINF:-1 tvg-chno="613" tvg-id="Dsportsplus.cl" tvg-name="Directv Sports +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png", Directv Sports +
+http://k4livetv.com:8080/castle/castle/589316 
 
 #EXTINF:-1 tvg-chno="604" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png", ESPN Premium
 http://tv.masterplaytv.club:39001/prietojhon209prox/ZgtacW7KYQ/154049
