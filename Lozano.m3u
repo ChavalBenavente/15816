@@ -60,6 +60,15 @@ http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/55037
 #EXTINF:-1 tvg-chno="3.7" tvg-id="Trece.py" tvg-name="Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png", Trece
 http://sunsetmediatv.net:8080/67890033/GQEUVfK9zukx/67601
 
+#EXTINF:-1 tvg-chno="3.4" tvg-id="WinSports.co" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png", Win Sports
+http://proiptvdigic.com:8080/@fsec9345/c6z8XwHzJftR/197665
+
+#EXTINF:-1 tvg-chno="3.4" tvg-id="WinSportsMas.co" tvg-name="Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", Win Sports+
+http://proiptvdigic.com:8080/@fsec9345/c6z8XwHzJftR/197668
+
+#EXTINF:-1 tvg-chno="3.11" tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TyC Sports
+http://proiptvdigic.com:8080/@fsec9345/c6z8XwHzJftR/267
+
 #EXTINF:-1 tvg-chno="3.10" tvg-id="ECDF.ec" tvg-name="El Canal del Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png", El Canal del Fútbol
 http://www.1play.cool:25461/4242505079/12b276f073cd/30154
 
@@ -217,7 +226,7 @@ http://www.1play.cool:25461/4242505079/12b276f073cd/77198
 http://tvfullprime.site:8080/s4pq793s/8s46csb9/257010
 
 #EXTINF:-1 tvg-chno="11.3" tvg-id="Chilevision.cl" tvg-name="Chilevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1024px-Chilevisi%C3%B3n_%282018-%29.png", Chilevision
-http://www.1play.cool:25461/4242505079/12b276f073cd/30520
+http://cineplay.vip:8080/Chirinox/pB3vWDnbuw/71371
 
 #EXTINF:-1 tvg-chno="11.4" tvg-id="SenalColombia.mx" tvg-name="Señal Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/2560px-Se%C3%B1al_Colombia_logo.svg.png", Señal Colombia
 http://hidra.live:80/nkzrgzmt/PNeedjRI/304264
@@ -565,7 +574,7 @@ http://tvfullprime.site:8080/s4pq793s/8s46csb9/241147
 http://tvfullprime.site:8080/s4pq793s/8s46csb9/241178
 
 #EXTINF:-1 tvg-chno="629" tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TyC Sports
-http://www.1play.cool:25461/4242505079/12b276f073cd/77099
+http://proiptvdigic.com:8080/@fsec9345/c6z8XwHzJftR/267
 
 #EXTINF:-1 tvg-chno="631" tvg-id="TNTChile.cl" tvg-name="631" tvg-logo="https://i.ibb.co/0j4Kj2n/Picsart-23-03-05-17-49-37-742.png", 631
 http://tvfullprime.site:8080/s4pq793s/8s46csb9/170103
@@ -574,7 +583,7 @@ http://tvfullprime.site:8080/s4pq793s/8s46csb9/170103
 http://tvfullprime.site:8080/s4pq793s/8s46csb9/170191
 
 #EXTINF:-1 tvg-chno="634" tvg-id="WinSportsMas.co" tvg-name="Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", Win Sports+
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/170198
+http://proiptvdigic.com:8080/@fsec9345/c6z8XwHzJftR/197668
 
 #EXTINF:-1 tvg-chno="650" tvg-id="BeInSportsÑ.ar" tvg-name="BeIn Sports Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png", BeIn Sports Ñ
 http://tvfullprime.site:8080/s4pq793s/8s46csb9/181230
