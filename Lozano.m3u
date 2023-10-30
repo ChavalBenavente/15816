@@ -96,6 +96,9 @@ http://svtv.xyz:8080/oscarar/2mS9d5C/299330
 #EXTINF:-1 tvg-chno="4.5" tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="http://streamgo.vip:8008/images/10cffa3578c870bf70fb51f8514d23a0.png", Cuatro
 http://proiptvdigic.com:8080/@fsec9345/c6z8XwHzJftR/219030
 
+#EXTINF:-1 tvg-chno="19" tvg-id=”amcspain.es” tvg-name=”AMC España” tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png",AMC España
+http://tvpremium.pro:80/George23/George23/780995.ts
+
 #EXTINF:-1 tvg-chno="4.6" tvg-id="Canal4.uy" tvg-name="Canal 4 Uruguay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Canal_4_OFICIAL.png", Canal 4 Uruguay
 http://tvfullprime.site:8080/s4pq793s/8s46csb9/184533
 
