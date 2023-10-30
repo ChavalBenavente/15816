@@ -63,6 +63,9 @@ http://proiptvdigic.com:8080/@fsec9345/c6z8XwHzJftR/219027
 #EXTINF:-1 tvg-chno="3.7" tvg-id="Trece.py" tvg-name="Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png", Trece
 http://sunsetmediatv.net:8080/67890033/GQEUVfK9zukx/67601
 
+#EXTINF:-1 tvg-chno="64" tvg-id="DAZN1Spain.es" tvg-name="DAZN 1" tvg-logo="http://s0lc.net:8080/imagenes/22083.jpg",DAZN 1
+http://cineplay.vip:8080/Chirinox/pB3vWDnbuw/50051
+
 #EXTINF:-1 tvg-chno="3.4" tvg-id="WinSports.co" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png", Win Sports
 http://proiptvdigic.com:8080/@fsec9345/c6z8XwHzJftR/197665
 
