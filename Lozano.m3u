@@ -55,10 +55,16 @@ http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199061
 http://proiptvdigic.com:8080/@fsec9345/c6z8XwHzJftR/551
 
 #EXTINF:-1 tvg-chno="2.10" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png", Ecuavisa TV
-http://svtv.xyz:8080/oscarar/2mS9d5C/109478
+http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/30946.ts
 
 #EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181712
+
+#EXTINF:-1 tvg-chno="3" tvg-id="SonyChannel.cl" tvg-name="Sony Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Sony_Channel_2023.png/revision/latest?cb=20230828233601&path-prefix=es", Sony Channel
+http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/6733.ts
+
+#EXTINF:-1 tvg-chno="3" tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png", TLC
+http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/22272.ts
 
 #EXTINF:-1 tvg-chno="3.1" tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
 http://fortv.cc:8080/GeS691/717013/164873
@@ -90,11 +96,26 @@ http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181747
 #EXTINF:-1 tvg-chno="3.10" tvg-id="ECDF.ec" tvg-name="El Canal del Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png", El Canal del Fútbol
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181752
 
+#EXTINF:-1 tvg-chno="4" tvg-id="Telemundo" tvg-name="Telemundo California" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1280px-Telemundo_logo_2012.svg.png", Telemundo California
+http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/67499.ts
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Unimas" tvg-name="Unimas LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1921px-Logo_UniM%C3%A1s.svg.png", Unimas LA
+http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/23096.ts
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Universo" tvg-name="Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png", Universo
+http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/23100.ts
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Univisión" tvg-name="Univisión LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/2477px-Logo_Univision_2019.svg.png", Univisión LA
+http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/23108.ts
+
 #EXTINF:-1 tvg-chno="4" tvg-id="america television" tvg-name="América Televisión" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-580x348-1004092.jpg",América Televisión
-http://spainpro.vip:43201/az6107/CcvBHGZwwz/5275
+http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/22511.ts
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Zombies" tvg-name="Zombies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Zombies%21%21%21-logo.svg/2560px-Zombies%21%21%21-logo.svg.png",Zombies
+http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/56286.ts
 
 #EXTINF:-1 tvg-chno="4.1" tvg-id="CronicaTV.ar" tvg-name="CRÓNICA" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINACRONICA.jpg",Crónica
-http://new-tv.cloud:25461/Adriandiciembre/SvgAScjspJqF/536436
+http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/22413.ts
 
 #EXTINF:-1 tvg-chno="4.2" tvg-id="ForoTV.mx" tvg-name="Foro TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png", Foro TV HD
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182212
@@ -118,7 +139,7 @@ http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199070
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182191
 
 #EXTINF:-1 tvg-chno="4.10" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png", Teleamazonas
-http://new-tv.cloud:25461/Adriandiciembre/SvgAScjspJqF/580524
+http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/35240.ts
 
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/698px-Panamericana-tv.svg.png", Panamericana TV
 http://fortv.cc:8080/GeS691/717013/110633
@@ -130,7 +151,7 @@ http://fortv.cc:8080/GeS691/717013/164876
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182213
 
 #EXTINF:-1 tvg-chno="5.4" tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1280px-Caracol_Televisi%C3%B3n_logo.svg.png", Caracol TV
-http://new-tv.cloud:25461/Adriandiciembre/SvgAScjspJqF/536880
+http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/22428.ts
 
 #EXTINF:-1 tvg-chno="5.5" tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1280px-Telecinco.svg.png", Telecinco
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/198940
@@ -172,7 +193,7 @@ http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182163
 http://new-tv.cloud:25461/Adriandiciembre/SvgAScjspJqF/186471
 
 #EXTINF:-1 tvg-chno="8" tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Canaln2006.png", Canal N
-http://new-tv.cloud:25461/Adriandiciembre/SvgAScjspJqF/580584
+http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/61699.ts
 
 #EXTINF:-1 tvg-chno="8.1" tvg-id="GenTV.ar" tvg-name="Gen TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCEPEXrDcLQB8JPWOsQ9qlnYlsHrMch_MG-A&usqp=CAU", Gen TV
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
@@ -181,7 +202,7 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 http://tvfullprime.site:8080/s4pq793s/8s46csb9/242903
 
 #EXTINF:-1 tvg-chno="8.5" tvg-id="BoingSpain.es" tvg-name="Boing" tvg-logo="http://shacktv.com:8080/logos1/ESBOING.jpg",Boing
-http://new-tv.cloud:25461/Adriandiciembre/SvgAScjspJqF/195812
+http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/53882.ts
 
 #EXTINF:-1 tvg-chno="8.7" tvg-id="Telefuturo.py" tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TelefuturoLogo2022.png", Telefuturo
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/246558
