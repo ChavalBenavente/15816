@@ -9,6 +9,9 @@ http://fortv.cc:8080/GeS691/717013/110636
 #EXTINF:-1 tvg-chno="1" tvg-id="DSports.pe" tvg-name="Directv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/2560px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png", DirecTV Sports Perú
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181835
 
+#EXTINF:-1 tvg-chno="1" tvg-id="DSports.ar" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", DSports
+http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/22688.ts
+
 #EXTINF:-1 tvg-chno="1" tvg-id=”ESPN.cl” tvg-name=”ESPN” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png", ESPN
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181842
 
@@ -253,7 +256,7 @@ http://latinoamericatv.vip:8080/rositajuarez387543/negsoruyo17654378564/254113
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 #EXTINF:-1 tvg-chno="10.10" tvg-id="TCTV.ec" tvg-name="TC Televisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/TC_Televisi%C3%B3n_new_logo_2020.png/revision/latest?cb=20201021171747&path-prefix=es", TC Televisión
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/170152
+http://latinoamericatv.vip:3334/live/Abelcasti49/9bnn6emp3vY5/310.ts
 
 #EXTINF:-1 tvg-chno="10.6" tvg-id="Canal10.uy" tvg-name="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Canal_10_Uruguay_Logo_1960.webp", Canal 10
 http://tvfullprime.site:8080/s4pq793s/8s46csb9/184539
