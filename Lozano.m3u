@@ -235,28 +235,13 @@ https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOmGrAiERNbJHsjNunm
 http://tvfullprime.site:8080/s4pq793s/8s46csb9/256947
 
 #EXTINF:-1 tvg-chno="10" tvg-id="Canal Claro" tvg-name="Canal Claro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/CanalClaro.jpg/revision/latest/scale-to-width-down/220?cb=20210423175312&path-prefix=es", Canal Claro
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/190206
+http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/92738.ts
 
 #EXTINF:-1 tvg-chno="10" tvg-id="History" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg", History
 http://latinoamericatv.vip:3334/live/Abelcasti49/9bnn6emp3vY5/156163.ts
 
 #EXTINF:-1 tvg-chno="10" tvg-id="History2" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1984px-History2_logo_%282022%29.svg.png", History 2
 http://latinoamericatv.vip:3334/live/Abelcasti49/9bnn6emp3vY5/156162.ts
-
-#EXTINF:-1 tvg-chno="10" tvg-id="CDLF" tvg-name="Casa de los Famosos" tvg-logo="https://elcomercio.pe/resizer/u-hpvYfpn3zMh_OpvG4Ebi3gXMA=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JH6OAJV6NRECNFRWNPKAFEOM6E.jpg", Casa de los Famosos
-http://latinoamericatv.vip:8080/rositajuarez387543/negsoruyo17654378564/254109
-
-#EXTINF:-1 tvg-chno="10" tvg-id="CDLF CAM 1" tvg-name="Famosos CAM 1" tvg-logo="https://elcomercio.pe/resizer/u-hpvYfpn3zMh_OpvG4Ebi3gXMA=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JH6OAJV6NRECNFRWNPKAFEOM6E.jpg", Famosos CAM 1
-http://latinoamericatv.vip:8080/rositajuarez387543/negsoruyo17654378564/254110
-
-#EXTINF:-1 tvg-chno="10" tvg-id="CDLF CAM 2" tvg-name="Famosos CAM 2" tvg-logo="https://elcomercio.pe/resizer/u-hpvYfpn3zMh_OpvG4Ebi3gXMA=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JH6OAJV6NRECNFRWNPKAFEOM6E.jpg", Famosos CAM 2
-http://latinoamericatv.vip:8080/rositajuarez387543/negsoruyo17654378564/254111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="CDLF CAM 3" tvg-name="Famosos CAM 3" tvg-logo="https://elcomercio.pe/resizer/u-hpvYfpn3zMh_OpvG4Ebi3gXMA=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JH6OAJV6NRECNFRWNPKAFEOM6E.jpg", Famosos CAM 3
-http://latinoamericatv.vip:8080/rositajuarez387543/negsoruyo17654378564/254112
-
-#EXTINF:-1 tvg-chno="10" tvg-id="CDLF CAM 4" tvg-name="Famosos CAM 4" tvg-logo="https://elcomercio.pe/resizer/u-hpvYfpn3zMh_OpvG4Ebi3gXMA=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JH6OAJV6NRECNFRWNPKAFEOM6E.jpg", Famosos CAM 4
-http://latinoamericatv.vip:8080/rositajuarez387543/negsoruyo17654378564/254113
 
 #EXTINF:-1 tvg-chno="10.1" tvg-id="ChilecitoTV.ar" tvg-name="Chilecito TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvCVELCa4VMTyZB2s-FerOi-ro_cDfxA165A&usqp=CAU", Chilecito TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
