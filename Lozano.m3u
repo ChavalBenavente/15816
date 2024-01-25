@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="6320ddef274b1b0007b2ee88" tvg-name="Gran Hermano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7mo9dnBnjZciNgpjzSVrqI6_WTIUZ4vjlA&usqp=CAU", Gran Hermano
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-chno="1" tvg-id="GHVIP" tvg-name="GH VIP" tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/4730f736-a52a-4d80-830a-08419996079a_alta-libre-aspect-ratio_default_0.jpg", GH VIP
+http://413994677292339256.of2100.xyz:80/live/vi424946/Y4UkXTVJkG/693489.ts
+
+#EXTINF:-1 tvg-chno="1" tvg-id="GHAR24" tvg-name="Gran Hermano 23/24" tvg-logo="https://www.infobae.com/new-resizer/T2swnKTeQ-20B8H-cJ4yrJIMu_4=/768x432/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RZLJ7XR7XND2RMD62JTFFTEJDE.jpg", Gran Hermano 23/24
+http://tvlatino.club:2082/live/Paco261123/YJ6WKGvUBy6L/341821.ts
+
 #EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/640px-Willax_Televisi%C3%B3n_2020.png", Willax TV
 http://fortv.cc:8080/GeS691/717013/110636
 
