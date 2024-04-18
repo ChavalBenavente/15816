@@ -69,6 +69,12 @@ http://europass.site:8080/live/arodriguez/rL28zyRGFz/121619.ts
 #EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú
 http://myfuturetv.com:8080/live/Mr.E2021/Florida/53733.ts
 
+#EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes Perú HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú HD
+http://disfruta.net:80/live/puerto1724/ruz2AeZA2j/2902.ts
+
+#EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes Perú SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú SD
+http://tv.soccerplus.link:8000/live/Xde01/SaXde2267/92556.ts
+
 #EXTINF:-1 tvg-chno="3" tvg-id="SonyChannel.cl" tvg-name="Sony Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Sony_Channel_2023.png/revision/latest?cb=20230828233601&path-prefix=es", Sony Channel
 http://europass.site:8080/live/arodriguez/rL28zyRGFz/26747.ts
 
