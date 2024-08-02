@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="6320ddef274b1b0007b2ee88" tvg-name="Gran Hermano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7mo9dnBnjZciNgpjzSVrqI6_WTIUZ4vjlA&usqp=CAU", Gran Hermano
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-chno="1" tvg-id="GHVIP" tvg-name="GH VIP" tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/4730f736-a52a-4d80-830a-08419996079a_alta-libre-aspect-ratio_default_0.jpg", GH VIP
-http://413994677292339256.of2100.xyz:80/live/vi424946/Y4UkXTVJkG/693489.ts
+#EXTINF:-1 tvg-chno="1" tvg-id="GHCL2" tvg-name="GH VIP" tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/4730f736-a52a-4d80-830a-08419996079a_alta-libre-aspect-ratio_default_0.jpg", GH Chile 2
+http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/246416.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-id="GHAR24" tvg-name="Gran Hermano 23/24" tvg-logo="https://www.infobae.com/new-resizer/T2swnKTeQ-20B8H-cJ4yrJIMu_4=/768x432/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RZLJ7XR7XND2RMD62JTFFTEJDE.jpg", Gran Hermano 23/24
 http://tvlatino.club:2082/live/Paco261123/YJ6WKGvUBy6L/341821.ts
@@ -16,7 +16,7 @@ http://fortv.cc:8080/GeS691/717013/110636
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181835
 
 #EXTINF:-1 tvg-chno="1" tvg-id="DSports.ar" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", DSports
-http://europass.site:8080/live/arodriguez/rL28zyRGFz/361903.ts
+http://vetvapp.lat:2082/live/aracelixgu/2463610170/285382.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-id=”ESPN.cl” tvg-name=”ESPN” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png", ESPN
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181842
@@ -43,7 +43,7 @@ http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/246560
 http://latinoamericatv.vip:8080/rositajuarez387543/negsoruyo17654378564/262728
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1280px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina
-http://553463265119363865.starxo.xyz:80/live/hu310511/bTs3dM9He3F/783411.ts
+http://vetvapp.lat:2082/live/aracelixgu/2463610170/321036.ts
 
 #EXTINF:-1 tvg-chno="2" tvg-id="5e82bb378601b80007b4bd78" tvg-name="The Walking Dead en Español" tvg-logo="https://nerdalertnews.net/wp-content/uploads/2020/05/TheWalkingDead_Espanol_Channel_1080x1080_Square-768x768.png", The Walking Dead en Español
 https://i.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
@@ -61,28 +61,28 @@ http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182207
 http://553463265119363865.starxo.xyz:80/live/hu310511/bTs3dM9He3F/321279.ts
 
 #EXTINF:-1 tvg-chno="2.5" tvg-id="foxspain.es" tvg-name="FOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png",FOX  HD
-http://413994677292339256.of2100.xyz:80/live/vi424946/Y4UkXTVJkG/321251.ts
+http://vetvapp.lat:2082/live/aracelixgu/2463610170/322153.ts
 
 #EXTINF:1 tvg-chno="2.9" tvg-id="Unitel.bo" tvg-name="Unitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg", Unitel
-http://proiptvdigic.com:8080/@fsec9345/c6z8XwHzJftR/551
+http://vetvapp.lat:2082/live/aracelixgu/2463610170/308408.ts
 
 #EXTINF:-1 tvg-chno="2.10" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png", Ecuavisa TV
-http://europass.site:8080/live/arodriguez/rL28zyRGFz/121619.ts
+http://vetvapp.lat:2082/live/aracelixgu/2463610170/305581.ts
 
 #EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú
-http://myfuturetv.com:8080/live/Mr.E2021/Florida/53733.ts
+http://vetvapp.lat:2082/live/aracelixgu/2463610170/285389.ts
 
 #EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes Perú HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú HD
-http://disfruta.net:80/live/puerto1724/ruz2AeZA2j/2902.ts
+http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/1053.ts
 
 #EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes Perú SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú SD
 http://tv.soccerplus.link:8000/live/Xde01/SaXde2267/92556.ts
 
 #EXTINF:-1 tvg-chno="3" tvg-id="SonyChannel.cl" tvg-name="Sony Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Sony_Channel_2023.png/revision/latest?cb=20230828233601&path-prefix=es", Sony Channel
-http://europass.site:8080/live/arodriguez/rL28zyRGFz/26747.ts
+http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/1638.ts
 
 #EXTINF:-1 tvg-chno="3" tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png", TLC
-http://europass.site:8080/live/arodriguez/rL28zyRGFz/177632.ts
+http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/1836.ts
 
 #EXTINF:-1 tvg-chno="3.1" tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
 http://fortv.cc:8080/GeS691/717013/164873
@@ -94,16 +94,16 @@ http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182201
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/245226
 
 #EXTINF:-1 tvg-chno="3.5" tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1280px-Antena_3_%282017%29.svg.png",Antena 3
-http://413994677292339256.of2100.xyz:80/live/vi424946/Y4UkXTVJkG/321105.ts
+http://vetvapp.lat:2082/live/aracelixgu/2463610170/322123.ts
 
 #EXTINF:-1 tvg-chno="3.7" tvg-id="Trece.py" tvg-name="Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png", Trece
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/246571
+http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/3025.ts
 
 #EXTINF:-1 tvg-chno="3.5" tvg-id="DAZN1Spain.es" tvg-name="DAZN 1" tvg-logo="http://s0lc.net:8080/imagenes/22083.jpg",DAZN 1
-http://413994677292339256.of2100.xyz:80/live/vi424946/Y4UkXTVJkG/228385.ts
+http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/2833.ts
 
 #EXTINF:-1 tvg-chno="3.4" tvg-id="WinSports.co" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png", Win Sports
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181736
+http://vetvapp.lat:2082/live/aracelixgu/2463610170/269438.ts
 
 #EXTINF:-1 tvg-chno="3.4" tvg-id="WinSportsMas.co" tvg-name="Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", Win Sports+
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181739
@@ -115,25 +115,25 @@ http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181747
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181752
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Telemundo" tvg-name="Telemundo California" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1280px-Telemundo_logo_2012.svg.png", Telemundo California
-http://europass.site:8080/live/arodriguez/rL28zyRGFz/156956.ts
+http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/23427.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Unimas" tvg-name="Unimas LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1921px-Logo_UniM%C3%A1s.svg.png", Unimas LA
-http://europass.site:8080/live/arodriguez/rL28zyRGFz/157041.ts
+http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/22980.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Universo" tvg-name="Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png", Universo
-http://europass.site:8080/live/arodriguez/rL28zyRGFz/335859.ts
+http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/35368.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Univisión" tvg-name="Univisión LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/2477px-Logo_Univision_2019.svg.png", Univisión LA
-http://europass.site:8080/live/arodriguez/rL28zyRGFz/157022.ts
+http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/23039.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="america television" tvg-name="América Televisión" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-580x348-1004092.jpg",América Televisión
-http://europass.site:8080/live/arodriguez/rL28zyRGFz/5275.ts
+http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/247.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Zombies" tvg-name="Anatomía de Grey" tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABboQ8Z_s4Yr4PYgj9TgCowY-F36GKn74J2QZy0iOnUBng6tEzyO2DJAT1-tkSe3lXKv8n_MpKgFop4Yut93jpPsY5zGw4yX2eEt2YcAfgI3y.png?r=ad7",Anatomía de Grey
 http://europass.site:8080/live/arodriguez/rL28zyRGFz/37927.ts
 
 #EXTINF:-1 tvg-chno="4.1" tvg-id="CronicaTV.ar" tvg-name="CRÓNICA" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINACRONICA.jpg",Crónica
-http://europass.site:8080/live/arodriguez/rL28zyRGFz/22108.ts
+http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/61563.ts
 
 #EXTINF:-1 tvg-chno="4.2" tvg-id="ForoTV.mx" tvg-name="Foro TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png", Foro TV HD
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182212
@@ -145,19 +145,19 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 http://fortv.cc:8080/GeS691/717013/78694
 
 #EXTINF:-1 tvg-chno="4.5" tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="http://streamgo.vip:8008/images/10cffa3578c870bf70fb51f8514d23a0.png", Cuatro
-http://413994677292339256.of2100.xyz:80/live/vi424946/Y4UkXTVJkG/321196.ts
+http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/321196.ts
 
 #EXTINF:-1 tvg-chno="4.5" tvg-id=”amcspain.es” tvg-name=”AMC España” tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png",AMC España
 http://liontv.es:80/live/Matias.cruz/Futbol.10/780995.ts
 
 #EXTINF:-1 tvg-chno="4.5" tvg-id=”amcspain.es” tvg-name=”AMC España” tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png",AMC España SD
-http://413994677292339256.of2100.xyz:80/live/vi424946/Y4UkXTVJkG/321102.ts
+http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/321102.ts
 
 #EXTINF:-1 tvg-chno="4.6" tvg-id="Canal4.uy" tvg-name="Canal 4 Uruguay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Canal_4_OFICIAL.png", Canal 4 Uruguay
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182191
 
 #EXTINF:-1 tvg-chno="4.10" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png", Teleamazonas
-http://europass.site:8080/live/arodriguez/rL28zyRGFz/121622.ts
+http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/881007.ts
 
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/698px-Panamericana-tv.svg.png", Panamericana TV
 http://fortv.cc:8080/GeS691/717013/110633
@@ -169,13 +169,13 @@ http://fortv.cc:8080/GeS691/717013/164876
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182213
 
 #EXTINF:-1 tvg-chno="5.4" tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1280px-Caracol_Televisi%C3%B3n_logo.svg.png", Caracol TV
-http://413994677292339256.of2100.xyz:80/live/vi424946/Y4UkXTVJkG/743915.ts
+http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/891209.ts
 
 #EXTINF:-1 tvg-chno="5.5" tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1280px-Telecinco.svg.png", Telecinco
-http://413994677292339256.of2100.xyz:80/live/vi424946/Y4UkXTVJkG/321429.ts
+http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/321429.ts
 
 #EXTINF:-1 tvg-chno="5.5" tvg-id="AXN.es" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png", AXN
-http://413994677292339256.of2100.xyz:80/live/vi424946/Y4UkXTVJkG/321118.ts
+http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/321118.ts
 
 #EXTINF:-1 tvg-chno="5.6" tvg-id="Canal5.uy" tvg-name="TNU" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_07/small.933539358_915sinttulo_20210722210858.png.f6a051fddf484ec873a5e7e6b435833f.png", TNU
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/245796
@@ -190,16 +190,16 @@ http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/74287
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182210
 
 #EXTINF:-1 tvg-chno="6.5" tvg-id="La6.es" tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LaSexta_HD_Logo_2016.png/1278px-LaSexta_HD_Logo_2016.png", La Sexta
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/198943
+http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/321288.ts
 
 #EXTINF:-1 tvg-chno="6.10" tvg-id="GolTv.ec" tvg-name="Gol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png", Gol TV
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181753
 
 #EXTINF:-1 tvg-chno="7" tvg-id="TVPeruNoticias.pe" tvg-name="TV Peru Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/640px-TV_Per%C3%BA_Noticias_-_2019_logo.png", TV Peru Noticias
-http://europass.site:8080/live/arodriguez/rL28zyRGFz/22172.ts
+http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/899372.ts
 
 #EXTINF:-1 tvg-chno="7.1" tvg-id="tvpublica.ar" tvg-name="Televisión Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/640px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",TV Pública
-http://latinoamericatv.vip:3334/live/Abelcasti49/9bnn6emp3vY5/81264.ts
+http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/807815.ts
 
 #EXTINF:-1 tvg-chno="7.2" tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png", Azteca 7
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182221
@@ -208,22 +208,22 @@ http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182221
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182163
 
 #EXTINF:-1 tvg-chno="7.5" tvg-id="24horas.es" tvg-name="24 Horas España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png", 24 Horas España
-http://new-tv.cloud:25461/Adriandiciembre/SvgAScjspJqF/186471
+http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/339730.ts
 
 #EXTINF:-1 tvg-chno="8" tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Canaln2006.png", Canal N
-http://europass.site:8080/live/arodriguez/rL28zyRGFz/31437.ts
+http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/899368.ts
 
 #EXTINF:-1 tvg-chno="8.1" tvg-id="GenTV.ar" tvg-name="Gen TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCEPEXrDcLQB8JPWOsQ9qlnYlsHrMch_MG-A&usqp=CAU", Gen TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 #EXTINF:-1 tvg-chno="8.1" tvg-id="StarChannel" tvg-name="Star Channel" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.ff2b9249f248fdc5784883a876e96d74.png", Star Channel
-http://daleplay.club:8080/live/usuariocanales188/8BenhWZQU557/147538.ts
+http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/806971.ts
 
 #EXTINF:-1 tvg-chno="8.2" tvg-id="NMasMTY.mx" tvg-name="N+ Monterrey" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_554688468.png", N+ Monterrey
 http://tvfullprime.site:8080/s4pq793s/8s46csb9/242903
 
 #EXTINF:-1 tvg-chno="8.3" tvg-id="ETC.cl" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png", ETC TV
-http://europass.site:8080/live/arodriguez/rL28zyRGFz/1027.ts
+http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/57264.ts
 
 #EXTINF:-1 tvg-chno="8.5" tvg-id="BoingSpain.es" tvg-name="Boing" tvg-logo="http://shacktv.com:8080/logos1/ESBOING.jpg",Boing
 http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/62.ts
@@ -250,28 +250,28 @@ http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182167
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/246550
 
 #EXTINF:-1 tvg-chno="9.9" tvg-id="ATB.bo" tvg-name="ATB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png", ATB
-https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOmGrAiERNbJHsjNunmfiGyLdUq0PkjVyXuhBr9gdrb_y)/dm/3/x84eirw/s/live-2.m3u8#cell=lnyc
+http://fastream.xyz:8080/live/48tapa86wu37ce59/47wuma84duwe57/69497.ts
 
 #EXTINF:-1 tvg-chno="10" tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-logo="http://panel.tured.live:80/images/e18e735852f9bd9f333d394050e22e0d.png",RPP TV
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/256947
+http://fastream.xyz:8080/live/48tapa86wu37ce59/47wuma84duwe57/295.ts
 
 #EXTINF:-1 tvg-chno="10" tvg-id="Canal Claro" tvg-name="Canal Claro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/CanalClaro.jpg/revision/latest/scale-to-width-down/220?cb=20210423175312&path-prefix=es", Canal Claro
 http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/92738.ts
 
 #EXTINF:-1 tvg-chno="10" tvg-id="History" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg", History
-http://latinoamericatv.vip:3334/live/Abelcasti49/9bnn6emp3vY5/156163.ts
+http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/431.ts
 
 #EXTINF:-1 tvg-chno="10" tvg-id="History2" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1984px-History2_logo_%282022%29.svg.png", History 2
-http://latinoamericatv.vip:3334/live/Abelcasti49/9bnn6emp3vY5/156162.ts
+http://vetvapp.lat:2082/live/aracelixgu/2463610170/322617.ts
 
 #EXTINF:-1 tvg-chno="10.1" tvg-id="ChilecitoTV.ar" tvg-name="Chilecito TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvCVELCa4VMTyZB2s-FerOi-ro_cDfxA165A&usqp=CAU", Chilecito TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 #EXTINF:-1 tvg-chno="10.10" tvg-id="TCTV.ec" tvg-name="TC Televisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/TC_Televisi%C3%B3n_new_logo_2020.png/revision/latest?cb=20201021171747&path-prefix=es", TC Televisión
-http://latinoamericatv.vip:3334/live/Abelcasti49/9bnn6emp3vY5/310.ts
+http://app.tecnomolly.com:8080/live/marlet/wQcehwvRVY42/67624.ts
 
 #EXTINF:-1 tvg-chno="10.6" tvg-id="Canal10.uy" tvg-name="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Canal_10_Uruguay_Logo_1960.webp", Canal 10
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/184539
+http://app.tecnomolly.com:8080/live/marlet/wQcehwvRVY42/278470.ts
 
 #EXTINF:-1 tvg-chno="10.7" tvg-id="ABCTV.py" tvg-name="ABC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQa_hZMEtpJ_Pt_5bMdTYkm3EJvK08P1lPg&usqp=CAU", ABC TV
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
@@ -280,7 +280,7 @@ https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/li
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/162675
 
 #EXTINF:-1 tvg-chno="11" tvg-id=”bescablesportsperu.pe” tvg-name=”BESTCABLE SPORTS“ tvg-logo=”https://yt3.googleusercontent.com/60R-uwtAbZOFS9uvtVx35hiaYIJnfG9RjSpVBTxovF7xXprnT0t4XXvEc7SZTrhItK622-NURQ=s900-c-k-c0x00ffffff-no-rj”, BESTCABLE SPORTS
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/194797
+http://app.tecnomolly.com:8080/live/marlet/wQcehwvRVY42/406750.ts
 
 #EXTINF:-1 tvg-chno="11.1" tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",Telefe
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/74292
@@ -295,10 +295,10 @@ http://fortv.cc:8080/GeS691/717013/164884
 http://hidra.live:80/nkzrgzmt/PNeedjRI/304264
 
 #EXTINF:-1 tvg-chno="11.5" tvg-id="MovistarSeries.es" tvg-name="Movistar Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/1024px-Series_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Series
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199044
+http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/2696.ts
 
 #EXTINF:-1 tvg-chno="11.9" tvg-id="RedUno.bo" tvg-name="Red Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/2560px-Uno_logo.svg.png", Red Uno
-http://svtv.xyz:8080/oscarar/2mS9d5C/67454
+http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/1099.ts
 
 #EXTINF:-1 tvg-chno="12" tvg-id="Liga 1 Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLdzxuEdG6ugwhhtB8pvhVWEW9cuyWjky02w&usqp=CAU", Liga 1 Max
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/162676
@@ -307,10 +307,10 @@ http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/162676
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="12.5" tvg-id="MovistarEstrenos2.es" tvg-name="Movistar Estrenos 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Estrenos 2
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/173665
+http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/2689.ts
 
 #EXTINF:-1 tvg-chno="12.6" tvg-id="Teledoce.uy" tvg-name="Teledoce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Teledoce_2022.png", Teledoce
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/184541
+http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/683.ts
 
 #EXTINF:-1 tvg-chno="13.5" tvg-id="MovistarSeries2.es" tvg-name="Movistar Series 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Series 2
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199047
