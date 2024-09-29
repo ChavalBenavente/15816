@@ -9,7 +9,7 @@ http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/246416
 #EXTINF:-1 tvg-chno="1" tvg-id="GHAR24" tvg-name="Gran Hermano 23/24" tvg-logo="https://www.infobae.com/new-resizer/T2swnKTeQ-20B8H-cJ4yrJIMu_4=/768x432/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RZLJ7XR7XND2RMD62JTFFTEJDE.jpg", Gran Hermano 23/24
 http://tvlatino.club:2082/live/Paco261123/YJ6WKGvUBy6L/341821.ts
 
-#EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/640px-Willax_Televisi%C3%B3n_2020.png", Willax TV
+#EXTINF:-1 tvg-chno="1" tvg-id="Willax.pe" tvg-name="Willax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/640px-Willax_Televisi%C3%B3n_2020.png", Willax TV
 http://fortv.cc:8080/GeS691/717013/110636
 
 #EXTINF:-1 tvg-chno="1" tvg-id="DSports.pe" tvg-name="Directv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/2560px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png", DirecTV Sports Perú
@@ -69,13 +69,13 @@ http://vetvapp.lat:2082/live/aracelixgu/2463610170/308408.ts
 #EXTINF:-1 tvg-chno="2.10" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png", Ecuavisa TV
 http://vetvapp.lat:2082/live/aracelixgu/2463610170/305581.ts
 
-#EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú
-http://vetvapp.lat:2082/live/aracelixgu/2463610170/285389.ts
+#EXTINF:-1 tvg-chno="3" tvg-id="M DEPORTES.pe" tvg-name="Movistar Deportes Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú
+http://totalplay.site:80/live/Cliente90090/Cliente90909/9466.ts
 
-#EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes Perú HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú HD
+#EXTINF:-1 tvg-chno="3" tvg-id="M DEPORTES.pe" tvg-name="Movistar Deportes Perú HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú HD
 http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/1053.ts
 
-#EXTINF:-1 tvg-chno="3" tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes Perú SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú SD
+#EXTINF:-1 tvg-chno="3" tvg-id="M DEPORTES.pe" tvg-name="Movistar Deportes Perú SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú SD
 http://tv.soccerplus.link:8000/live/Xde01/SaXde2267/92556.ts
 
 #EXTINF:-1 tvg-chno="3" tvg-id="SonyChannel.cl" tvg-name="Sony Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Sony_Channel_2023.png/revision/latest?cb=20230828233601&path-prefix=es", Sony Channel
@@ -126,7 +126,7 @@ http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/35368.
 #EXTINF:-1 tvg-chno="4" tvg-id="Univisión" tvg-name="Univisión LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/2477px-Logo_Univision_2019.svg.png", Univisión LA
 http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/23039.ts
 
-#EXTINF:-1 tvg-chno="4" tvg-id="america television" tvg-name="América Televisión" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-580x348-1004092.jpg",América Televisión
+#EXTINF:-1 tvg-chno="4" tvg-id="AMERICA TELEVISION.pe" tvg-name="América Televisión" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-580x348-1004092.jpg",América Televisión
 http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/247.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Zombies" tvg-name="Anatomía de Grey" tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABboQ8Z_s4Yr4PYgj9TgCowY-F36GKn74J2QZy0iOnUBng6tEzyO2DJAT1-tkSe3lXKv8n_MpKgFop4Yut93jpPsY5zGw4yX2eEt2YcAfgI3y.png?r=ad7",Anatomía de Grey
@@ -180,8 +180,8 @@ http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/321118.ts
 #EXTINF:-1 tvg-chno="5.6" tvg-id="Canal5.uy" tvg-name="TNU" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_07/small.933539358_915sinttulo_20210722210858.png.f6a051fddf484ec873a5e7e6b435833f.png", TNU
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/245796
 
-#EXTINF:-1 tvg-chno="6" tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8e%2FMovistar_Plus_%2528Peru%2529_-_2017_logo.png&w=1080&q=50", Movistar Plus
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181712
+#EXTINF:-1 tvg-chno="6" tvg-id="M PLUS.pe" tvg-name="Movistar Plus" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8e%2FMovistar_Plus_%2528Peru%2529_-_2017_logo.png&w=1080&q=50", Movistar Plus
+http://totalplay.site:80/live/Cliente90090/Cliente90909/9468.ts
 
 #EXTINF:-1 tvg-chno="6.1" tvg-id="LaNacionPlus.ar" tvg-name="LN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagOUGI6mYsjfV__VlNxoGT9WD-J-R_VJsryt7qGsrH3W194WLEudyK57rg27s27CpFuBU1U3jI21INplrlw35MRBg7HnoXg0JOwXPejr3x2Q_FyDgVOdDKs7MR40C_TDji7jomapCBybb7OH8D_wS4aDVYj1shi7lJ8DA8hWARu2iZg2sawkdcW7p/s544/LANACION-MAS.png", LN +
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/74287
@@ -210,8 +210,8 @@ http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182163
 #EXTINF:-1 tvg-chno="7.5" tvg-id="24horas.es" tvg-name="24 Horas España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png", 24 Horas España
 http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/339730.ts
 
-#EXTINF:-1 tvg-chno="8" tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Canaln2006.png", Canal N
-http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/899368.ts
+#EXTINF:-1 tvg-chno="8" tvg-id="CANAL N.pe" tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Canaln2006.png", Canal N
+http://totalplay.site:80/live/Cliente90090/Cliente90909/9491.ts
 
 #EXTINF:-1 tvg-chno="8.1" tvg-id="GenTV.ar" tvg-name="Gen TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCEPEXrDcLQB8JPWOsQ9qlnYlsHrMch_MG-A&usqp=CAU", Gen TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
@@ -327,7 +327,7 @@ http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182204
 #EXTINF:-1 tvg-chno="13.3" tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg/483px-Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg.png", Canal 13
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/198559
 
-#EXTINF:-1 tvg-chno="14" tvg-id="GOL PERU" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png",Gol Perú 
+#EXTINF:-1 tvg-chno="14" tvg-id="GOLPERU.pe" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png",Gol Perú 
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181755
 
 #EXTINF:-1 tvg-chno="14.7" tvg-id="TigoSports.py" tvg-name="Tigo Sports PY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-ly-lNBNvC7SE_hTnLawLBbyZuU5S0H_oQ&usqp=CAU", Tigo Sports PY
