@@ -1,25 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-id="6320ddef274b1b0007b2ee88" tvg-name="Gran Hermano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7mo9dnBnjZciNgpjzSVrqI6_WTIUZ4vjlA&usqp=CAU", Gran Hermano
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1" tvg-id="CNNChile.cl" tvg-name="CNN CHile" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7mo9dnBnjZciNgpjzSVrqI6_WTIUZ4vjlA&usqp=CAU", CNN Chile
+http://tv.nousiptv.com:8080/live/addiscabral/202210/1155843.ts
 
-#EXTINF:-1 tvg-chno="1" tvg-id="GHCL2" tvg-name="GH VIP" tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/4730f736-a52a-4d80-830a-08419996079a_alta-libre-aspect-ratio_default_0.jpg", GH Chile 2
-http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/246416.ts
+#EXTINF:-1 tvg-chno="1" tvg-id="DBS" tvg-name="DBSuper" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png", Dragon Ball Super
+http://tv.nousiptv.com:8080/live/addiscabral/202210/29406.ts
 
-#EXTINF:-1 tvg-chno="1" tvg-id="GHAR24" tvg-name="Gran Hermano 23/24" tvg-logo="https://www.infobae.com/new-resizer/T2swnKTeQ-20B8H-cJ4yrJIMu_4=/768x432/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RZLJ7XR7XND2RMD62JTFFTEJDE.jpg", Gran Hermano 23/24
+#EXTINF:-1 tvg-chno="1" tvg-id="M+ Originales" tvg-name="M+ Originales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/2560px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png", M+ Originales
 http://tvlatino.club:2082/live/Paco261123/YJ6WKGvUBy6L/341821.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-id="Willax.pe" tvg-name="Willax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/640px-Willax_Televisi%C3%B3n_2020.png", Willax TV
-http://fortv.cc:8080/GeS691/717013/110636
+http://tv.nousiptv.com:8080/live/addiscabral/202210/1085372.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-id="DSports.pe" tvg-name="Directv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/2560px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png", DirecTV Sports Perú
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181835
+http://tv.nousiptv.com:8080/live/addiscabral/202210/1091366.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-id="DSports.ar" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", DSports
-http://vetvapp.lat:2082/live/aracelixgu/2463610170/285382.ts
+http://tv.nousiptv.com:8080/live/addiscabral/202210/1091367.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-id=”ESPN.cl” tvg-name=”ESPN” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png", ESPN
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181842
+http://tv.nousiptv.com:8080/live/addiscabral/202210/1155888.ts
 
 #EXTINF:-1 tvg-chno="1.1" tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1803px-A24-logo.svg.png", A24
 http://daleplay.club:8080/live/usuariocanales188/8BenhWZQU557/81289.ts
@@ -31,43 +31,43 @@ http://daleplay.club:8080/live/usuariocanales188/8BenhWZQU557/63213.ts
 http://fortv.cc:8080/GeS691/717013/78698
 
 #EXTINF:-1 tvg-chno="1.5" tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png", La 1
-http://ultrapremium.cloud:8080/live/933161960/5216481/12455.ts
+http://tv.nousiptv.com:8080/live/addiscabral/202210/53894.ts
 
 #EXTINF:-1 tvg-chno="1.5" tvg-id="La1.es" tvg-name="La 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png", La 1 HD
 http://tv.nousiptv.com:8080/live/Gisella21/AB8935/53894.ts
 
 #EXTINF:-1 tvg-chno="1.7" tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSauR-jgrjlVzmLJ3eqAsLl23sQffQp2BoHkg&usqp=CAU", Unicanal
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/246560
+http://tv.nousiptv.com:8080/live/addiscabral/202210/7434.ts
 
 #EXTINF:-1 tvg-chno="1.9" tvg-id="Pat.bo" tvg-name="Pat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png", Pat TV
 http://latinoamericatv.vip:8080/rositajuarez387543/negsoruyo17654378564/262728
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1280px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina
-http://vetvapp.lat:2082/live/aracelixgu/2463610170/321036.ts
+http://tv.nousiptv.com:8080/live/addiscabral/202210/1087195.ts
 
 #EXTINF:-1 tvg-chno="2" tvg-id="5e82bb378601b80007b4bd78" tvg-name="The Walking Dead en Español" tvg-logo="https://nerdalertnews.net/wp-content/uploads/2020/05/TheWalkingDead_Espanol_Channel_1080x1080_Square-768x768.png", The Walking Dead en Español
 https://i.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png", Mega
-http://553463265119363865.starxo.xyz:80/live/hu310511/bTs3dM9He3F/554775.ts
+http://higherpro.xyz:8080/live/978733375tv/rhkkri/236509.ts
 
 #EXTINF:-1 tvg-chno="2.1" tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png",America TV
 http://fortv.cc:8080/GeS691/717013/164881
 
 #EXTINF:-1 tvg-chno="2.2" tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1280px-Las_Estrellas.svg.png", Las Estrellas HS
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182207
+http://higherpro.xyz:8080/live/978733375tv/rhkkri/632.ts
 
 #EXTINF:-1 tvg-chno="2.5" tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/2195px-Logo_TVE-2.svg.png", La 2
-http://553463265119363865.starxo.xyz:80/live/hu310511/bTs3dM9He3F/321279.ts
+http://app.tecnomolly.com:8080/live/Marianooo/K2N6kkuvkfDA/181379.ts
 
 #EXTINF:-1 tvg-chno="2.5" tvg-id="foxspain.es" tvg-name="FOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png",FOX  HD
-http://vetvapp.lat:2082/live/aracelixgu/2463610170/322153.ts
+http://tv.nousiptv.com:8080/live/addiscabral/202210/47696.ts
 
 #EXTINF:1 tvg-chno="2.9" tvg-id="Unitel.bo" tvg-name="Unitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg", Unitel
 http://vetvapp.lat:2082/live/aracelixgu/2463610170/308408.ts
 
 #EXTINF:-1 tvg-chno="2.10" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png", Ecuavisa TV
-http://vetvapp.lat:2082/live/aracelixgu/2463610170/305581.ts
+http://tv.nousiptv.com:8080/live/addiscabral/202210/53455.ts
 
 #EXTINF:-1 tvg-chno="3" tvg-id="M DEPORTES.pe" tvg-name="Movistar Deportes Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú
 http://totalplay.site:80/live/Cliente90090/Cliente90909/9466.ts
@@ -76,7 +76,7 @@ http://totalplay.site:80/live/Cliente90090/Cliente90909/9466.ts
 http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/1053.ts
 
 #EXTINF:-1 tvg-chno="3" tvg-id="M DEPORTES.pe" tvg-name="Movistar Deportes Perú SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/320px-Movistar_Deportes.svg.png", Movistar Deportes Perú SD
-http://tv.soccerplus.link:8000/live/Xde01/SaXde2267/92556.ts
+http://tv.nousiptv.com:8080/live/addiscabral/202210/1092642.ts
 
 #EXTINF:-1 tvg-chno="3" tvg-id="SonyChannel.cl" tvg-name="Sony Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Sony_Channel_2023.png/revision/latest?cb=20230828233601&path-prefix=es", Sony Channel
 http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/1638.ts
@@ -84,17 +84,20 @@ http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/1638.ts
 #EXTINF:-1 tvg-chno="3" tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png", TLC
 http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/1836.ts
 
+#EXTINF:-1 tvg-chno="3" tvg-id="TLC.mx" tvg-name="TLC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png", TLC SD
+http://tv.nousiptv.com:8080/live/addiscabral/202210/4074.ts
+
 #EXTINF:-1 tvg-chno="3.1" tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
 http://fortv.cc:8080/GeS691/717013/164873
 
 #EXTINF:-1 tvg-chno="3.2" tvg-id="ImagenTV.mx" tvg-name="Imagen TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", Imagen TV
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182201
+http://tv.nousiptv.com:8080/live/addiscabral/202210/1124600.ts
 
 #EXTINF:-1 tvg-chno="3.2" tvg-id="TUDN" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png", TUDN
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/245226
+http://tv.nousiptv.com:8080/live/addiscabral/202210/3962.ts
 
 #EXTINF:-1 tvg-chno="3.5" tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1280px-Antena_3_%282017%29.svg.png",Antena 3
-http://vetvapp.lat:2082/live/aracelixgu/2463610170/322123.ts
+http://tv.nousiptv.com:8080/live/addiscabral/202210/35494.ts
 
 #EXTINF:-1 tvg-chno="3.7" tvg-id="Trece.py" tvg-name="Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png", Trece
 http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/3025.ts
@@ -103,40 +106,40 @@ http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/3025.ts
 http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/2833.ts
 
 #EXTINF:-1 tvg-chno="3.4" tvg-id="WinSports.co" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png", Win Sports
-http://vetvapp.lat:2082/live/aracelixgu/2463610170/269438.ts
+http://tv.nousiptv.com:8080/live/addiscabral/202210/1155795.ts
 
 #EXTINF:-1 tvg-chno="3.4" tvg-id="WinSportsMas.co" tvg-name="Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", Win Sports+
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181739
+http://tv.nousiptv.com:8080/live/addiscabral/202210/16724.ts
 
 #EXTINF:-1 tvg-chno="3.11" tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TyC Sports
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181747
+http://tv.nousiptv.com:8080/live/addiscabral/202210/1155819.ts
 
 #EXTINF:-1 tvg-chno="3.10" tvg-id="ECDF.ec" tvg-name="El Canal del Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png", El Canal del Fútbol
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181752
+http://tv.nousiptv.com:8080/live/addiscabral/202210/1092640.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Telemundo" tvg-name="Telemundo California" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1280px-Telemundo_logo_2012.svg.png", Telemundo California
 http://app.tecnomolly.com:8080/live/4175/nWdMgDqYyC3E/173164.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Unimas" tvg-name="Unimas LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1921px-Logo_UniM%C3%A1s.svg.png", Unimas LA
-http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/22980.ts
+http://tv.nousiptv.com:8080/live/addiscabral/202210/18774.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Universo" tvg-name="Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png", Universo
-http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/35368.ts
+http://tv.nousiptv.com:8080/live/addiscabral/202210/1155803.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Univisión" tvg-name="Univisión LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/2477px-Logo_Univision_2019.svg.png", Univisión LA
-http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/23039.ts
+http://tv.nousiptv.com:8080/live/addiscabral/202210/18564.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="AMERICA TELEVISION.pe" tvg-name="América Televisión" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-580x348-1004092.jpg",América Televisión
-http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/247.ts
+http://tv.nousiptv.com:8080/live/addiscabral/202210/1087194.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Zombies" tvg-name="Anatomía de Grey" tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABboQ8Z_s4Yr4PYgj9TgCowY-F36GKn74J2QZy0iOnUBng6tEzyO2DJAT1-tkSe3lXKv8n_MpKgFop4Yut93jpPsY5zGw4yX2eEt2YcAfgI3y.png?r=ad7",Anatomía de Grey
 http://europass.site:8080/live/arodriguez/rL28zyRGFz/37927.ts
 
 #EXTINF:-1 tvg-chno="4.1" tvg-id="CronicaTV.ar" tvg-name="CRÓNICA" tvg-logo="http://shacktv.com:8080/logos1/ARGENTINACRONICA.jpg",Crónica
-http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/61563.ts
+http://tv.nousiptv.com:8080/live/addiscabral/202210/4188.ts
 
 #EXTINF:-1 tvg-chno="4.2" tvg-id="ForoTV.mx" tvg-name="Foro TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png", Foro TV HD
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182212
+http://tv.nousiptv.com:8080/live/addiscabral/202210/1155869.ts
 
 #EXTINF:-1 tvg-chno="4.3" tvg-id="lared.cl" tvg-name="La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1280px-La_Red_Logotipo_2021.svg.png", La Red
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
@@ -145,19 +148,19 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 http://fortv.cc:8080/GeS691/717013/78694
 
 #EXTINF:-1 tvg-chno="4.5" tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="http://streamgo.vip:8008/images/10cffa3578c870bf70fb51f8514d23a0.png", Cuatro
-http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/321196.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1114451.ts
 
 #EXTINF:-1 tvg-chno="4.5" tvg-id=”amcspain.es” tvg-name=”AMC España” tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png",AMC España
-http://liontv.es:80/live/Matias.cruz/Futbol.10/780995.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1114564.ts
 
 #EXTINF:-1 tvg-chno="4.5" tvg-id=”amcspain.es” tvg-name=”AMC España” tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png",AMC España SD
-http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/321102.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123186.ts
 
 #EXTINF:-1 tvg-chno="4.6" tvg-id="Canal4.uy" tvg-name="Canal 4 Uruguay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Canal_4_OFICIAL.png", Canal 4 Uruguay
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182191
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1155790.ts
 
 #EXTINF:-1 tvg-chno="4.10" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png", Teleamazonas
-http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/881007.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/65207.ts
 
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/698px-Panamericana-tv.svg.png", Panamericana TV
 http://fortv.cc:8080/GeS691/717013/110633
@@ -166,19 +169,22 @@ http://fortv.cc:8080/GeS691/717013/110633
 http://fortv.cc:8080/GeS691/717013/164876
 
 #EXTINF:-1 tvg-chno="5.2" tvg-id="Canal5.mx" tvg-name="Canal 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1280px-Canal_5_Mexico_logo_2014.svg.png", Canal 5 HD
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182213
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/81991.ts
 
 #EXTINF:-1 tvg-chno="5.4" tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1280px-Caracol_Televisi%C3%B3n_logo.svg.png", Caracol TV
-http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/891209.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1201707.ts
 
 #EXTINF:-1 tvg-chno="5.5" tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1280px-Telecinco.svg.png", Telecinco
-http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/321429.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123784.ts
 
 #EXTINF:-1 tvg-chno="5.5" tvg-id="AXN.es" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png", AXN
-http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/321118.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1114559.ts
+
+#EXTINF:-1 tvg-chno="5.5" tvg-id="AXN Movies" tvg-name="AXN Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg", AXN Movies
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1114563.ts
 
 #EXTINF:-1 tvg-chno="5.6" tvg-id="Canal5.uy" tvg-name="TNU" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_07/small.933539358_915sinttulo_20210722210858.png.f6a051fddf484ec873a5e7e6b435833f.png", TNU
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/245796
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1128514.ts
 
 #EXTINF:-1 tvg-chno="6" tvg-id="M PLUS.pe" tvg-name="Movistar Plus" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8e%2FMovistar_Plus_%2528Peru%2529_-_2017_logo.png&w=1080&q=50", Movistar Plus
 http://totalplay.site:80/live/Cliente90090/Cliente90909/9468.ts
@@ -187,28 +193,28 @@ http://totalplay.site:80/live/Cliente90090/Cliente90909/9468.ts
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/74287
 
 #EXTINF:-1 tvg-chno="6.2" tvg-id="SEIS +" tvg-name="Multimedios Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1461px-Multimedios_Canal_Seis_Logo.svg.png", Multimedios Television
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182210
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1130500.ts
 
 #EXTINF:-1 tvg-chno="6.5" tvg-id="La6.es" tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LaSexta_HD_Logo_2016.png/1278px-LaSexta_HD_Logo_2016.png", La Sexta
-http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/321288.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1300931.ts
 
 #EXTINF:-1 tvg-chno="6.10" tvg-id="GolTv.ec" tvg-name="Gol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png", Gol TV
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181753
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/46843.ts
 
 #EXTINF:-1 tvg-chno="7" tvg-id="TVPeruNoticias.pe" tvg-name="TV Peru Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/640px-TV_Per%C3%BA_Noticias_-_2019_logo.png", TV Peru Noticias
-http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/899372.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1324865.ts
 
 #EXTINF:-1 tvg-chno="7.1" tvg-id="tvpublica.ar" tvg-name="Televisión Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/640px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",TV Pública
-http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/807815.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/109928.ts
 
 #EXTINF:-1 tvg-chno="7.2" tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png", Azteca 7
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182221
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/81950.ts
 
 #EXTINF:-1 tvg-chno="7.3" tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg/1025px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg.png", TVN
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182163
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1121396.ts
 
 #EXTINF:-1 tvg-chno="7.5" tvg-id="24horas.es" tvg-name="24 Horas España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png", 24 Horas España
-http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/339730.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1300913.ts
 
 #EXTINF:-1 tvg-chno="8" tvg-id="CANAL N.pe" tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Canaln2006.png", Canal N
 http://totalplay.site:80/live/Cliente90090/Cliente90909/9491.ts
@@ -217,7 +223,7 @@ http://totalplay.site:80/live/Cliente90090/Cliente90909/9491.ts
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 #EXTINF:-1 tvg-chno="8.1" tvg-id="StarChannel" tvg-name="Star Channel" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.ff2b9249f248fdc5784883a876e96d74.png", Star Channel
-http://app.nicfix.xyz:80/live/me316764/5pfXFHfJHmur/806971.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1210667.ts
 
 #EXTINF:-1 tvg-chno="8.2" tvg-id="NMasMTY.mx" tvg-name="N+ Monterrey" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_554688468.png", N+ Monterrey
 http://tvfullprime.site:8080/s4pq793s/8s46csb9/242903
@@ -229,25 +235,25 @@ http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/57264.
 http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/62.ts
 
 #EXTINF:-1 tvg-chno="8.7" tvg-id="Telefuturo.py" tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TelefuturoLogo2022.png", Telefuturo
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/246558
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1117200.ts
 
 #EXTINF:-1 tvg-chno="8.8" tvg-id="VTV.ve" tvg-name="Venezolana de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/2560px-Venezolana_de_Televisi%C3%B3n_2018.svg.png", Venezolana de Televisión
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/171272
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1115088.ts
 
 #EXTINF:-1 tvg-chno="9" tvg-id="ATV.pe" tvg-name"ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ATV_%28Peru%29_-_2018_logo.png/640px-ATV_%28Peru%29_-_2018_logo.png", ATV
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/256925
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1194930.ts
 
 #EXTINF:-1 tvg-chno="9.1" tvg-id="Elnueve.ar" tvg-name="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png", El Nueve
-http://fortv.cc:8080/GeS691/717013/164869
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/109933.ts
 
 #EXTINF:-1 tvg-chno="9.2" tvg-id="ElNu9ve.mx" tvg-name="Nu9ve" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/21134978072561.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg", Nu9ve
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182185
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1310565.ts
 
 #EXTINF:-1 tvg-chno="9.3" tvg-id="Mega.cl" tvg-name="Mega Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logotipo_de_Mega_%282015-2020%29.svg/1038px-Logotipo_de_Mega_%282015-2020%29.svg.png", Mega Chile
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182167
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/22634.ts
 
 #EXTINF:-1 tvg-chno="9.7" tvg-id="C9N.py" tvg-name="C9N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png", C9N
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/246550
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/19515.ts
 
 #EXTINF:-1 tvg-chno="9.9" tvg-id="ATB.bo" tvg-name="ATB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png", ATB
 http://fastream.xyz:8080/live/48tapa86wu37ce59/47wuma84duwe57/69497.ts
@@ -256,10 +262,10 @@ http://fastream.xyz:8080/live/48tapa86wu37ce59/47wuma84duwe57/69497.ts
 http://fastream.xyz:8080/live/48tapa86wu37ce59/47wuma84duwe57/295.ts
 
 #EXTINF:-1 tvg-chno="10" tvg-id="Canal Claro" tvg-name="Canal Claro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/CanalClaro.jpg/revision/latest/scale-to-width-down/220?cb=20210423175312&path-prefix=es", Canal Claro
-http://81.30.157.12:8000/live/ErickSiliezarNoriega/7SQ58R9zsp/92738.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1391274.ts
 
 #EXTINF:-1 tvg-chno="10" tvg-id="History" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg", History
-http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/431.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1132380.ts
 
 #EXTINF:-1 tvg-chno="10" tvg-id="History2" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1984px-History2_logo_%282022%29.svg.png", History 2
 http://vetvapp.lat:2082/live/aracelixgu/2463610170/322617.ts
@@ -268,31 +274,31 @@ http://vetvapp.lat:2082/live/aracelixgu/2463610170/322617.ts
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 #EXTINF:-1 tvg-chno="10.10" tvg-id="TCTV.ec" tvg-name="TC Televisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/TC_Televisi%C3%B3n_new_logo_2020.png/revision/latest?cb=20201021171747&path-prefix=es", TC Televisión
-http://app.tecnomolly.com:8080/live/marlet/wQcehwvRVY42/67624.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/65209.ts
 
 #EXTINF:-1 tvg-chno="10.6" tvg-id="Canal10.uy" tvg-name="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Canal_10_Uruguay_Logo_1960.webp", Canal 10
-http://app.tecnomolly.com:8080/live/marlet/wQcehwvRVY42/278470.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1113116.ts
 
 #EXTINF:-1 tvg-chno="10.7" tvg-id="ABCTV.py" tvg-name="ABC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQa_hZMEtpJ_Pt_5bMdTYkm3EJvK08P1lPg&usqp=CAU", ABC TV
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-id="" tvg-name="Liga 1" tvg-logo="https://2.bp.blogspot.com/-porIDbBHAHA/XDUP54Z5qLI/AAAAAAABTqI/7RjjZrqvA_QJglZbN5rxa1avkNtTNZTlQCLcBGAs/s1600/Liga1Peru.png", Liga 1
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/162675
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1385350.ts
 
 #EXTINF:-1 tvg-chno="11" tvg-id=”bescablesportsperu.pe” tvg-name=”BESTCABLE SPORTS“ tvg-logo=”https://yt3.googleusercontent.com/60R-uwtAbZOFS9uvtVx35hiaYIJnfG9RjSpVBTxovF7xXprnT0t4XXvEc7SZTrhItK622-NURQ=s900-c-k-c0x00ffffff-no-rj”, BESTCABLE SPORTS
-http://app.tecnomolly.com:8080/live/marlet/wQcehwvRVY42/406750.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1194944.ts
 
 #EXTINF:-1 tvg-chno="11.1" tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",Telefe
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/74292
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/109931.ts
 
 #EXTINF:-1 tvg-chno="11.2" tvg-id="CanalOnce.mx" tvg-name="Canal Once" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_Canal_Once_M%C3%A9xico.svg/2560px-Logo_Canal_Once_M%C3%A9xico.svg.png", Canal Once
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182193
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/81988.ts
 
 #EXTINF:-1 tvg-chno="11.3" tvg-id="Chilevision.cl" tvg-name="Chilevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1024px-Chilevisi%C3%B3n_%282018-%29.png", Chilevision
 http://fortv.cc:8080/GeS691/717013/164884
 
 #EXTINF:-1 tvg-chno="11.4" tvg-id="SenalColombia.mx" tvg-name="Señal Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/2560px-Se%C3%B1al_Colombia_logo.svg.png", Señal Colombia
-http://hidra.live:80/nkzrgzmt/PNeedjRI/304264
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1595969.ts
 
 #EXTINF:-1 tvg-chno="11.5" tvg-id="MovistarSeries.es" tvg-name="Movistar Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/1024px-Series_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Series
 http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/2696.ts
@@ -313,334 +319,334 @@ http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/2689.ts
 http://leyendadigital.com.es:8080/live/mariblascox2/MEPUJ4HyG6/683.ts
 
 #EXTINF:-1 tvg-chno="13.5" tvg-id="MovistarSeries2.es" tvg-name="Movistar Series 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Series 2
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199047
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123791.ts
 
 #EXTINF:-1 tvg-id="GlobalTV.pe" tvg-chno="13" tvg-name="Global TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png", Global TV
-http://panel.tured.live:80/Hector123/Hector123/173213.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1194953.ts
 
 #EXTINF:-1 tvg-chno="13.1" tvg-id="El13.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", El Trece
-http://hplay.xyz:80/uywjdbyl/3zR04geeA7/43314
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/109942.ts
 
 #EXTINF:-1 tvg-chno="13.2" tvg-id="BITIME" tvg-name="Bitme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png", Bitme
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182204
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1310655.ts
 
 #EXTINF:-1 tvg-chno="13.3" tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg/483px-Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg.png", Canal 13
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/198559
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1121368.ts
 
 #EXTINF:-1 tvg-chno="14" tvg-id="GOLPERU.pe" tvg-name="Gol Perú" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png",Gol Perú 
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181755
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/22140.ts
 
 #EXTINF:-1 tvg-chno="14.7" tvg-id="TigoSports.py" tvg-name="Tigo Sports PY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-ly-lNBNvC7SE_hTnLawLBbyZuU5S0H_oQ&usqp=CAU", Tigo Sports PY
-http://svtv.xyz:8080/oscarar/2mS9d5C/55058
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1131129.ts
 
 #EXTINF:-1 tvg-chno="14.9" tvg-id="TigoSports.bo" tvg-name="Tigo Sports BO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcjE8cOH7hiqX1Zp9_UqNgLbtNLMikuPEKsw&usqp=CAU", Tigo Sports BO
-http://svtv.xyz:8080/oscarar/2mS9d5C/109041
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1131126.ts
 
 #EXTINF:-1 tvg-chno="14.10" tvg-id="Sportv.br" tvg-name="Sportv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/2560px-SporTV_2017_logo.svg.png", Sportv
-http://europass.site:8080/live/arodriguez/rL28zyRGFz/368481.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/16306.ts
 
 #EXTINF:-1 tvg-chno="15" tvg-id="ETC.cl" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png", ETC TV
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/182181
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1121403.ts
 
 #EXTINF:-1 tvg-chno="15.5" tvg-id="TNTSpain.es" tvg-name="TNT España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/768px-TNT_Logo_2016.svg.png", TNT España
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199049
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123753.ts
 
 #EXTINF:-1 tvg-chno="16" tvg-id="MovistarAccion.es" tvg-name="Movistar Acción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/1024px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Acción
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199015
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1114466.ts
 
 #EXTINF:-1 tvg-chno="17" tvg-id="calle13.es" tvg-name="Calle 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Calle_13_Universal.png",Calle 13
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199051
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1114554.ts
 
 #EXTINF:-1 tvg-chno="18" tvg-id="CosmopolitanTV.es" tvg-name="Cosmo" tvg-logo="http://nowresurface.eu:2086/images/0c437e9ba6ca7948362d4624b7bdc303.png",Cosmo
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/198959
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123737.ts
 
 #EXTINF:-1 tvg-chno="19" tvg-id=”amcspain.es” tvg-name=”AMC España” tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png",AMC España
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199068
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1301001.ts
 
 #EXTINF:-1 tvg-chno="19.5" tvg-id="MovistarCineEspañol.es" tvg-name="Movistar Cine Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg/1280px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg.png", Movistar Ñ
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199028
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1300983.ts
 
 #EXTINF:-1 tvg-chno="20" tvg-id="foxspain.es" tvg-name="FOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png",FOX  HD
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199061
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123719.ts
 
 #EXTINF:-1 tvg-chno="21" tvg-id="AXNWhite.us" tvg-name="AXN White" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png", AXN White
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199057
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1114563.ts
 
 #EXTINF:-1 tvg-chno="22.1" tvg-id="CineAr.ar" tvg-name="CineAr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/2560px-Cine.Ar_logo.svg.png", CineAr
-http://svtv.xyz:8080/oscarar/2mS9d5C/275897
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1321685.ts
 
 #EXTINF:-1 tvg-chno="22.5" tvg-id="SyFySpain.es" tvg-name="SyFy España" tvg-logo="https://static.mercadonegro.pe/wp-content/uploads/2017/07/27012714/syfy_2017_logo.png",SyFy España
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199058
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1301029.ts
 
 #EXTINF:-1 tvg-chno="24.2" tvg-id="AZCorazon.mx" tvg-name="Azteca Corazón" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.692624624_TVAztecaInternacionalCorazn.png.6837edce04314290090b044fa94a2a06.png", Azteca Corazón
-http://svtv.xyz:8080/oscarar/2mS9d5C/300841
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/81912.ts
 
 #EXTINF:-1 tvg-chno="24.5" tvg-id="ComedyCentralSpain.es" tvg-name="Comedy Central España" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Comedy-Central-Symbol.jpg", Comedy Central España
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199038
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1114489.ts
 
 #EXTINF:-1 tvg-chno="30" tvg-id="MovistarEstrenos.es" tvg-name="Movistar Estrenos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1280px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png", Movistar Estrenos HD
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199017
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1114463.ts
 
 #EXTINF:-1 tvg-chno="34" tvg-id="MovistarComedia.es" tvg-name="Movistar Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Comedia_por_Movistar_Plus%2B_2022_logo.svg/1280px-Comedia_por_Movistar_Plus%2B_2022_logo.svg.png", Movistar Comedia
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199035
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123766.ts
 
 #EXTINF:-1 tvg-chno="35" tvg-id="MovistarDrama.es" tvg-name="Movistar Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1280px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png", Movistar Drama
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199032
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123769.ts
 
 #EXTINF:-1 tvg-chno="37" tvg-id="CNNChile.cl" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/480px-Logo_cnnchile.png", CNN Chile
-http://proiptvdigic.com:8080/@fsec9345/c6z8XwHzJftR/513
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1596015.ts
 
 #EXTINF:-1 tvg-chno="38" tvg-id="TCMSpain.es" tvg-name="TCM Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1024px-TCM_logo.svg.png", TCM Spain
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199066
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1114483.ts
 
 #EXTINF:-1 tvg-chno="39" tvg-id="CanalHollywood.es" tvg-name="Hollywood" tvg-logo="http://castlempire.site:8080/images/d052c3b53c436f6846f409793b478c81.png", Canal Hollywood
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199024
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1300981.ts
 
 #EXTINF:-1 tvg-chno="40" tvg-id=”SundanceTVSpain.es” tvg-name=”Sundance TV” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/1280px-SundanceTV_2014.svg.png",Sundance TV
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/198964
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/28673.ts
 
 #EXTINF:-1 tvg-chno="41" tvg-id=”Dark.es” tvg-name=”Dark” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/5/5f/Dark_Teuve_2.png”,Dark
 http://europass.site:8080/live/arodriguez/rL28zyRGFz/117221.ts
 
 #EXTINF:-1 tvg-chno="43" tvg-id=”paramountchannelspain.es” tvg-name=”Paramount Network Esñaña” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Paramount_Network_logo.png",Paramount Network España
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/173737
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123752.ts
 
 #EXTINF:-1 tvg-chno="44" tvg-id="energy.es" tvg-name="Energy" tvg-logo="http://castlempire.site:8080/images/2084d1464eaf1aa13eb49c24743adb76.png",Energy
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/198950
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123741.ts
 
 #EXTINF:-1 tvg-chno="53" tvg-id="MovistarDeportes.es" tvg-name="Movistar Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1280px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png", Movistar Deportes España
-http://europass.site:8080/live/arodriguez/rL28zyRGFz/117139.ts
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123241.ts
 
 #EXTINF:-1 tvg-chno="54" tvg-id="Futv.cr" tvg-name="FuTV" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg", FuTV
-http://svtv.xyz:8080/oscarar/2mS9d5C/299237
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1133568.ts
 
 #EXTINF:-1 tvg-chno="63" tvg-id="gol.es" tvg-name="GOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/2560px-Gol.svg.png",Gol
-http://svtv.xyz:8080/oscarar/2mS9d5C/21984
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123226.ts
 
 #EXTINF:-1 tvg-chno="64" tvg-id="DAZN1Spain.es" tvg-name="DAZN 1" tvg-logo="http://s0lc.net:8080/imagenes/22083.jpg",DAZN 1
-http://svtv.xyz:8080/oscarar/2mS9d5C/351248
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1301136.ts
 
 #EXTINF:-1 tvg-chno="65" tvg-id="DAZN2Spain.es" tvg-name="DAZN 2" tvg-logo="http://s0lc.net:8080/imagenes/22084.jpg",DAZN 2
-http://svtv.xyz:8080/oscarar/2mS9d5C/278209
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1301138.ts
 
 #EXTINF:-1 tvg-chno="66" tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",EUROSPORT 1
-http://svtv.xyz:8080/oscarar/2mS9d5C/266751
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123820.ts
 
 #EXTINF:-1 tvg-chno="70" tvg-id="NationalGeographicSpain.es" tvg-name="National Geographic España" tvg-logo="https://play-lh.googleusercontent.com/s9hHKX02cVc5NKF4-O8bfy-SLefsjSzz9Ug_PgXhkMnY4E-wZXIbifrykDnEXv4HbpM",National Geographic España
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199120
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1301076.ts
 
 #EXTINF:-1 tvg-chno="71" tvg-id="NationalGeographicWildSpain.es" tvg-name="National Geographic Wild España" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJV5koTcK1Zq-F-3BCjM5OKQa8PKF4dQ9wy8g3uVtg=s900-c-k-c0x00ffffff-no-rj",NatGeo WILD España
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199125
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1301074.ts
 
 #EXTINF:-1 tvg-chno="73" tvg-id="DiscoveryChannelSpain.es" tvg-name="Discovery Channel España" tvg-logo="https://banner2.cleanpng.com/20180421/lxe/kisspng-discovery-channel-television-channel-discovery-hd-cooperative-signing-5adbecaa96a947.1777021915243624106171.jpg", Discovery Channel Spain
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199128
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123808.ts
 
 #EXTINF:-1 tvg-chno="78" tvg-id="AMC Crime" tvg-name="AMC Crime" tvg-logo="http://nowresurface.eu:2086/images/82354908d326d6b73c7b723c276ddefe.png",AMC Crime
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199131
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1301089.ts
 
 #EXTINF:-1 tvg-chno="80" tvg-id="Canal Cocina" tvg-name="AMC Cocina" tvg-logo="http://nowresurface.eu:2086/images/99281303f6eab9edf2ec9f7ffde1bbaa.png",AMC Cocina
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199133
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123698.ts
 
 #EXTINF:-1 tvg-chno="83" tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png", Mega
-http://pandorapremiumtv.com:43201/israel8137/KLdqvYWHa7/117172
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1301102.ts
 
 #EXTINF:-1 tvg-chno="84" tvg-id="Odisea.es" tvg-name="Odisea" tvg-logo="https://static.epg.best/es/Odisea.es.png",Odisea
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199138
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123715.ts
 
 #EXTINF:-1 tvg-chno="91" tvg-id="DisneyJuniorSpain.es" tvg-name="91" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Disney-Junior-logo.png", Disney Junior
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199152
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123215.ts
 
 #EXTINF:-1 tvg-chno="92" tvg-id="DisneyChannelSpain.es" tvg-name="92" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/2560px-DisneyChannelEMEA.svg.png", Disney Channel
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199149
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1114603.ts
 
 #EXTINF:-1 tvg-chno="93" tvg-id="NickJrSpain.es" tvg-name="93" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", Nick Jr
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199157
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1114614.ts
 
 #EXTINF:-1 tvg-chno="94" tvg-id="NickelodeonSpain.es" tvg-name="94" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png", Nickelodeon Spain
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199155
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123797.ts
 
 #EXTINF:-1 tvg-chno="95" tvg-id="DreamworksChannelSpain.es" tvg-name="Dreamworks TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamworks
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199161
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1300988.ts
 
 #EXTINF:-1 tvg-chno="98" tvg-id="Clan.es" tvg-name="Clan" tvg-logo="http://nowresurface.eu:2086/images/603c07e2735df19b9a7ce091d7453d2b.png", Clan
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/198953
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1301067.ts
 
 #EXTINF:-1 tvg-chno="99" tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png", DeporTV
-http://www.1play.cool:25461/4242505079/12b276f073cd/163695
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/22109.ts
 
 #EXTINF:-1 tvg-chno="106.5" tvg-id="MTV España" tvg-name="MTV España" tvg-logo="http://nowresurface.eu:2086/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png", MTV España
-http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/199186
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1123278.ts
 
 #EXTINF:-1 tvg-chno="102" tvg-id="TNTChile.cl" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/2048px-TNT_TV_logo.svg.png", TNT HD
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241179
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/81867.ts
 
 #EXTINF:-1 tvg-chno="106" tvg-id="WarnerChannelSouth.us" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", Warner TV
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241123
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1310644.ts
 
 #EXTINF:-1 tvg-chno="110" tvg-id="MovistarLaLiga.es" tvg-name="Movistar LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png", M+ LaLiga
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/257095
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1114823.ts
 
 #EXTINF:-1 tvg-chno="112" tvg-id="24horas.cl" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/24_Horas_TVN_logo.png", 24 Horas Chile
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/170094
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1121366.ts
 
 #EXTINF:-1 tvg-chno="124" tvg-id="TNTSports.ar" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png", TNT Sports
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/184466
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/50842.ts
 
 #EXTINF:-1 tvg-chno="135" tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png", HBO
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/172795
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1195412.ts
 
 #EXTINF:-1 tvg-chno="143" tvg-id="TelefeInternacional.es" tvg-name="Telefe Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png", Telefe Internacional
-http://pandorapremiumtv.com:43201/israel8137/KLdqvYWHa7/153865
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1115809.ts
 
 #EXTINF:-1 tvg-chno="184" tvg-id="VTV.uy" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png", VTV
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/184542
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/28088.ts
 
 #EXTINF:-1 tvg-chno="200" tvg-id="teledeporte.es" tvg-name="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png", Teledeporte
-http://svtv.xyz:8080/oscarar/2mS9d5C/55925
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1114870.ts
 
 #EXTINF:-1 tvg-chno="202" tvg-id="StarChannel.pe" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png, Star Channel
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241130
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1210667.ts
 
 #EXTINF:-1 tvg-chno="202" tvg-id="StarChannel" tvg-name="202" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png", 202
-http://svtv.xyz:8080/oscarar/2mS9d5C/299248
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/81791.ts
 
 #EXTINF:-1 tvg-chno="204" tvg-id="" tvg-name="Star Channel" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoClaro.png.56f8f5f48692ea77729dbfa92336c4ea.png", Star Channel
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/190724
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1787771.ts
 
 #EXTINF:-1 tvg-chno="207" tvg-id="AESouth.us" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png", A&E
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241159
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1310658.ts
 
 #EXTINF:-1 tvg-chno="208" tvg-id="Sony.pe" tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Sony Channel
-http://svtv.xyz:8080/oscarar/2mS9d5C/299247
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/81954.ts
 
 #EXTINF:-1 tvg-chno="209" tvg-id="AXN.ar" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png", AXN
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241160
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/103575.ts
 
 #EXTINF:-1 tvg-chno="210" tvg-id="AMC.ar" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/2560px-AMC_logo_2016.svg.png", AMC HD
-http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/77338
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/81863.ts
 
 #EXTINF:-1 tvg-chno="211" tvg-id="TVCDeportes.mx" tvg-name="TVC Deportes" tvg-logo="https://www.seekpng.com/png/full/297-2976535_deportes-tvc-deportes-2-logo.png", TVC Deportes
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/169909
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1165062.ts
 
 #EXTINF:-1 tvg-chno="213" tvg-id="TNTSeries.cl" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2560px-TNT_Serie_HD.svg.png", TNT Series
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241127
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1595882.ts
 
 #EXTINF:-1 tvg-chno="214" tvg-id="Atreseries.es" tvg-name="A3Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/2560px-Atreseries_2020_logo.svg.png", A3Series
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/173657
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1177487.ts
 
 #EXTINF:-1 tvg-chno="215" tvg-id="ComedyCentral.ar" tvg-name="Comedy Central FHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVJ24qKVwcS1fjXIn9y2zlstzyJaVffqai8hwe7X-k=s900-c-k-c0x00ffffff-no-rj", Comedy Central FHD
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/56341
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/81768.ts
 
 #EXTINF:-1 tvg-chno="217" tvg-id="FX.ar" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2560px-FX-logo.svg.png", FX
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241153
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1310613.ts
 
 #EXTINF:-1 tvg-chno="218" tvg-id="Universaltv.ar" tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/2560px-Universal_TV_logo.svg.png", Universal TV
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/204901
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1202269.ts
 
 #EXTINF:-1 tvg-chno="219" tvg-id="Syfy.ar" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png", Syfy
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/169828
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/81909.ts
 
 #EXTINF:-1 tvg-chno="222" tvg-id="EAndes.us" tvg-name="E! Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/632px-E%21_Logo.svg.png", E! Entertainment
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241152
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1204668.ts
 
 #EXTINF:-1 tvg-chno="223" tvg-id="InvestigationDiscoverySouth.us" tvg-name="Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png", Discovery Investigation
-http://svtv.xyz:8080/oscarar/2mS9d5C/299254
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/81918.ts
 
 #EXTINF:-1 tvg-chno="231" tvg-id="TELEMUNDO" tvg-name="Telemundo Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Telemundo_Internacional_Logo_(2018-presente).png/revision/latest/scale-to-width-down/1000?cb=20181101133212&path-prefix=es", Telemundo Internacional
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/170326
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1306655.ts
 
 #EXTINF:-1 tvg-chno="239" tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png", Fox Sports 2
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/170000
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/22097.ts
 
 #EXTINF:-1 tvg-chno="240" tvg-id="FoxSports3.cl" tvg-name="Fox Sports 3 Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/2560px-Fox_Sports_3_Argentina_2023.svg.png", Fox Sports 3
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/184457
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1131107.ts
 
 #EXTINF:-1 tvg-chno="241" tvg-id="FoxSports.ar" tvg-name="Fox Sports Argentina" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/small.1336428652_FOXSportsARG(2023-).png.4163d5ab2163e727a2e654780572557e.png", Fox Sports
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/169999
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1115228.ts
 
 #EXTINF:-1 tvg-chno="300" tvg-id="LaLigaTV Bar" tvg-name="LaLigaTV Bar" tvg-logo="https://futbar.com/logos/laliga_white_logo.png", LaLigaTV Bar
-http://svtv.xyz:8080/oscarar/2mS9d5C/31902
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1177597.ts
 
 #EXTINF:-1 tvg-chno="302" tvg-id="HBOFamily.ar" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Family HD
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241135
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/103613.ts
 
 #EXTINF:-1 tvg-chno="303" tvg-id="" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png", TLC
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/169851
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/81915.ts
 
 #EXTINF:-1 tvg-chno="304" tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png", Cartoon Network HD
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241167
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1214673.ts
 
 #EXTINF:-1 tvg-chno="308" tvg-id="NickelodeonSouth.us" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png", Nick
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/56388
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/103615.ts
 
 #EXTINF:-1 tvg-chno="312" tvg-id="DisneyChannel.ar" tvg-name="Disney Channel LAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/2560px-Disney_Channel_logo_%282014%29.svg.png", Disney Channel LAT
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/170065
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/81896.ts
 
 #EXTINF:-1 tvg-chno="330" tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png", Discovery Kids
-http://svtv.xyz:8080/oscarar/2mS9d5C/287962
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/103622.ts
 
 #EXTINF:-1 tvg-chno="414" tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png", Animal Planet
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/170998
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/81917.ts
 
 #EXTINF:-1 tvg-chno="500" tvg-id="SkyLaliga.es" tvg-name="SkySports LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png", SkySports LaLiga
-http://svtv.xyz:8080/oscarar/2mS9d5C/293983
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1660624.ts
 
 #EXTINF:-1 tvg-chno="501" tvg-id="TUDN" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png", TUDN
-http://cineplay.vip:8080/Chirinox/pB3vWDnbuw/81777
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1310534.ts
 
 #EXTINF:-1 tvg-chno="509" tvg-id="Cinemax.ar" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png", Cinemax
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/190689
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1202008.ts
 
 #EXTINF:-1 tvg-chno="510" tvg-id="ParamountNetworkPanregional.us" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/2560px-Paramount_Pictures_Corporation_logo.svg.png", Paramount
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/56366
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/81977.ts
 
 #EXTINF:-1 tvg-chno="511" tvg-id="HBOLat.us" tvg-name="HBO Latino" tvg-logo="https://i.imgur.com/0nkBOB1_d.webp?maxwidth=1520&fidelity=grand", HBO Latino
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241134
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1403730.ts
 
 #EXTINF:-1 tvg-chno="512" tvg-id="HBO2Lat.us" tvg-name="HBO 2 Latino" tvg-logo="https://i.imgur.com/WYKZtpi_d.webp?maxwidth=1520&fidelity=grand", HBO 2 Latino
-http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/77055
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1210662.ts
 
 #EXTINF:-1 tvg-chno="513" tvg-id="DHE.us" tvg-name="DHE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png", DHE
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241170
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/103631.ts
 
 #EXTINF:-1 tvg-chno="518" tvg-id="SpacePanregional.us" tvg-name="Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png", Space
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241189
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1595839.ts
 
 #EXTINF:-1 tvg-chno="542" tvg-id="CNNEspañol.mx" tvg-name="CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/2560px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png", CNN en Español
-http://svtv.xyz:8080/oscarar/2mS9d5C/31077
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/81970.ts
 
 #EXTINF:-1 tvg-chno="610" tvg-id="DSports.pe" tvg-name="Directv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/2560px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png", DirecTV Sports Perú
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/255631
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1194934.ts
 
 #EXTINF:-1 tvg-chno="612" tvg-id="Dsports2.ar" tvg-name="Directv Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/640px-DirecTV_Sports_2_Latin_America_%282018%29.png", Directv Sports 2 ARG
-http://svtv.xyz:8080/oscarar/2mS9d5C/192358
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1194935.ts
 
 #EXTINF:-1 tvg-chno="613" tvg-id="Dsportsplus.cl" tvg-name="Directv Sports +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png", Directv Sports +
-http://pandorapremiumtv.com:43201/israel8137/KLdqvYWHa7/4674
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1131117.ts
 
 #EXTINF:-1 tvg-chno="604" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png", ESPN Premium
-http://www.1play.cool:25461/4242505079/12b276f073cd/78448
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1471339.ts
 
 #EXTINF:-1 tvg-chno="621" tvg-id=”ESPN.ar” tvg-name=”ESPN Argentina” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png", ESPN Argentina
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241157
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1471346.ts
 
 #EXTINF:-1 tvg-chno="622" tvg-id="ESPN2.ar" tvg-name="ESPN 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241177
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1194938.ts
 
 #EXTINF:-1 tvg-chno="624" tvg-id="ESPNExtra.ar" tvg-name="ESPN Extra" tvg-logo="https://i.imgur.com/4VrK2WA.jpg" group-title="Deportes",ESPN Extra South
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241176
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1203435.ts
 
 #EXTINF:-1 tvg-chno="623" tvg-id="ESPN3.ar" tvg-name="ESPN 3 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/2560px-ESPN3_logo.svg.png", ESPN 3
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241147
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1471338.ts
 
 #EXTINF:-1 tvg-chno="624" tvg-id="ESPN4.ar" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241178
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1595964.ts
 
 #EXTINF:-1 tvg-chno="629" tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TyC Sports
-http://proiptvdigic.com:8080/@fsec9345/c6z8XwHzJftR/267
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/22077.ts
 
 #EXTINF:-1 tvg-chno="631" tvg-id="TNTChile.cl" tvg-name="631" tvg-logo="https://i.ibb.co/0j4Kj2n/Picsart-23-03-05-17-49-37-742.png", 631
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/170103
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1596016.ts
 
 #EXTINF:-1 tvg-chno="633" tvg-id="WinSports.co" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png", Win Sports
 http://tvfullprime.site:8080/s4pq793s/8s46csb9/170191
@@ -649,16 +655,16 @@ http://tvfullprime.site:8080/s4pq793s/8s46csb9/170191
 http://proiptvdigic.com:8080/@fsec9345/c6z8XwHzJftR/197668
 
 #EXTINF:-1 tvg-chno="650" tvg-id="BeInSportsÑ.ar" tvg-name="BeIn Sports Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png", BeIn Sports Ñ
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/181230
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1403534.ts
 
 #EXTINF:-1 tvg-chno="661" tvg-id="VTVPlus.uy" tvg-name="VTV Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png", VTV Plus
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/184545
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/36760.ts
 
 #EXTINF:-1 tvg-chno="714" tvg-id="Golperu.pe" tvg-name="Gol Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg", Gol Peru
-http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/10137
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/1131123.ts
 
 #EXTINF:-1 tvg-chno="714" tvg-id="" tvg-name="Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg", Gol Perú
-http://tvfullprime.site:8080/s4pq793s/8s46csb9/241139
+http://billigaskall.ga:8080/live/melby7752/q9nb56nm1a/19570.ts
 
 #EXTINF::-1 tvg-chno="732" tvg-id="DiscoveryChannel.pe" tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png", Discovery Channel
 http://svtv.xyz:8080/oscarar/2mS9d5C/296566
