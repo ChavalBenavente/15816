@@ -115,7 +115,7 @@ http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181747
 http://tv.boxdigital.org:8080/Rube123/LyFJBUs429yY/181752
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Telemundo" tvg-name="Telemundo California" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1280px-Telemundo_logo_2012.svg.png", Telemundo California
-http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/23427.ts
+http://app.tecnomolly.com:8080/live/4175/nWdMgDqYyC3E/173164.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Unimas" tvg-name="Unimas LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1921px-Logo_UniM%C3%A1s.svg.png", Unimas LA
 http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/22980.ts
