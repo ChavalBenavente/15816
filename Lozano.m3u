@@ -1,25 +1,28 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-id="CNNChile.cl" tvg-name="CNN CHile" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7mo9dnBnjZciNgpjzSVrqI6_WTIUZ4vjlA&usqp=CAU", CNN Chile
-http://tv.nousiptv.com:8080/live/addiscabral/202210/1155843.ts
+http://tv.nousiptv.com:8080/live/gloriavillanueva/927343/1155843.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-id="DBS" tvg-name="DBSuper" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png", Dragon Ball Super
-http://tv.nousiptv.com:8080/live/addiscabral/202210/29406.ts
+http://tv.nousiptv.com:8080/live/gloriavillanueva/927343/29406.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-id="M+ Originales" tvg-name="M+ Originales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/2560px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png", M+ Originales
-http://tvlatino.club:2082/live/Paco261123/YJ6WKGvUBy6L/341821.ts
+http://tv.nousiptv.com:8080/live/gloriavillanueva/927343/1156036.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-id="Willax.pe" tvg-name="Willax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/640px-Willax_Televisi%C3%B3n_2020.png", Willax TV
-http://tv.nousiptv.com:8080/live/addiscabral/202210/1085372.ts
+http://tv.nousiptv.com:8080/live/gloriavillanueva/927343/1085372.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-id="DSports.pe" tvg-name="Directv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/2560px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png", DirecTV Sports Perú
-http://tv.nousiptv.com:8080/live/addiscabral/202210/1091366.ts
+http://tv.nousiptv.com:8080/live/gloriavillanueva/927343/7863.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-id="DSports.ar" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", DSports
-http://tv.nousiptv.com:8080/live/addiscabral/202210/1091367.ts
+http://tvhomesmart.xyz:8080/live/eumoran605878/605878eumoran/479.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-id=”ESPN.cl” tvg-name=”ESPN” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png", ESPN
-http://tv.nousiptv.com:8080/live/addiscabral/202210/1155888.ts
+http://tvhomesmart.xyz:8080/live/eumoran605878/605878eumoran/501.ts
+
+#EXTINF:-1 tvg-chno="1" tvg-id=”ESPN.ar” tvg-name=”ESPN Arg” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png", ESPN Arg
+http://cineflex.cc:8080/live/Edgar1234/Edgar1234/273604.ts
 
 #EXTINF:-1 tvg-chno="1.1" tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1803px-A24-logo.svg.png", A24
 http://daleplay.club:8080/live/usuariocanales188/8BenhWZQU557/81289.ts
@@ -31,31 +34,31 @@ http://daleplay.club:8080/live/usuariocanales188/8BenhWZQU557/63213.ts
 http://fortv.cc:8080/GeS691/717013/78698
 
 #EXTINF:-1 tvg-chno="1.5" tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png", La 1
-http://tv.nousiptv.com:8080/live/addiscabral/202210/53894.ts
+http://tvhomesmart.xyz:8080/live/eumoran605878/605878eumoran/12455.ts
 
 #EXTINF:-1 tvg-chno="1.5" tvg-id="La1.es" tvg-name="La 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png", La 1 HD
-http://tv.nousiptv.com:8080/live/Gisella21/AB8935/53894.ts
+http://tv.nousiptv.com:8080/live/gloriavillanueva/927343/53894.ts
 
 #EXTINF:-1 tvg-chno="1.7" tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSauR-jgrjlVzmLJ3eqAsLl23sQffQp2BoHkg&usqp=CAU", Unicanal
-http://tv.nousiptv.com:8080/live/addiscabral/202210/7434.ts
+http://tv.nousiptv.com:8080/live/gloriavillanueva/927343/7434.ts
 
 #EXTINF:-1 tvg-chno="1.9" tvg-id="Pat.bo" tvg-name="Pat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png", Pat TV
 http://latinoamericatv.vip:8080/rositajuarez387543/negsoruyo17654378564/262728
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1280px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina
-http://tv.nousiptv.com:8080/live/addiscabral/202210/1087195.ts
+http://tv.nousiptv.com:8080/live/gloriavillanueva/927343/1087195.ts
 
 #EXTINF:-1 tvg-chno="2" tvg-id="5e82bb378601b80007b4bd78" tvg-name="The Walking Dead en Español" tvg-logo="https://nerdalertnews.net/wp-content/uploads/2020/05/TheWalkingDead_Espanol_Channel_1080x1080_Square-768x768.png", The Walking Dead en Español
 https://i.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png", Mega
-http://higherpro.xyz:8080/live/978733375tv/rhkkri/236509.ts
+http://tv.nousiptv.com:8080/live/gloriavillanueva/927343/1156019.ts
 
 #EXTINF:-1 tvg-chno="2.1" tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png",America TV
 http://fortv.cc:8080/GeS691/717013/164881
 
 #EXTINF:-1 tvg-chno="2.2" tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1280px-Las_Estrellas.svg.png", Las Estrellas HS
-http://higherpro.xyz:8080/live/978733375tv/rhkkri/632.ts
+http://tv.nousiptv.com:8080/live/gloriavillanueva/927343/4030.ts
 
 #EXTINF:-1 tvg-chno="2.5" tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/2195px-Logo_TVE-2.svg.png", La 2
 http://app.tecnomolly.com:8080/live/Marianooo/K2N6kkuvkfDA/181379.ts
